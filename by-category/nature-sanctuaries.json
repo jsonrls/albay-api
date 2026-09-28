@@ -1,0 +1,787 @@
+{
+  "province": "Albay",
+  "category": "nature-sanctuaries",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 25,
+  "places": [
+    {
+      "id": "7185df5302b71df5",
+      "googleFeatureId": "11txk14fn9",
+      "slug": "9rock-garden",
+      "name": "9Rock Garden",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Beaches & Islands"
+      ],
+      "primaryType": "Ecological park",
+      "locality": "Daraga, Albay",
+      "lgus": [
+        "Daraga",
+        "Camalig",
+        "Guinobatan"
+      ],
+      "address": "PUROK 3",
+      "coordinates": {
+        "lat": 13.1593403,
+        "lng": 123.7255504
+      },
+      "rating": 4,
+      "reviewsCount": 12,
+      "hours": "Open · Closes 12 AM",
+      "googleMapsUrl": "https://www.google.com/maps/place/9Rock+Garden/data=!4m7!3m6!1s0x33a101dfda9ede73:0x7185df5302b71df5!8m2!3d13.1593403!4d123.7255504!16s%2Fg%2F11txk14fn9!19sChIJc96e2t8BoTMR9R23AlPfhXE"
+    },
+    {
+      "id": "cd03c7072815c879",
+      "googleFeatureId": "11gw2",
+      "slug": "babatngun-point",
+      "name": "Babatngun Point",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Rapu-Rapu, Albay",
+      "lgus": [
+        "Rapu-Rapu"
+      ],
+      "plusCode": "6345+V5Q",
+      "coordinates": {
+        "lat": 13.2072161,
+        "lng": 124.0579947
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Babatngun+Point/data=!4m7!3m6!1s0x33a059144217df47:0xcd03c7072815c879!8m2!3d13.2072161!4d124.0579947!16s%2Fg%2F11gw2_77g8!19sChIJR98XQhRZoDMRecgVKAfHA80"
+    },
+    {
+      "id": "ae11ff5da30248b6",
+      "googleFeatureId": "11pv4wgmc7",
+      "slug": "batag-falls",
+      "name": "Batag Falls",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Malinao, Albay",
+      "lgus": [
+        "Malinao"
+      ],
+      "plusCode": "9HFR+5Q",
+      "coordinates": {
+        "lat": 13.372918,
+        "lng": 123.591997
+      },
+      "rating": 5,
+      "reviewsCount": 5,
+      "googleMapsUrl": "https://www.google.com/maps/place/Batag+Falls/data=!4m7!3m6!1s0x33a1a5a6154ea2c1:0xae11ff5da30248b6!8m2!3d13.372918!4d123.591997!16s%2Fg%2F11pv4wgmc7!19sChIJwaJOFaaloTMRtkgCo13_Ea4"
+    },
+    {
+      "id": "c69012a6bb1388f",
+      "googleFeatureId": "11kk7pd48",
+      "slug": "biga-biga-mini-falls",
+      "name": "Biga-Biga Mini-Falls",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Malinao"
+      ],
+      "plusCode": "9H4R+WHG",
+      "coordinates": {
+        "lat": 13.3573188,
+        "lng": 123.5914566
+      },
+      "rating": 4.3,
+      "reviewsCount": 3,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Biga-Biga+Mini-Falls/data=!4m7!3m6!1s0x33a1a57d69665119:0xc69012a6bb1388f!8m2!3d13.3573188!4d123.5914566!16s%2Fg%2F11kk7pd48_!19sChIJGVFmaX2loTMRjzixayoBaQw"
+    },
+    {
+      "id": "ef03f80821d5f151",
+      "googleFeatureId": "11x77l6cqz",
+      "slug": "binaklayan-river-and-falls",
+      "name": "Binaklayan river and falls",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Swimming lake",
+      "locality": "Polangui, Albay",
+      "lgus": [
+        "Polangui"
+      ],
+      "coordinates": {
+        "lat": 13.3618766,
+        "lng": 123.4937119
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Binaklayan+river+and+falls/data=!4m7!3m6!1s0x33a1a3001c075447:0xef03f80821d5f151!8m2!3d13.3618766!4d123.4937119!16s%2Fg%2F11x77l6cqz!19sChIJR1QHHACjoTMRUfHVIQj4A-8"
+    },
+    {
+      "id": "643329c838785c44",
+      "googleFeatureId": "11bw7qzt4r",
+      "slug": "bolinao-creek",
+      "name": "Bolinao Creek",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "River",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Polangui"
+      ],
+      "coordinates": {
+        "lat": 13.2264805,
+        "lng": 123.5233467
+      },
+      "rating": 3,
+      "reviewsCount": 4,
+      "googleMapsUrl": "https://www.google.com/maps/place/Bolinao+Creek/data=!4m7!3m6!1s0x33a10a28dad5bba7:0x643329c838785c44!8m2!3d13.2264805!4d123.5233467!16s%2Fg%2F11bw7qzt4r!19sChIJp7vV2igKoTMRRFx4OMgpM2Q"
+    },
+    {
+      "id": "37c4d92e774677c1",
+      "googleFeatureId": "11w33q27zr",
+      "slug": "borlagdan-beach-sugod-tiwi",
+      "name": "Borlagdan Beach-Sugod Tiwi",
+      "categories": [
+        "beaches",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Swimming lake",
+      "locality": "Tiwi, Albay",
+      "lgus": [
+        "Tiwi"
+      ],
+      "address": "Purok 1",
+      "coordinates": {
+        "lat": 13.4817885,
+        "lng": 123.6533443
+      },
+      "rating": 4.5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Borlagdan+Beach-Sugod+Tiwi/data=!4m7!3m6!1s0x33a0cf003d22f3d1:0x37c4d92e774677c1!8m2!3d13.4817885!4d123.6533443!16s%2Fg%2F11w33q27zr!19sChIJ0fMiPQDPoDMRwXdGdy7ZxDc"
+    },
+    {
+      "id": "3cf0e9e2316a3858",
+      "googleFeatureId": "11c6yz7",
+      "slug": "hoyop-hoyopan-cave",
+      "name": "Hoyop-hoyopan Cave",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Cave",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Polangui"
+      ],
+      "address": "\"Each corner reveals unique rock formations that spark curiosity and wonder.\"",
+      "coordinates": {
+        "lat": 13.1210539,
+        "lng": 123.6556152
+      },
+      "rating": 4.6,
+      "reviewsCount": 65,
+      "editorialBlurb": "Cave network with bats & rock formations",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hoyop-hoyopan+Cave/data=!4m7!3m6!1s0x33a105a99e89a9d9:0x3cf0e9e2316a3858!8m2!3d13.1210539!4d123.6556152!16s%2Fg%2F11c6yz7_7g!19sChIJ2amJnqkFoTMRWDhqMeLp8Dw"
+    },
+    {
+      "id": "9acad0b4bd4324b4",
+      "googleFeatureId": "12lrysns0",
+      "slug": "kapuntukan",
+      "name": "Kapuntukan",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "hiking-and-camping",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Jovellanos, Albay",
+      "lgus": [
+        "Jovellanos",
+        "Legazpi City",
+        "Ligao City",
+        "Jovellar",
+        "Malinao",
+        "Polangui"
+      ],
+      "coordinates": {
+        "lat": 13.1427895,
+        "lng": 123.7599785
+      },
+      "rating": 4.8,
+      "reviewsCount": 5,
+      "editorialBlurb": "\"With superb background of the almost perfect cone volcano.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Kapuntukan/data=!4m7!3m6!1s0x33a10229d39db107:0x9acad0b4bd4324b4!8m2!3d13.1427895!4d123.7599785!16s%2Fg%2F12lrysns0!19sChIJB7Gd0ykCoTMRtCRDvbTQypo"
+    },
+    {
+      "id": "a308fa836bdef8b5",
+      "googleFeatureId": "12hnfy7s9",
+      "slug": "kawa-kawa-hill",
+      "name": "Kawa Kawa Hill",
+      "categories": [
+        "resorts",
+        "nature-sanctuaries",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "coordinates": {
+        "lat": 13.2260225,
+        "lng": 123.5546708
+      },
+      "rating": 4.6,
+      "reviewsCount": 163,
+      "editorialBlurb": "Quiet hill with religious statues",
+      "googleMapsUrl": "https://www.google.com/maps/place/Kawa+Kawa+Hill/data=!4m7!3m6!1s0x33a109bc8abbfb87:0xa308fa836bdef8b5!8m2!3d13.2260225!4d123.5546708!16s%2Fg%2F12hnfy7s9!19sChIJh_u7irwJoTMRtfjea4P6CKM"
+    },
+    {
+      "id": "e6767e9ff5e477ef",
+      "googleFeatureId": "11gf00y24l",
+      "slug": "kc-land-park",
+      "name": "KC LAND Park",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Ecological park",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Malilipot"
+      ],
+      "coordinates": {
+        "lat": 13.3366319,
+        "lng": 123.7198912
+      },
+      "rating": 3.9,
+      "reviewsCount": 74,
+      "hours": "Open · Closes 6:30 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/KC+LAND+Park/data=!4m7!3m6!1s0x33a1ac3ae1c05983:0xe6767e9ff5e477ef!8m2!3d13.3366319!4d123.7198912!16s%2Fg%2F11gf00y24l!19sChIJg1nA4TqsoTMR73fk9Z9-duY"
+    },
+    {
+      "id": "b147a0699833c67a",
+      "googleFeatureId": "1tcy1vcg",
+      "slug": "lig-on-hill",
+      "name": "Ligñon Hill",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "hiking-and-camping",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping",
+        "Resorts"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Legazpi City",
+        "Camalig",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.1605556,
+        "lng": 123.7291667
+      },
+      "rating": 4.5,
+      "reviewsCount": 63,
+      "editorialBlurb": "Foliage-covered hill with volcano views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Lig%C3%B1on+Hill/data=!4m7!3m6!1s0x33a101427ca15797:0xb147a0699833c67a!8m2!3d13.1605556!4d123.7291667!16s%2Fg%2F1tcy1vcg!19sChIJl1ehfEIBoTMResYzmGmgR7E"
+    },
+    {
+      "id": "694ceb4ae87b4d07",
+      "googleFeatureId": "11vrzl",
+      "slug": "manito-mangrove-eco-park",
+      "name": "Manito Mangrove Eco Park",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Beaches & Islands"
+      ],
+      "primaryType": "Ecological park",
+      "locality": "Manito, Albay",
+      "lgus": [
+        "Manito"
+      ],
+      "plusCode": "4VH7+8PP",
+      "coordinates": {
+        "lat": 13.1283429,
+        "lng": 123.8643335
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Manito+Mangrove+Eco+Park/data=!4m7!3m6!1s0x33a0ff001aff474f:0x694ceb4ae87b4d07!8m2!3d13.1283429!4d123.8643335!16s%2Fg%2F11vrzl_m28!19sChIJT0f_GgD_oDMRB0176ErrTGk"
+    },
+    {
+      "id": "8d6bf4297b7634fe",
+      "googleFeatureId": "11mrbnvrvx",
+      "slug": "manito-mangrove-reserve",
+      "name": "Manito Mangrove Reserve",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Manito, Albay",
+      "lgus": [
+        "Manito"
+      ],
+      "address": "Bicol 640",
+      "plusCode": "4VM9+C36",
+      "coordinates": {
+        "lat": 13.1335295,
+        "lng": 123.8676399
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Manito+Mangrove+Reserve/data=!4m7!3m6!1s0x33a0fea395555555:0x8d6bf4297b7634fe!8m2!3d13.1335295!4d123.8676399!16s%2Fg%2F11mrbnvrvx!19sChIJVVVVlaP-oDMR_jR2eyn0a40"
+    },
+    {
+      "id": "dff71d3eddd0ea0d",
+      "slug": "mayon-volcano",
+      "name": "Mayon Volcano",
+      "categories": [
+        "beaches",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Volcano",
+      "locality": "Santo Domingo, Albay",
+      "lgus": [
+        "Santo Domingo"
+      ],
+      "coordinates": {
+        "lat": 13.254832,
+        "lng": 123.6861124
+      },
+      "rating": 4.6,
+      "reviewsCount": 1399,
+      "editorialBlurb": "Active volcano in a national park",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mayon+Volcano/data=!4m7!3m6!1s0x33a1a9954fa1731f:0xdff71d3eddd0ea0d!8m2!3d13.254832!4d123.6861124!16zL20vMDFtMDdk!19sChIJH3OhT5WpoTMRDerQ3T4d998"
+    },
+    {
+      "id": "f791c2208e2e4cce",
+      "googleFeatureId": "1tg",
+      "slug": "misibis-bay-resort",
+      "name": "Misibis Bay Resort",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "nature-sanctuaries",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Nature Reserves & Sanctuaries",
+        "Private Resorts"
+      ],
+      "primaryType": "5-star hotel",
+      "starTier": "5-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Guinobatan",
+        "Tanauan",
+        "Ligao City",
+        "Tabaco City",
+        "Daraga",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Manito",
+        "Oas",
+        "Pio Duran",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tupas",
+        "Jovellar",
+        "Malilipot",
+        "Tiwi"
+      ],
+      "address": "Posh beachfront hotel with 3 pools",
+      "coordinates": {
+        "lat": 13.2380411,
+        "lng": 123.908856
+      },
+      "rating": 4.4,
+      "reviewsCount": 1229,
+      "priceHint": "₱5,375",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Free parking",
+        "Free Wi-Fi",
+        "Beach access",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"Looking for affordable and breathtaking scenery?\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Misibis+Bay+Resort/data=!4m10!3m9!1s0x33a053efffffffff:0xf791c2208e2e4cce!5m2!4m1!1i2!8m2!3d13.2380411!4d123.908856!16s%2Fg%2F1tg_clcg!19sChIJ_____-9ToDMRzkwujiDCkfc"
+    },
+    {
+      "id": "b996aa8f95c6a83d",
+      "googleFeatureId": "11bbw",
+      "slug": "mount-bulakawan-reserve",
+      "name": "Mount Bulakawan Reserve",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "plusCode": "8P4G+6MC",
+      "coordinates": {
+        "lat": 13.3055511,
+        "lng": 123.7266253
+      },
+      "rating": 5,
+      "reviewsCount": 11,
+      "hours": "Open now · place of",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mount+Bulakawan+Reserve/data=!4m7!3m6!1s0x33a1abf579b1636d:0xb996aa8f95c6a83d!8m2!3d13.3055511!4d123.7266253!16s%2Fg%2F11bbw_tgzm!19sChIJbWOxefWroTMRPajGlY-qlrk"
+    },
+    {
+      "id": "61dfe71313e9f498",
+      "googleFeatureId": "1q5bnc",
+      "slug": "mount-malinao-nature-preserve",
+      "name": "Mount Malinao Nature Preserve",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Malinao, Albay",
+      "lgus": [
+        "Malinao"
+      ],
+      "coordinates": {
+        "lat": 13.3877635,
+        "lng": 123.5951925
+      },
+      "rating": 4.6,
+      "reviewsCount": 79,
+      "hours": "Open · Closes 7 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mount+Malinao+Nature+Preserve/data=!4m7!3m6!1s0x33a1b000a38d2bbf:0x61dfe71313e9f498!8m2!3d13.3877635!4d123.5951925!16s%2Fg%2F1q5bnc_d0!19sChIJvyuNowCwoTMRmPTpExPn32E"
+    },
+    {
+      "id": "c5a68bccad703da1",
+      "slug": "mount-masaraga",
+      "name": "Mount Masaraga",
+      "categories": [
+        "beaches",
+        "nature-sanctuaries",
+        "hiking-and-camping",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping",
+        "Resorts"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Camalig",
+        "Oas",
+        "Polangui",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.3061176,
+        "lng": 123.5920273
+      },
+      "rating": 4.5,
+      "reviewsCount": 17,
+      "editorialBlurb": "Green volcano with hiking paths & views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mount+Masaraga/data=!4m7!3m6!1s0x33a1a641ac9322e5:0xc5a68bccad703da1!8m2!3d13.3061176!4d123.5920273!16s%2Fm%2F05220gb!19sChIJ5SKTrEGmoTMRoT1wrcyLpsU"
+    },
+    {
+      "id": "f28574752c0aedb3",
+      "slug": "mt-malinao",
+      "name": "Mt. Malinao",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Volcano",
+      "locality": "Malinao, Albay",
+      "lgus": [
+        "Malinao"
+      ],
+      "coordinates": {
+        "lat": 13.4147511,
+        "lng": 123.605032
+      },
+      "rating": 4.4,
+      "reviewsCount": 17,
+      "editorialBlurb": "Volcanic peak with scenic hiking trails",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mt.+Malinao/data=!4m7!3m6!1s0x33a1bab038b02e91:0xf28574752c0aedb3!8m2!3d13.4147511!4d123.605032!16s%2Fm%2F05c42pn!19sChIJkS6wOLC6oTMRs-0KLHV0hfI"
+    },
+    {
+      "id": "544045f08a23a91",
+      "googleFeatureId": "11gxmtnl70",
+      "slug": "nagsusum-river-falls",
+      "name": "Nagsusum River falls",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "River port",
+      "locality": "Polangui, Albay",
+      "lgus": [
+        "Polangui"
+      ],
+      "plusCode": "8785+93W",
+      "coordinates": {
+        "lat": 13.3159866,
+        "lng": 123.2577043
+      },
+      "rating": 4.8,
+      "reviewsCount": 21,
+      "googleMapsUrl": "https://www.google.com/maps/place/Nagsusum+River+falls/data=!4m7!3m6!1s0x33a1833b493a8dd1:0x544045f08a23a91!8m2!3d13.3159866!4d123.2577043!16s%2Fg%2F11gxmtnl70!19sChIJ0Y06STuDoTMRkTqiCF8ERAU"
+    },
+    {
+      "id": "95ccbebf2eae171a",
+      "googleFeatureId": "1ptxyp3tl",
+      "slug": "sumlang-lake",
+      "name": "Sumlang Lake",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Lake",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig"
+      ],
+      "coordinates": {
+        "lat": 13.179335,
+        "lng": 123.6716801
+      },
+      "rating": 4.5,
+      "reviewsCount": 256,
+      "editorialBlurb": "\"Has a lot of outdoor activities with cafe and souvenir shop\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Sumlang+Lake/data=!4m7!3m6!1s0x33a106f2e4e8a851:0x95ccbebf2eae171a!8m2!3d13.179335!4d123.6716801!16s%2Fg%2F1ptxyp3tl!19sChIJUajo5PIGoTMRGheuLr--zJU"
+    },
+    {
+      "id": "2333d228fb8e39c6",
+      "googleFeatureId": "11c1vn82pr",
+      "slug": "sumlang-lake",
+      "name": "Sumlang Lake",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Ecological park",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Tupas",
+        "Polangui"
+      ],
+      "plusCode": "5MHC+HJH",
+      "coordinates": {
+        "lat": 13.1789453,
+        "lng": 123.6716128
+      },
+      "rating": 4.4,
+      "reviewsCount": 860,
+      "hours": "Open · Closes 6 PM",
+      "editorialBlurb": "Mountain views, boat rentals & picnics",
+      "googleMapsUrl": "https://www.google.com/maps/place/Sumlang+Lake/data=!4m7!3m6!1s0x33a106f25e94cef9:0x2333d228fb8e39c6!8m2!3d13.1789453!4d123.6716128!16s%2Fg%2F11c1vn82pr!19sChIJ-c6UXvIGoTMRxjmO-yjSMyM"
+    },
+    {
+      "id": "66e7f1d606dd8757",
+      "googleFeatureId": "11h6v301ys",
+      "slug": "the-campsite-ligao",
+      "name": "The Campsite Ligao",
+      "categories": [
+        "resorts",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Tupas, Albay",
+      "lgus": [
+        "Tupas"
+      ],
+      "address": "Sabluyon Rd",
+      "plusCode": "8J25+7J2",
+      "coordinates": {
+        "lat": 13.3006485,
+        "lng": 123.6090157
+      },
+      "rating": 4.7,
+      "reviewsCount": 32,
+      "editorialBlurb": "\"Great view though, maybe good for day trips / basic camping only.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Campsite+Ligao/data=!4m7!3m6!1s0x33a1a756e315277d:0x66e7f1d606dd8757!8m2!3d13.3006485!4d123.6090157!16s%2Fg%2F11h6v301ys!19sChIJfScV41anoTMRV4fdBtbx52Y"
+    },
+    {
+      "id": "1483c52fc26159d",
+      "googleFeatureId": "11y2dy7x78",
+      "slug": "tiwi-mangrove-forest",
+      "name": "Tiwi Mangrove Forest",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries"
+      ],
+      "primaryType": "Nature preserve",
+      "locality": "Tiwi, Albay",
+      "lgus": [
+        "Tiwi"
+      ],
+      "plusCode": "FM4Q+54",
+      "coordinates": {
+        "lat": 13.4554877,
+        "lng": 123.6878301
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "hours": "Open now · tourist attraction",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tiwi+Mangrove+Forest/data=!4m7!3m6!1s0x33a1b1002d30c9e1:0x1483c52fc26159d!8m2!3d13.4554877!4d123.6878301!16s%2Fg%2F11y2dy7x78!19sChIJ4ckwLQCxoTMRnRUm_FI8SAE"
+    }
+  ]
+}

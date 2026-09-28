@@ -1,0 +1,825 @@
+{
+  "province": "Albay",
+  "category": "hiking-and-camping",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 26,
+  "places": [
+    {
+      "id": "190782a38e72b2ec",
+      "googleFeatureId": "11zg4xvtnr",
+      "slug": "bar-1-waterfalls",
+      "name": "Bar 1 Waterfalls",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Guinobatan",
+        "Jovellanos",
+        "Libon",
+        "Polangui"
+      ],
+      "plusCode": "FH4W+3PG",
+      "coordinates": {
+        "lat": 13.4551951,
+        "lng": 123.5968308
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Bar+1+Waterfalls/data=!4m7!3m6!1s0x33a1bb000f7cc707:0x190782a38e72b2ec!8m2!3d13.4551951!4d123.5968308!16s%2Fg%2F11zg4xvtnr!19sChIJB8d8DwC7oTMR7LJyjqOCBxk"
+    },
+    {
+      "id": "29803abb8165c4cd",
+      "googleFeatureId": "11s94lb5bj",
+      "slug": "batalla-spring-resort",
+      "name": "Batalla Spring Resort",
+      "categories": [
+        "resorts",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Guinobatan",
+        "Libon",
+        "Malinao",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu"
+      ],
+      "plusCode": "8JRJ+J44",
+      "coordinates": {
+        "lat": 13.3415143,
+        "lng": 123.6303212
+      },
+      "rating": 5,
+      "reviewsCount": 6,
+      "googleMapsUrl": "https://www.google.com/maps/place/Batalla+Spring+Resort/data=!4m7!3m6!1s0x33a1afe457d11475:0x29803abb8165c4cd!8m2!3d13.3415143!4d123.6303212!16s%2Fg%2F11s94lb5bj!19sChIJdRTRV-SvoTMRzcRlgbs6gCk"
+    },
+    {
+      "id": "2e0859f6c7394dbe",
+      "googleFeatureId": "11s469kmd4",
+      "slug": "binanderahan-hill",
+      "name": "Binanderahan Hill",
+      "categories": [
+        "beaches",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Pio Duran, Albay",
+      "lgus": [
+        "Pio Duran"
+      ],
+      "plusCode": "3CGP+V39",
+      "coordinates": {
+        "lat": 13.0771511,
+        "lng": 123.4352485
+      },
+      "rating": 3.5,
+      "reviewsCount": 2,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Binanderahan+Hill/data=!4m7!3m6!1s0x33a16d5057996b17:0x2e0859f6c7394dbe!8m2!3d13.0771511!4d123.4352485!16s%2Fg%2F11s469kmd4!19sChIJF2uZV1BtoTMRvk05x_ZZCC4"
+    },
+    {
+      "id": "c2f119d59a689015",
+      "googleFeatureId": "11mptcxgwl",
+      "slug": "bino-s-farmville",
+      "name": "Bino's Farmville",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "address": "Aguinaldo Street",
+      "coordinates": {
+        "lat": 13.3008968,
+        "lng": 123.7602095
+      },
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Bino%27s+Farmville/data=!4m7!3m6!1s0x33a1abc555c267fb:0xc2f119d59a689015!8m2!3d13.3008968!4d123.7602095!16s%2Fg%2F11mptcxgwl!19sChIJ-2fCVcWroTMRFZBomtUZ8cI"
+    },
+    {
+      "id": "a9425071ce0cf316",
+      "googleFeatureId": "11r3wv4zl7",
+      "slug": "buhawi-hills-eco-trek-adventure",
+      "name": "Buhawi Hills Eco-Trek Adventure",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Pio Duran, Albay",
+      "lgus": [
+        "Pio Duran",
+        "Tupas"
+      ],
+      "plusCode": "3CMJ+6C6",
+      "coordinates": {
+        "lat": 13.0830464,
+        "lng": 123.4310076
+      },
+      "rating": 5,
+      "reviewsCount": 22,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Buhawi+Hills+Eco-Trek+Adventure/data=!4m7!3m6!1s0x33a16deb8f16c787:0xa9425071ce0cf316!8m2!3d13.0830464!4d123.4310076!16s%2Fg%2F11r3wv4zl7!19sChIJh8cWj-ttoTMRFvMMznFQQqk"
+    },
+    {
+      "id": "8234bafbafa5922f",
+      "googleFeatureId": "11s1w3p5rw",
+      "slug": "cabinscape-albay",
+      "name": "Cabinscape - Albay",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping",
+        "staycations",
+        "resorts",
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping",
+        "Staycations",
+        "Resorts",
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Tabaco City",
+        "Jovellanos",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Malinao",
+        "Oas",
+        "Santo Domingo",
+        "Tiwi"
+      ],
+      "coordinates": {
+        "lat": 13.3244375,
+        "lng": 123.7334375
+      },
+      "rating": 4.8,
+      "reviewsCount": 16,
+      "priceHint": "₱3,520",
+      "editorialBlurb": "\"Affordable, clean and a must",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cabinscape+-+Albay/data=!4m10!3m9!1s0x33a1ad45b46a8267:0x8234bafbafa5922f!5m2!4m1!1i2!8m2!3d13.3244375!4d123.7334375!16s%2Fg%2F11s1w3p5rw!19sChIJZ4JqtEWtoTMRL5Klr_u6NII"
+    },
+    {
+      "id": "2dae0cd59f25db26",
+      "googleFeatureId": "11kjq534pn",
+      "slug": "camp-iraya-woodside",
+      "name": "Camp Iraya Woodside",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "plusCode": "8PFJ+9QM",
+      "coordinates": {
+        "lat": 13.3234501,
+        "lng": 123.7319293
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Camp+Iraya+Woodside/data=!4m7!3m6!1s0x33a1ade007118b17:0x2dae0cd59f25db26!8m2!3d13.3234501!4d123.7319293!16s%2Fg%2F11kjq534pn!19sChIJF4sRB-CtoTMRJtsln9UMri0"
+    },
+    {
+      "id": "3b1bc596ba430c2e",
+      "googleFeatureId": "11l6b9cf2w",
+      "slug": "clutario-beach-w-cottage",
+      "name": "Clutario Beach w/ Cottage",
+      "categories": [
+        "beaches",
+        "hiking-and-camping",
+        "staycations",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hiking & Camping",
+        "Staycations",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Tiwi, Albay",
+      "lgus": [
+        "Tiwi"
+      ],
+      "plusCode": "FJMQ+X32",
+      "coordinates": {
+        "lat": 13.4848973,
+        "lng": 123.6376394
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "editorialBlurb": "\"Not to mention there is a boat ride that you could book to a water fall.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Clutario+Beach+w%2F+Cottage/data=!4m7!3m6!1s0x33a1b7097873fbcb:0x3b1bc596ba430c2e!8m2!3d13.4848973!4d123.6376394!16s%2Fg%2F11l6b9cf2w!19sChIJy_tzeAm3oTMRLgxDupbFGzs"
+    },
+    {
+      "id": "d21727a072e1f0f9",
+      "googleFeatureId": "11swn9vx4g",
+      "slug": "cotmon-view-deck",
+      "name": "Cotmon View deck",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Polangui, Albay",
+      "lgus": [
+        "Polangui"
+      ],
+      "plusCode": "8HP6+F4F",
+      "coordinates": {
+        "lat": 13.3361866,
+        "lng": 123.5603045
+      },
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cotmon+View+deck/data=!4m7!3m6!1s0x33a1a5199222a963:0xd21727a072e1f0f9!8m2!3d13.3361866!4d123.5603045!16s%2Fg%2F11swn9vx4g!19sChIJY6kikhmloTMR-fDhcqAnF9I"
+    },
+    {
+      "id": "fd1157ee625dcdb5",
+      "googleFeatureId": "11mx35j143",
+      "slug": "harvey-s-sandbar",
+      "name": "Harvey's Sandbar",
+      "categories": [
+        "beaches",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Pio Duran, Albay",
+      "lgus": [
+        "Pio Duran"
+      ],
+      "address": "Purok 3 Sitio Cagbatano",
+      "coordinates": {
+        "lat": 13.0002472,
+        "lng": 123.4665503
+      },
+      "rating": 5,
+      "reviewsCount": 5,
+      "googleMapsUrl": "https://www.google.com/maps/place/Harvey%27s+Sandbar/data=!4m7!3m6!1s0x33a1151694931039:0xfd1157ee625dcdb5!8m2!3d13.0002472!4d123.4665503!16s%2Fg%2F11mx35j143!19sChIJORCTlBYVoTMRtc1dYu5XEf0"
+    },
+    {
+      "id": "c890d501a073bc80",
+      "googleFeatureId": "11sc76x596",
+      "slug": "jodel-s-paradise",
+      "name": "Jodel’s Paradise",
+      "categories": [
+        "hotels",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Jovellar",
+        "Libon",
+        "Oas",
+        "Pio Duran"
+      ],
+      "coordinates": {
+        "lat": 13.0132501,
+        "lng": 123.3339766
+      },
+      "rating": 4,
+      "reviewsCount": 1,
+      "priceHint": "₱1,485",
+      "googleMapsUrl": "https://www.google.com/maps/place/Jodel%E2%80%99s+Paradise/data=!4m10!3m9!1s0x33a1690e6963312f:0xc890d501a073bc80!5m2!4m1!1i2!8m2!3d13.0132501!4d123.3339766!16s%2Fg%2F11sc76x596!19sChIJLzFjaQ5poTMRgLxzoAHVkMg"
+    },
+    {
+      "id": "28bae4802ef04a84",
+      "googleFeatureId": "11z39zj39g",
+      "slug": "jovellar",
+      "name": "Jovellar",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Jovellar, Albay",
+      "lgus": [
+        "Jovellar"
+      ],
+      "plusCode": "3H5M+PHH",
+      "coordinates": {
+        "lat": 13.0593209,
+        "lng": 123.5839983
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Jovellar/data=!4m7!3m6!1s0x33a1110024fafb15:0x28bae4802ef04a84!8m2!3d13.0593209!4d123.5839983!16s%2Fg%2F11z39zj39g!19sChIJFfv6JAARoTMRhErwLoDkuig"
+    },
+    {
+      "id": "9acad0b4bd4324b4",
+      "googleFeatureId": "12lrysns0",
+      "slug": "kapuntukan",
+      "name": "Kapuntukan",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "hiking-and-camping",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Jovellanos, Albay",
+      "lgus": [
+        "Jovellanos",
+        "Legazpi City",
+        "Ligao City",
+        "Jovellar",
+        "Malinao",
+        "Polangui"
+      ],
+      "coordinates": {
+        "lat": 13.1427895,
+        "lng": 123.7599785
+      },
+      "rating": 4.8,
+      "reviewsCount": 5,
+      "editorialBlurb": "\"With superb background of the almost perfect cone volcano.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Kapuntukan/data=!4m7!3m6!1s0x33a10229d39db107:0x9acad0b4bd4324b4!8m2!3d13.1427895!4d123.7599785!16s%2Fg%2F12lrysns0!19sChIJB7Gd0ykCoTMRtCRDvbTQypo"
+    },
+    {
+      "id": "a308fa836bdef8b5",
+      "googleFeatureId": "12hnfy7s9",
+      "slug": "kawa-kawa-hill",
+      "name": "Kawa Kawa Hill",
+      "categories": [
+        "resorts",
+        "nature-sanctuaries",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "coordinates": {
+        "lat": 13.2260225,
+        "lng": 123.5546708
+      },
+      "rating": 4.6,
+      "reviewsCount": 163,
+      "editorialBlurb": "Quiet hill with religious statues",
+      "googleMapsUrl": "https://www.google.com/maps/place/Kawa+Kawa+Hill/data=!4m7!3m6!1s0x33a109bc8abbfb87:0xa308fa836bdef8b5!8m2!3d13.2260225!4d123.5546708!16s%2Fg%2F12hnfy7s9!19sChIJh_u7irwJoTMRtfjea4P6CKM"
+    },
+    {
+      "id": "db8d5655f7e392a0",
+      "googleFeatureId": "11zfsq8mzq",
+      "slug": "lamba-hill-view-point",
+      "name": "Lamba Hill View Point",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Libon"
+      ],
+      "plusCode": "4QCG+R6",
+      "coordinates": {
+        "lat": 13.1220362,
+        "lng": 123.7755189
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "editorialBlurb": "\"Beautiful and breathtaking.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Lamba+Hill+View+Point/data=!4m7!3m6!1s0x33a103000f92730d:0xdb8d5655f7e392a0!8m2!3d13.1220362!4d123.7755189!16s%2Fg%2F11zfsq8mzq!19sChIJDXOSDwADoTMRoJLj91VWjds"
+    },
+    {
+      "id": "b147a0699833c67a",
+      "googleFeatureId": "1tcy1vcg",
+      "slug": "lig-on-hill",
+      "name": "Ligñon Hill",
+      "categories": [
+        "tourist-attractions",
+        "nature-sanctuaries",
+        "hiking-and-camping",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping",
+        "Resorts"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Legazpi City",
+        "Camalig",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.1605556,
+        "lng": 123.7291667
+      },
+      "rating": 4.5,
+      "reviewsCount": 63,
+      "editorialBlurb": "Foliage-covered hill with volcano views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Lig%C3%B1on+Hill/data=!4m7!3m6!1s0x33a101427ca15797:0xb147a0699833c67a!8m2!3d13.1605556!4d123.7291667!16s%2Fg%2F1tcy1vcg!19sChIJl1ehfEIBoTMResYzmGmgR7E"
+    },
+    {
+      "id": "144797beaeeebed3",
+      "googleFeatureId": "11tc",
+      "slug": "malubago",
+      "name": "Malubago",
+      "categories": [
+        "resorts",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay",
+        "Camalig"
+      ],
+      "plusCode": "7VCP+RJ2",
+      "coordinates": {
+        "lat": 13.3031244,
+        "lng": 123.8524785
+      },
+      "rating": 3,
+      "reviewsCount": 1,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Malubago/data=!4m7!3m6!1s0x33a057ff20a5599f:0x144797beaeeebed3!8m2!3d13.3031244!4d123.8524785!16s%2Fg%2F11tc_0y244!19sChIJn1mlIP9XoDMR077urr6XRxQ"
+    },
+    {
+      "id": "2a25cdf1602fa560",
+      "googleFeatureId": "11w7d1y1q5",
+      "slug": "misibis-viewpoint",
+      "name": "Misibis viewpoint",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay",
+        "Jovellanos",
+        "Rapu-Rapu"
+      ],
+      "plusCode": "6VXX+VV9",
+      "coordinates": {
+        "lat": 13.2496712,
+        "lng": 123.8997221
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Misibis+viewpoint/data=!4m7!3m6!1s0x33a057004f8965c7:0x2a25cdf1602fa560!8m2!3d13.2496712!4d123.8997221!16s%2Fg%2F11w7d1y1q5!19sChIJx2WJTwBXoDMRYKUvYPHNJSo"
+    },
+    {
+      "id": "c5a68bccad703da1",
+      "slug": "mount-masaraga",
+      "name": "Mount Masaraga",
+      "categories": [
+        "beaches",
+        "nature-sanctuaries",
+        "hiking-and-camping",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Nature Reserves & Sanctuaries",
+        "Hiking & Camping",
+        "Resorts"
+      ],
+      "primaryType": "Mountain peak",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Camalig",
+        "Oas",
+        "Polangui",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.3061176,
+        "lng": 123.5920273
+      },
+      "rating": 4.5,
+      "reviewsCount": 17,
+      "editorialBlurb": "Green volcano with hiking paths & views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mount+Masaraga/data=!4m7!3m6!1s0x33a1a641ac9322e5:0xc5a68bccad703da1!8m2!3d13.3061176!4d123.5920273!16s%2Fm%2F05220gb!19sChIJ5SKTrEGmoTMRoT1wrcyLpsU"
+    },
+    {
+      "id": "66d459693f99efdd",
+      "googleFeatureId": "11w9kl03h0",
+      "slug": "mt-bulakawan-summit",
+      "name": "Mt. Bulakawan Summit",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "plusCode": "7PWQ+JPQ",
+      "coordinates": {
+        "lat": 13.2965964,
+        "lng": 123.7393503
+      },
+      "rating": 4.8,
+      "reviewsCount": 4,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mt.+Bulakawan+Summit/data=!4m7!3m6!1s0x33a1ab0023d97b9d:0x66d459693f99efdd!8m2!3d13.2965964!4d123.7393503!16s%2Fg%2F11w9kl03h0!19sChIJnXvZIwCroTMR3e-ZP2lZ1GY"
+    },
+    {
+      "id": "ff767f9863a3d6ed",
+      "googleFeatureId": "11y4nsnvw8",
+      "slug": "nature-s-view-resort",
+      "name": "Nature's View Resort",
+      "categories": [
+        "resorts",
+        "hiking-and-camping",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hiking & Camping",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Jovellar",
+        "Malilipot",
+        "Manito",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "4QC4+7V7",
+      "coordinates": {
+        "lat": 13.120918,
+        "lng": 123.756633
+      },
+      "rating": 4.4,
+      "reviewsCount": 10,
+      "editorialBlurb": "Hacienda Padilla",
+      "googleMapsUrl": "https://www.google.com/maps/place/Nature%27s+View+Resort/data=!4m7!3m6!1s0x33a103006e255bb3:0xff767f9863a3d6ed!8m2!3d13.120918!4d123.756633!16s%2Fg%2F11y4nsnvw8!19sChIJs1slbgADoTMR7dajY5h_dv8"
+    },
+    {
+      "id": "8093b897ec5d94ad",
+      "googleFeatureId": "11x7kdky4c",
+      "slug": "side-view",
+      "name": "side view",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig"
+      ],
+      "address": "Camalig Bypass Road",
+      "plusCode": "5JQX+PHG",
+      "coordinates": {
+        "lat": 13.1893032,
+        "lng": 123.6489649
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/side+view/data=!4m7!3m6!1s0x33a1070021026ec9:0x8093b897ec5d94ad!8m2!3d13.1893032!4d123.6489649!16s%2Fg%2F11x7kdky4c!19sChIJyW4CIQAHoTMRrZRd7Je4k4A"
+    },
+    {
+      "id": "eb162fc1956f1649",
+      "googleFeatureId": "11w25fblld",
+      "slug": "uma-ni-islao-private-farm",
+      "name": "Uma ni Islao Private Farm",
+      "categories": [
+        "hotels",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Manito",
+        "Oas"
+      ],
+      "coordinates": {
+        "lat": 13.0933709,
+        "lng": 123.7404285
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "priceHint": "₱2,017",
+      "googleMapsUrl": "https://www.google.com/maps/place/Uma+ni+Islao+Private+Farm/data=!4m10!3m9!1s0x33a10300282c78d7:0xeb162fc1956f1649!5m2!4m1!1i2!8m2!3d13.0933709!4d123.7404285!16s%2Fg%2F11w25fblld!19sChIJ13gsKAADoTMRSRZvlcEvFus"
+    },
+    {
+      "id": "f9101a78afedc35e",
+      "googleFeatureId": "11k4q9z0km",
+      "slug": "victoria-s-secret-cabin-and-resort",
+      "name": "Victoria's Secret Cabin & Resort",
+      "categories": [
+        "private-resorts",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "3492+5W",
+      "coordinates": {
+        "lat": 14.0671839,
+        "lng": 121.1029001
+      },
+      "rating": 4.8,
+      "reviewsCount": 13,
+      "editorialBlurb": "is clean and nice to stay for family reunion, events/gatherings.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Victoria%27s+Secret+Cabin+%26+Resort/data=!4m7!3m6!1s0x33bd6f14f68544c1:0xf9101a78afedc35e!8m2!3d14.0671839!4d121.1029001!16s%2Fg%2F11k4q9z0km!19sChIJwUSF9hRvvTMRXsPtr3gaEPk"
+    },
+    {
+      "id": "6551608bd62daa7c",
+      "googleFeatureId": "11q4hr5f7l",
+      "slug": "view-point",
+      "name": "View point",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Jovellar, Albay",
+      "lgus": [
+        "Jovellar",
+        "Jovellanos"
+      ],
+      "plusCode": "2JX6+JG",
+      "coordinates": {
+        "lat": 13.0490021,
+        "lng": 123.611251
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/View+point/data=!4m7!3m6!1s0x33a111016b585691:0x6551608bd62daa7c!8m2!3d13.0490021!4d123.611251!16s%2Fg%2F11q4hr5f7l!19sChIJkVZYawERoTMRfKot1otgUWU"
+    },
+    {
+      "id": "69a2bebfc1acfb72",
+      "googleFeatureId": "11t7f7vz1f",
+      "slug": "wild-boar-peak",
+      "name": "Wild Boar Peak",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping"
+      ],
+      "primaryType": "Hiking area",
+      "locality": "Malinao, Albay",
+      "lgus": [
+        "Malinao"
+      ],
+      "plusCode": "CJ49+XWV",
+      "coordinates": {
+        "lat": 13.4074845,
+        "lng": 123.6198032
+      },
+      "rating": 5,
+      "reviewsCount": 6,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Wild+Boar+Peak/data=!4m7!3m6!1s0x33a1b12b487bde1f:0x69a2bebfc1acfb72!8m2!3d13.4074845!4d123.6198032!16s%2Fg%2F11t7f7vz1f!19sChIJH957SCuxoTMRcvuswb--omk"
+    }
+  ]
+}

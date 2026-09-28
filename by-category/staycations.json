@@ -1,0 +1,625 @@
+{
+  "province": "Albay",
+  "category": "staycations",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 19,
+  "places": [
+    {
+      "id": "b62bc242a4f5be88",
+      "googleFeatureId": "11rzb90j8r",
+      "slug": "aanda-affordable-transient-house-room-bedspacer-legazpi-city-albay-bicol",
+      "name": "A&A Affordable Transient House Room Bedspacer Legazpi City Albay Bicol",
+      "categories": [
+        "hotels",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Staycations"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 13.1467118,
+        "lng": 123.7492282
+      },
+      "rating": 3.3,
+      "reviewsCount": 12,
+      "editorialBlurb": "In front LB Alta Gasoline Station (FOODPARK, Metro Gaisano / Pacific Mall",
+      "googleMapsUrl": "https://www.google.com/maps/place/A%26A+Affordable+Transient+House+Room+Bedspacer+Legazpi+City+Albay+Bicol/data=!4m7!3m6!1s0x33a1010804bf06b1:0xb62bc242a4f5be88!8m2!3d13.1467118!4d123.7492282!16s%2Fg%2F11rzb90j8r!19sChIJsQa_BAgBoTMRiL71pELCK7Y"
+    },
+    {
+      "id": "960436500696f171",
+      "googleFeatureId": "11y3wfk676",
+      "slug": "amelia-s-place",
+      "name": "Amelia's Place",
+      "categories": [
+        "hotels",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Staycations"
+      ],
+      "primaryType": "Serviced accommodation",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Rapu-Rapu"
+      ],
+      "coordinates": {
+        "lat": 13.1416823,
+        "lng": 123.7555566
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Amelia%27s+Place/data=!4m10!3m9!1s0x33a10306f1770845:0x960436500696f171!5m2!4m1!1i2!8m2!3d13.1416823!4d123.7555566!16s%2Fg%2F11y3wfk676!19sChIJRQh38QYDoTMRcfGWBlA2BJY"
+    },
+    {
+      "id": "31c4686aaf7e0399",
+      "googleFeatureId": "11smll",
+      "slug": "blue-bird-avenue",
+      "name": "Blue bird avenue",
+      "categories": [
+        "tourist-attractions",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Staycations"
+      ],
+      "primaryType": "Condominium complex",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "coordinates": {
+        "lat": 13.3035073,
+        "lng": 123.7549811
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "editorialBlurb": "\"Clean, cheap, and safe",
+      "googleMapsUrl": "https://www.google.com/maps/place/Blue+bird+avenue/data=!4m7!3m6!1s0x33a1ab6cbf1a122f:0x31c4686aaf7e0399!8m2!3d13.3035073!4d123.7549811!16s%2Fg%2F11smll_3nl!19sChIJLxIav2yroTMRmQN-r2poxDE"
+    },
+    {
+      "id": "8234bafbafa5922f",
+      "googleFeatureId": "11s1w3p5rw",
+      "slug": "cabinscape-albay",
+      "name": "Cabinscape - Albay",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping",
+        "staycations",
+        "resorts",
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping",
+        "Staycations",
+        "Resorts",
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Tabaco City",
+        "Jovellanos",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Malinao",
+        "Oas",
+        "Santo Domingo",
+        "Tiwi"
+      ],
+      "coordinates": {
+        "lat": 13.3244375,
+        "lng": 123.7334375
+      },
+      "rating": 4.8,
+      "reviewsCount": 16,
+      "priceHint": "₱3,520",
+      "editorialBlurb": "\"Affordable, clean and a must",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cabinscape+-+Albay/data=!4m10!3m9!1s0x33a1ad45b46a8267:0x8234bafbafa5922f!5m2!4m1!1i2!8m2!3d13.3244375!4d123.7334375!16s%2Fg%2F11s1w3p5rw!19sChIJZ4JqtEWtoTMRL5Klr_u6NII"
+    },
+    {
+      "id": "2dae0cd59f25db26",
+      "googleFeatureId": "11kjq534pn",
+      "slug": "camp-iraya-woodside",
+      "name": "Camp Iraya Woodside",
+      "categories": [
+        "tourist-attractions",
+        "hiking-and-camping",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Hiking & Camping",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "plusCode": "8PFJ+9QM",
+      "coordinates": {
+        "lat": 13.3234501,
+        "lng": 123.7319293
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Camp+Iraya+Woodside/data=!4m7!3m6!1s0x33a1ade007118b17:0x2dae0cd59f25db26!8m2!3d13.3234501!4d123.7319293!16s%2Fg%2F11kjq534pn!19sChIJF4sRB-CtoTMRJtsln9UMri0"
+    },
+    {
+      "id": "faa4d7e5ef341f81",
+      "googleFeatureId": "11tgd4brqp",
+      "slug": "casita-uno-beach-house",
+      "name": "Casita Uno Beach House",
+      "categories": [
+        "beaches",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Staycations"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Oas, Albay",
+      "lgus": [
+        "Oas"
+      ],
+      "address": "Purok 1, Brgy. Maramba",
+      "coordinates": {
+        "lat": 13.127037,
+        "lng": 123.2930494
+      },
+      "rating": 5,
+      "reviewsCount": 8,
+      "googleMapsUrl": "https://www.google.com/maps/place/Casita+Uno+Beach+House/data=!4m7!3m6!1s0x33a16f34452d9257:0xfaa4d7e5ef341f81!8m2!3d13.127037!4d123.2930494!16s%2Fg%2F11tgd4brqp!19sChIJV5ItRTRvoTMRgR807-XXpPo"
+    },
+    {
+      "id": "3b1bc596ba430c2e",
+      "googleFeatureId": "11l6b9cf2w",
+      "slug": "clutario-beach-w-cottage",
+      "name": "Clutario Beach w/ Cottage",
+      "categories": [
+        "beaches",
+        "hiking-and-camping",
+        "staycations",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hiking & Camping",
+        "Staycations",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Tiwi, Albay",
+      "lgus": [
+        "Tiwi"
+      ],
+      "plusCode": "FJMQ+X32",
+      "coordinates": {
+        "lat": 13.4848973,
+        "lng": 123.6376394
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "editorialBlurb": "\"Not to mention there is a boat ride that you could book to a water fall.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Clutario+Beach+w%2F+Cottage/data=!4m7!3m6!1s0x33a1b7097873fbcb:0x3b1bc596ba430c2e!8m2!3d13.4848973!4d123.6376394!16s%2Fg%2F11l6b9cf2w!19sChIJy_tzeAm3oTMRLgxDupbFGzs"
+    },
+    {
+      "id": "fd1157ee625dcdb5",
+      "googleFeatureId": "11mx35j143",
+      "slug": "harvey-s-sandbar",
+      "name": "Harvey's Sandbar",
+      "categories": [
+        "beaches",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Pio Duran, Albay",
+      "lgus": [
+        "Pio Duran"
+      ],
+      "address": "Purok 3 Sitio Cagbatano",
+      "coordinates": {
+        "lat": 13.0002472,
+        "lng": 123.4665503
+      },
+      "rating": 5,
+      "reviewsCount": 5,
+      "googleMapsUrl": "https://www.google.com/maps/place/Harvey%27s+Sandbar/data=!4m7!3m6!1s0x33a1151694931039:0xfd1157ee625dcdb5!8m2!3d13.0002472!4d123.4665503!16s%2Fg%2F11mx35j143!19sChIJORCTlBYVoTMRtc1dYu5XEf0"
+    },
+    {
+      "id": "c890d501a073bc80",
+      "googleFeatureId": "11sc76x596",
+      "slug": "jodel-s-paradise",
+      "name": "Jodel’s Paradise",
+      "categories": [
+        "hotels",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Jovellar",
+        "Libon",
+        "Oas",
+        "Pio Duran"
+      ],
+      "coordinates": {
+        "lat": 13.0132501,
+        "lng": 123.3339766
+      },
+      "rating": 4,
+      "reviewsCount": 1,
+      "priceHint": "₱1,485",
+      "googleMapsUrl": "https://www.google.com/maps/place/Jodel%E2%80%99s+Paradise/data=!4m10!3m9!1s0x33a1690e6963312f:0xc890d501a073bc80!5m2!4m1!1i2!8m2!3d13.0132501!4d123.3339766!16s%2Fg%2F11sc76x596!19sChIJLzFjaQ5poTMRgLxzoAHVkMg"
+    },
+    {
+      "id": "dc6c38fec3a4da82",
+      "googleFeatureId": "11sd1r4j",
+      "slug": "marina-inn",
+      "name": "Marina Inn",
+      "categories": [
+        "hotels",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Staycations"
+      ],
+      "primaryType": "Serviced accommodation",
+      "locality": "Jovellar, Albay",
+      "lgus": [
+        "Jovellar",
+        "Pio Duran"
+      ],
+      "coordinates": {
+        "lat": 12.9348973,
+        "lng": 123.6846987
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Marina+Inn/data=!4m10!3m9!1s0x33a119a54eb8b72f:0xdc6c38fec3a4da82!5m2!4m1!1i2!8m2!3d12.9348973!4d123.6846987!16s%2Fg%2F11sd1r4j_j!19sChIJL7e4TqUZoTMRgtqkw_44bNw"
+    },
+    {
+      "id": "ff767f9863a3d6ed",
+      "googleFeatureId": "11y4nsnvw8",
+      "slug": "nature-s-view-resort",
+      "name": "Nature's View Resort",
+      "categories": [
+        "resorts",
+        "hiking-and-camping",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hiking & Camping",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Jovellar",
+        "Malilipot",
+        "Manito",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "4QC4+7V7",
+      "coordinates": {
+        "lat": 13.120918,
+        "lng": 123.756633
+      },
+      "rating": 4.4,
+      "reviewsCount": 10,
+      "editorialBlurb": "Hacienda Padilla",
+      "googleMapsUrl": "https://www.google.com/maps/place/Nature%27s+View+Resort/data=!4m7!3m6!1s0x33a103006e255bb3:0xff767f9863a3d6ed!8m2!3d13.120918!4d123.756633!16s%2Fg%2F11y4nsnvw8!19sChIJs1slbgADoTMR7dajY5h_dv8"
+    },
+    {
+      "id": "e6ca96eed5e59a1b",
+      "googleFeatureId": "11tsd2m",
+      "slug": "quian-s-private-pool",
+      "name": "Quian's Private Pool",
+      "categories": [
+        "resorts",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Libon",
+        "Polangui",
+        "Tupas"
+      ],
+      "address": "0929 140 4446",
+      "plusCode": "6HC9+6R",
+      "coordinates": {
+        "lat": 13.2205854,
+        "lng": 123.5695739
+      },
+      "rating": 4.5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Quian%27s+Private+Pool/data=!4m7!3m6!1s0x33a109eac8bdd16f:0xe6ca96eed5e59a1b!8m2!3d13.2205854!4d123.5695739!16s%2Fg%2F11tsd2m_80!19sChIJb9G9yOoJoTMRG5rl1e6WyuY"
+    },
+    {
+      "id": "39e0fb7e0b847fcf",
+      "googleFeatureId": "11y1vvkljt",
+      "slug": "ramj-guesthouse",
+      "name": "Ramj Guesthouse",
+      "categories": [
+        "hotels",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Staycations"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Daraga"
+      ],
+      "coordinates": {
+        "lat": 13.1457934,
+        "lng": 123.7348465
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Ramj+Guesthouse/data=!4m10!3m9!1s0x33a103c12877b9ff:0x39e0fb7e0b847fcf!5m2!4m1!1i2!8m2!3d13.1457934!4d123.7348465!16s%2Fg%2F11y1vvkljt!19sChIJ_7l3KMEDoTMRz3-EC3774Dk"
+    },
+    {
+      "id": "e24cc926947d1cd4",
+      "googleFeatureId": "11mclgwvyy",
+      "slug": "the-lago-guesthouse",
+      "name": "The Lago Guesthouse",
+      "categories": [
+        "resorts",
+        "staycations",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Staycations",
+        "Hotels"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Jovellanos"
+      ],
+      "address": "0024 Purok 1",
+      "coordinates": {
+        "lat": 13.1510306,
+        "lng": 123.7291147
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Lago+Guesthouse/data=!4m7!3m6!1s0x33a101b381a7a231:0xe24cc926947d1cd4!8m2!3d13.1510306!4d123.7291147!16s%2Fg%2F11mclgwvyy!19sChIJMaKngbMBoTMR1Bx9lCbJTOI"
+    },
+    {
+      "id": "8c840b9fc88e63f1",
+      "googleFeatureId": "11vt6h8tbz",
+      "slug": "the-m-residence-resort-and-guest-house",
+      "name": "The M Residence Resort And Guest House",
+      "categories": [
+        "resorts",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Bacacay",
+        "Camalig",
+        "Jovellanos",
+        "Polangui",
+        "Daraga",
+        "Jovellar",
+        "Malilipot",
+        "Manito",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0935 105 0911",
+      "coordinates": {
+        "lat": 13.1124258,
+        "lng": 123.7829147
+      },
+      "rating": 4,
+      "reviewsCount": 9,
+      "amenities": [
+        "pool"
+      ],
+      "editorialBlurb": "\"Beautiful View and great pool !!\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+M+Residence+Resort+And+Guest+House/data=!4m7!3m6!1s0x33a1017db0f218ed:0x8c840b9fc88e63f1!8m2!3d13.1124258!4d123.7829147!16s%2Fg%2F11vt6h8tbz!19sChIJ7RjysH0BoTMR8WOOyJ8LhIw"
+    },
+    {
+      "id": "eb162fc1956f1649",
+      "googleFeatureId": "11w25fblld",
+      "slug": "uma-ni-islao-private-farm",
+      "name": "Uma ni Islao Private Farm",
+      "categories": [
+        "hotels",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Manito",
+        "Oas"
+      ],
+      "coordinates": {
+        "lat": 13.0933709,
+        "lng": 123.7404285
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "priceHint": "₱2,017",
+      "googleMapsUrl": "https://www.google.com/maps/place/Uma+ni+Islao+Private+Farm/data=!4m10!3m9!1s0x33a10300282c78d7:0xeb162fc1956f1649!5m2!4m1!1i2!8m2!3d13.0933709!4d123.7404285!16s%2Fg%2F11w25fblld!19sChIJ13gsKAADoTMRSRZvlcEvFus"
+    },
+    {
+      "id": "ad5c5bc160847753",
+      "googleFeatureId": "1hf01d15h",
+      "slug": "victoria-s-guesthouse",
+      "name": "Victoria's Guesthouse",
+      "categories": [
+        "resorts",
+        "staycations",
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Staycations",
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Daraga, Albay",
+      "lgus": [
+        "Daraga",
+        "Jovellar",
+        "Oas",
+        "Pio Duran"
+      ],
+      "coordinates": {
+        "lat": 12.9103956,
+        "lng": 123.5875157
+      },
+      "rating": 4.8,
+      "reviewsCount": 20,
+      "hours": "Temporarily closed",
+      "googleMapsUrl": "https://www.google.com/maps/place/Victoria%27s+Guesthouse/data=!4m10!3m9!1s0x33a13d6cc2a99a59:0xad5c5bc160847753!5m2!4m1!1i2!8m2!3d12.9103956!4d123.5875157!16s%2Fg%2F1hf01d15h!19sChIJWZqpwmw9oTMRU3eEYMFbXK0"
+    },
+    {
+      "id": "f9101a78afedc35e",
+      "googleFeatureId": "11k4q9z0km",
+      "slug": "victoria-s-secret-cabin-and-resort",
+      "name": "Victoria's Secret Cabin & Resort",
+      "categories": [
+        "private-resorts",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "3492+5W",
+      "coordinates": {
+        "lat": 14.0671839,
+        "lng": 121.1029001
+      },
+      "rating": 4.8,
+      "reviewsCount": 13,
+      "editorialBlurb": "is clean and nice to stay for family reunion, events/gatherings.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Victoria%27s+Secret+Cabin+%26+Resort/data=!4m7!3m6!1s0x33bd6f14f68544c1:0xf9101a78afedc35e!8m2!3d14.0671839!4d121.1029001!16s%2Fg%2F11k4q9z0km!19sChIJwUSF9hRvvTMRXsPtr3gaEPk"
+    },
+    {
+      "id": "6983cf50e799cc8d",
+      "googleFeatureId": "11wpp97h3",
+      "slug": "winter-s-crib",
+      "name": "Winter's Crib",
+      "categories": [
+        "hotels",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Staycations"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.1508026,
+        "lng": 123.5947472
+      },
+      "priceHint": "₱1,223",
+      "googleMapsUrl": "https://www.google.com/maps/place/Winter%27s+Crib/data=!4m10!3m9!1s0x33a10f0542f325bd:0x6983cf50e799cc8d!5m2!4m1!1i2!8m2!3d13.1508026!4d123.5947472!16s%2Fg%2F11wpp97h3_!19sChIJvSXzQgUPoTMRjcyZ51DPg2k"
+    }
+  ]
+}

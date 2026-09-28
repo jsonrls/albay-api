@@ -1,0 +1,6504 @@
+{
+  "province": "Albay",
+  "lgu": "Tanauan",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 175,
+  "places": [
+    {
+      "id": "b62bc242a4f5be88",
+      "googleFeatureId": "11rzb90j8r",
+      "slug": "aanda-affordable-transient-house-room-bedspacer-legazpi-city-albay-bicol",
+      "name": "A&A Affordable Transient House Room Bedspacer Legazpi City Albay Bicol",
+      "categories": [
+        "hotels",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Staycations"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 13.1467118,
+        "lng": 123.7492282
+      },
+      "rating": 3.3,
+      "reviewsCount": 12,
+      "editorialBlurb": "In front LB Alta Gasoline Station (FOODPARK, Metro Gaisano / Pacific Mall",
+      "googleMapsUrl": "https://www.google.com/maps/place/A%26A+Affordable+Transient+House+Room+Bedspacer+Legazpi+City+Albay+Bicol/data=!4m7!3m6!1s0x33a1010804bf06b1:0xb62bc242a4f5be88!8m2!3d13.1467118!4d123.7492282!16s%2Fg%2F11rzb90j8r!19sChIJsQa_BAgBoTMRiL71pELCK7Y"
+    },
+    {
+      "id": "12d157bf75d73e9c",
+      "googleFeatureId": "11rwxh9yf5",
+      "slug": "adonena-templado-spring-resort",
+      "name": "ADONENA TEMPLADO SPRING RESORT",
+      "categories": [
+        "tourist-attractions",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Oas, Albay",
+      "lgus": [
+        "Oas",
+        "Polangui",
+        "Tiwi",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Libon",
+        "Malinao",
+        "Pio Duran",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "Unnamed Road",
+      "plusCode": "FJ5J+85Q",
+      "coordinates": {
+        "lat": 13.4583482,
+        "lng": 123.6304905
+      },
+      "rating": 4,
+      "reviewsCount": 12,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/ADONENA+TEMPLADO+SPRING+RESORT/data=!4m7!3m6!1s0x33a1b1806af03c8d:0x12d157bf75d73e9c!8m2!3d13.4583482!4d123.6304905!16s%2Fg%2F11rwxh9yf5!19sChIJjTzwaoCxoTMRnD7Xdb9X0RI"
+    },
+    {
+      "id": "76c43bf8e42f2f78",
+      "googleFeatureId": "1tdxyfgd",
+      "slug": "agm-beachfront-resort-and-resto",
+      "name": "AGM Beachfront Resort and Resto",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Tanauan",
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 12.9156207,
+        "lng": 123.5845272
+      },
+      "rating": 3.9,
+      "reviewsCount": 88,
+      "priceHint": "₱2,094",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Breakfast",
+        "Kid-friendly"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/AGM+Beachfront+Resort+and+Resto/data=!4m10!3m9!1s0x33a13d407da4bc51:0x76c43bf8e42f2f78!5m2!4m1!1i2!8m2!3d12.9156207!4d123.5845272!16s%2Fg%2F1tdxyfgd!19sChIJUbykfUA9oTMReC8v5Pg7xHY"
+    },
+    {
+      "id": "75a6de9502db909a",
+      "googleFeatureId": "11bzvzq1dq",
+      "slug": "agua-finest-spring-resort",
+      "name": "Agua Finest Spring Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Libon",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan"
+      ],
+      "address": "San Antonio Estancia Malinao Road",
+      "plusCode": "CM3G+9M9",
+      "coordinates": {
+        "lat": 13.4034181,
+        "lng": 123.6767339
+      },
+      "rating": 3.5,
+      "reviewsCount": 15,
+      "googleMapsUrl": "https://www.google.com/maps/place/Agua+Finest+Spring+Resort/data=!4m7!3m6!1s0x33a1ae031d10ff2d:0x75a6de9502db909a!8m2!3d13.4034181!4d123.6767339!16s%2Fg%2F11bzvzq1dq!19sChIJLf8QHQOuoTMRmpDbApXepnU"
+    },
+    {
+      "id": "e983ea3cc2c97f75",
+      "googleFeatureId": "1vd92mdl",
+      "slug": "albay-park-and-wildlife",
+      "name": "Albay Park & Wildlife",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Malilipot",
+        "Tanauan",
+        "Tupas",
+        "Guinobatan"
+      ],
+      "address": "Daraga-Legazpi Diversion Rd",
+      "plusCode": "5P4J+W58",
+      "coordinates": {
+        "lat": 13.157295,
+        "lng": 123.7304676
+      },
+      "rating": 4.2,
+      "reviewsCount": 1010,
+      "editorialBlurb": "Verdant park with a lagoon & wildlife",
+      "googleMapsUrl": "https://www.google.com/maps/place/Albay+Park+%26+Wildlife/data=!4m7!3m6!1s0x33a10167e20a0f51:0xe983ea3cc2c97f75!8m2!3d13.157295!4d123.7304676!16s%2Fg%2F1vd92mdl!19sChIJUQ8K4mcBoTMRdX_Jwjzqg-k"
+    },
+    {
+      "id": "20eaed9694b6225f",
+      "googleFeatureId": "11byz5g4f8",
+      "slug": "alon-garden-resort",
+      "name": "Alon Garden Resort",
+      "categories": [
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Private Resorts"
+      ],
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "34MF+FWR",
+      "coordinates": {
+        "lat": 14.0837267,
+        "lng": 121.1247518
+      },
+      "rating": 4,
+      "reviewsCount": 91,
+      "amenities": [
+        "Swimming pool"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Alon+Garden+Resort/data=!4m7!3m6!1s0x33bd6f9d53fca9e9:0x20eaed9694b6225f!8m2!3d14.0837267!4d121.1247518!16s%2Fg%2F11byz5g4f8!19sChIJ6an8U51vvTMRXyK2lJbt6iA"
+    },
+    {
+      "id": "5e14e8ae428c35f4",
+      "googleFeatureId": "11bzvzmzn7",
+      "slug": "amater-spring-resort",
+      "name": "Amater Spring Resort",
+      "categories": [
+        "tourist-attractions",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Malinao, Albay",
+      "lgus": [
+        "Malinao",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Guinobatan",
+        "Libon",
+        "Polangui",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Malilipot"
+      ],
+      "address": "San Antonio Estancia Malinao Road",
+      "coordinates": {
+        "lat": 13.4049776,
+        "lng": 123.6767033
+      },
+      "rating": 4.4,
+      "reviewsCount": 105,
+      "editorialBlurb": "\"Experience the clear and cold water\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Amater+Spring+Resort/data=!4m7!3m6!1s0x33a1ae03cc819b51:0x5e14e8ae428c35f4!8m2!3d13.4049776!4d123.6767033!16s%2Fg%2F11bzvzmzn7!19sChIJUZuBzAOuoTMR9DWMQq7oFF4"
+    },
+    {
+      "id": "f32265910c2e9e2f",
+      "googleFeatureId": "11sdq5kxb1",
+      "slug": "amigas-lodge",
+      "name": "Amigas Lodge",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Bed & breakfast",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.089458,
+        "lng": 121.1817743
+      },
+      "rating": 5,
+      "reviewsCount": 4,
+      "priceHint": "₱2,741",
+      "googleMapsUrl": "https://www.google.com/maps/place/Amigas+Lodge/data=!4m10!3m9!1s0x33bd66031840e8fb:0xf32265910c2e9e2f!5m2!4m1!1i2!8m2!3d14.089458!4d121.1817743!16s%2Fg%2F11sdq5kxb1!19sChIJ--hAGANmvTMRL54uDJFlIvM"
+    },
+    {
+      "id": "1ad15639091ac14e",
+      "googleFeatureId": "1v1v9qrl",
+      "slug": "amor-farm-beach-resort",
+      "name": "Amor Farm Beach Resort",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Pio Duran, Albay",
+      "lgus": [
+        "Pio Duran",
+        "Tanauan",
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Polangui",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 12.9187765,
+        "lng": 123.5823918
+      },
+      "rating": 4.4,
+      "reviewsCount": 167,
+      "priceHint": "₱1,350",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Wi-Fi",
+        "Airport shuttle",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"There is seating outside your room and on the property.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Amor+Farm+Beach+Resort/data=!4m10!3m9!1s0x33a13d706873485d:0x1ad15639091ac14e!5m2!4m1!1i2!8m2!3d12.9187765!4d123.5823918!16s%2Fg%2F1v1v9qrl!19sChIJXUhzaHA9oTMRTsEaCTlW0Ro"
+    },
+    {
+      "id": "8417e8b318a7ea09",
+      "googleFeatureId": "11ghr9snrq",
+      "slug": "angel-s-paradise-spring-resort",
+      "name": "Angel's Paradise Spring Resort",
+      "categories": [
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Private Resorts"
+      ],
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Libon",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "6P3W+58X",
+      "coordinates": {
+        "lat": 13.2029775,
+        "lng": 123.7458669
+      },
+      "rating": 3.5,
+      "reviewsCount": 4,
+      "hours": "Open now",
+      "amenities": [
+        "Swimming pool"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Angel%27s+Paradise+Spring+Resort/data=!4m7!3m6!1s0x33a101d1bca6ad91:0x8417e8b318a7ea09!8m2!3d13.2029775!4d123.7458669!16s%2Fg%2F11ghr9snrq!19sChIJka2mvNEBoTMRCeqnGLPoF4Q"
+    },
+    {
+      "id": "a6b4dfef2da0e206",
+      "googleFeatureId": "1tgf9xb0",
+      "slug": "apolinario-mabini-shrine",
+      "name": "Apolinario Mabini Shrine",
+      "categories": [
+        "tourist-attractions"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Mabini Ave",
+      "plusCode": "432X+GR9",
+      "coordinates": {
+        "lat": 14.1012765,
+        "lng": 121.0996081
+      },
+      "rating": 4.6,
+      "reviewsCount": 309,
+      "hours": "Closed · Opens 9 AM Tue",
+      "editorialBlurb": "Museum devoted to a political figure",
+      "googleMapsUrl": "https://www.google.com/maps/place/Apolinario+Mabini+Shrine/data=!4m7!3m6!1s0x33bd655e583d7d4b:0xa6b4dfef2da0e206!8m2!3d14.1012765!4d121.0996081!16s%2Fg%2F1tgf9xb0!19sChIJS309WF5lvTMRBuKgLe_ftKY"
+    },
+    {
+      "id": "b68c3a348e741db1",
+      "googleFeatureId": "11w3rfsbbn",
+      "slug": "apricus-hotel",
+      "name": "Apricus Hotel",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0921848,
+        "lng": 121.1538025
+      },
+      "rating": 4.3,
+      "reviewsCount": 13,
+      "priceHint": "₱2,747",
+      "googleMapsUrl": "https://www.google.com/maps/place/Apricus+Hotel/data=!4m10!3m9!1s0x33bd650046fe95f5:0xb68c3a348e741db1!5m2!4m1!1i2!8m2!3d14.0921848!4d121.1538025!16s%2Fg%2F11w3rfsbbn!19sChIJ9ZX-RgBlvTMRsR10jjQ6jLY"
+    },
+    {
+      "id": "bb1ccf57333dda68",
+      "googleFeatureId": "1hc2rzjdy",
+      "slug": "awilihan-private-paradise-resort",
+      "name": "Awilihan Private Paradise Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.090057,
+        "lng": 121.055792
+      },
+      "rating": 4.4,
+      "reviewsCount": 106,
+      "googleMapsUrl": "https://www.google.com/maps/place/Awilihan+Private+Paradise+Resort/data=!4m10!3m9!1s0x33bd706cbe2f2825:0xbb1ccf57333dda68!5m2!4m1!1i2!8m2!3d14.090057!4d121.055792!16s%2Fg%2F1hc2rzjdy!19sChIJJSgvvmxwvTMRaNo9M1fPHLs"
+    },
+    {
+      "id": "72d96c71060fb711",
+      "googleFeatureId": "11xg6xw3p",
+      "slug": "balai-tinay-guesthouse",
+      "name": "Balai Tinay Guesthouse",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tupas",
+        "Bacacay",
+        "Malilipot",
+        "Tanauan"
+      ],
+      "address": "0966 350 4355",
+      "coordinates": {
+        "lat": 13.139985,
+        "lng": 123.7369206
+      },
+      "rating": 4.5,
+      "reviewsCount": 207,
+      "priceHint": "₱1,755",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Breakfast",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "Casual guesthouse with a lounge & garden",
+      "googleMapsUrl": "https://www.google.com/maps/place/Balai+Tinay+Guesthouse/data=!4m10!3m9!1s0x33a103dbba3347e7:0x72d96c71060fb711!5m2!4m1!1i2!8m2!3d13.139985!4d123.7369206!16s%2Fg%2F11xg6xw3p!19sChIJ50czutsDoTMREbcPBnFs2XI"
+    },
+    {
+      "id": "81ed3f214582f75c",
+      "googleFeatureId": "11lm1xt7zt",
+      "slug": "ba-adero-baywalk",
+      "name": "Bañadero Baywalk",
+      "categories": [
+        "tourist-attractions"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions"
+      ],
+      "primaryType": "Park",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "33M6+6V6",
+      "coordinates": {
+        "lat": 14.0829907,
+        "lng": 121.0621905
+      },
+      "rating": 4.6,
+      "reviewsCount": 481,
+      "editorialBlurb": "\"Sunset view 🫶 floating cottages and food 🔥\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Ba%C3%B1adero+Baywalk/data=!4m7!3m6!1s0x33bd714cf0c9bc23:0x81ed3f214582f75c!8m2!3d14.0829907!4d121.0621905!16s%2Fg%2F11lm1xt7zt!19sChIJI7zJ8ExxvTMRXPeCRSE_7YE"
+    },
+    {
+      "id": "4c35605e54047f25",
+      "slug": "batan-island",
+      "name": "Batan Island",
+      "categories": [
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands"
+      ],
+      "primaryType": "Island",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Daraga",
+        "Libon",
+        "Malinao",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.2557759,
+        "lng": 124.0084395
+      },
+      "rating": 4.1,
+      "reviewsCount": 15,
+      "googleMapsUrl": "https://www.google.com/maps/place/Batan+Island/data=!4m7!3m6!1s0x33a059919a422309:0x4c35605e54047f25!8m2!3d13.2557759!4d124.0084395!16s%2Fm%2F02qnw2b!19sChIJCSNCmpFZoDMRJX8EVF5gNUw"
+    },
+    {
+      "id": "b3961654962e1da",
+      "googleFeatureId": "11bzv",
+      "slug": "ben-spring-resort",
+      "name": "Ben Spring Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Daraga, Albay",
+      "lgus": [
+        "Daraga",
+        "Guinobatan",
+        "Polangui",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas",
+        "Malilipot",
+        "Manito",
+        "Santo Domingo"
+      ],
+      "address": "(052) 437 3774",
+      "plusCode": "5P6G+P9M",
+      "coordinates": {
+        "lat": 13.1618275,
+        "lng": 123.7259227
+      },
+      "rating": 3.8,
+      "reviewsCount": 93,
+      "editorialBlurb": "\"nice place for family bonding very accommodating staff.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Ben+Spring+Resort/data=!4m7!3m6!1s0x33a1015cc0002c09:0xb3961654962e1da!8m2!3d13.1618275!4d123.7259227!16s%2Fg%2F11bzv_4zym!19sChIJCSwAwFwBoTMR2uFiSWVhOQs"
+    },
+    {
+      "id": "c2898be19f676972",
+      "googleFeatureId": "11fxzvd26t",
+      "slug": "bislig-beach-resort",
+      "name": "Bislig Beach Resort",
+      "categories": [
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands"
+      ],
+      "primaryType": "Public beach",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "32JJ+92C",
+      "coordinates": {
+        "lat": 11.0809407,
+        "lng": 125.0300262
+      },
+      "rating": 4,
+      "reviewsCount": 58,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Bislig+Beach+Resort/data=!4m7!3m6!1s0x3307da028374e563:0xc2898be19f676972!8m2!3d11.0809407!4d125.0300262!16s%2Fg%2F11fxzvd26t!19sChIJY-V0gwLaBzMRcmlnn-GLicI"
+    },
+    {
+      "id": "2af7032fb8af9b19",
+      "googleFeatureId": "11h0bzg0f0",
+      "slug": "bravo-tanauan-hotel",
+      "name": "Bravo Tanauan Hotel",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0902155,
+        "lng": 121.1486544
+      },
+      "rating": 4.6,
+      "reviewsCount": 96,
+      "priceHint": "₱4,379",
+      "amenities": [
+        "Spa",
+        "Free parking",
+        "Free breakfast",
+        "Free Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Bravo+Tanauan+Hotel/data=!4m10!3m9!1s0x33bd6fe25068abd7:0x2af7032fb8af9b19!5m2!4m1!1i2!8m2!3d14.0902155!4d121.1486544!16s%2Fg%2F11h0bzg0f0!19sChIJ16toUOJvvTMRGZuvuC8D9yo"
+    },
+    {
+      "id": "8fb72efde4561b99",
+      "googleFeatureId": "11hbgb4h4y",
+      "slug": "buhatan-beach-resort",
+      "name": "Buhatan Beach Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Public beach",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Pio Duran",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas",
+        "Ligao City",
+        "Camalig",
+        "Manito"
+      ],
+      "plusCode": "6RJG+5RC",
+      "coordinates": {
+        "lat": 13.2304308,
+        "lng": 123.8270138
+      },
+      "rating": 4,
+      "reviewsCount": 4,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Buhatan+Beach+Resort/data=!4m7!3m6!1s0x33a0556c54f93785:0x8fb72efde4561b99!8m2!3d13.2304308!4d123.8270138!16s%2Fg%2F11hbgb4h4y!19sChIJhTf5VGxVoDMRmRtW5P0ut48"
+    },
+    {
+      "id": "a0fe3cb2dcb6aee9",
+      "googleFeatureId": "11ppgs3154",
+      "slug": "cabulwangan-hill-spring-resort",
+      "name": "Cabulwangan Hill Spring Resort",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Daraga",
+        "Guinobatan",
+        "Polangui",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tiwi",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.3109236,
+        "lng": 123.7362057
+      },
+      "rating": 4.5,
+      "reviewsCount": 79,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cabulwangan+Hill+Spring+Resort/data=!4m7!3m6!1s0x33a1ad48a7129e7d:0xa0fe3cb2dcb6aee9!8m2!3d13.3109236!4d123.7362057!16s%2Fg%2F11ppgs3154!19sChIJfZ4Sp0itoTMR6a623LI8_qA"
+    },
+    {
+      "id": "90871d0c2a50d4e",
+      "googleFeatureId": "1q69q179l",
+      "slug": "cagraray-eco-energy-park",
+      "name": "Cagraray Eco-Energy Park",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Park",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Bacacay",
+        "Jovellanos",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Legazpi City",
+        "Camalig",
+        "Oas",
+        "Tupas"
+      ],
+      "plusCode": "6WR2+GWP",
+      "coordinates": {
+        "lat": 13.2413287,
+        "lng": 123.9023371
+      },
+      "rating": 4.5,
+      "reviewsCount": 424,
+      "hours": "Open · Closes 5 PM",
+      "editorialBlurb": "Outdoor activities, camping & swimming",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cagraray+Eco-Energy+Park/data=!4m7!3m6!1s0x33a0566202dd7481:0x90871d0c2a50d4e!8m2!3d13.2413287!4d123.9023371!16s%2Fg%2F1q69q179l!19sChIJgXTdAmJWoDMRTg2lwtBxCAk"
+    },
+    {
+      "id": "f545870b1b897dd9",
+      "slug": "cagsawa-ruins",
+      "name": "Cagsawa Ruins",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "heritage",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Heritage & Religious Sites",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Daraga, Albay",
+      "lgus": [
+        "Daraga",
+        "Jovellanos",
+        "Malilipot",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas",
+        "Jovellar",
+        "Camalig"
+      ],
+      "address": "16th-century church tower & volcano view",
+      "coordinates": {
+        "lat": 13.1659988,
+        "lng": 123.7011483
+      },
+      "rating": 4.6,
+      "reviewsCount": 8155,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cagsawa+Ruins/data=!4m7!3m6!1s0x33a106b15e773841:0xf545870b1b897dd9!8m2!3d13.1659988!4d123.7011483!16s%2Fm%2F0bh7wwt!19sChIJQTh3XrEGoTMR2X2JGwuHRfU"
+    },
+    {
+      "id": "af178ba7e382d3df",
+      "googleFeatureId": "11txrnttkg",
+      "slug": "camalig-bypass-mayon-best-view",
+      "name": "Camalig Bypass - Mayon Best View",
+      "categories": [
+        "tourist-attractions"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Tanauan"
+      ],
+      "address": "\"A stunning view of Mayon Volcano can be seen along the Camalig Bypass road.\"",
+      "plusCode": "5JHV+QC2",
+      "coordinates": {
+        "lat": 13.180023,
+        "lng": 123.6438029
+      },
+      "rating": 4.9,
+      "reviewsCount": 90,
+      "hours": "Open now",
+      "editorialBlurb": "\"Beautiful, best location to see the volcano\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Camalig+Bypass+-+Mayon+Best+View/data=!4m7!3m6!1s0x33a107454608d563:0xaf178ba7e382d3df!8m2!3d13.180023!4d123.6438029!16s%2Fg%2F11txrnttkg!19sChIJY9UIRkUHoTMR39OC46eLF68"
+    },
+    {
+      "id": "848076dfcd1500e6",
+      "googleFeatureId": "11s0w",
+      "slug": "casa-anahao-tanauan-batangas",
+      "name": "Casa Anahao - Tanauan Batangas",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0592886,
+        "lng": 121.1320371
+      },
+      "rating": 4.2,
+      "reviewsCount": 80,
+      "editorialBlurb": "\"Serene, relaxing, and worth the trip!\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Anahao+-+Tanauan+Batangas/data=!4m7!3m6!1s0x33bd6f46c531380b:0x848076dfcd1500e6!8m2!3d14.0592886!4d121.1320371!16s%2Fg%2F11s0w__09z!19sChIJCzgxxUZvvTMR5gAVzd92gIQ"
+    },
+    {
+      "id": "bc4256fe63770673",
+      "googleFeatureId": "11f",
+      "slug": "casa-primera-hotspring-resorts",
+      "name": "Casa Primera Hotspring Resorts",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Purok 7, Nayong Maharlika Village, Daang Pag-Ibig St",
+      "coordinates": {
+        "lat": 14.1739793,
+        "lng": 121.1918497
+      },
+      "rating": 4.8,
+      "reviewsCount": 108,
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Primera+Hotspring+Resorts/data=!4m7!3m6!1s0x33bd61484e2fdead:0xbc4256fe63770673!8m2!3d14.1739793!4d121.1918497!16s%2Fg%2F11f_p2wf50!19sChIJrd4vTkhhvTMRcwZ3Y_5WQrw"
+    },
+    {
+      "id": "d811436aa9a4a871",
+      "googleFeatureId": "11c1xq942j",
+      "slug": "casa-roces",
+      "name": "Casa Roces",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tupas",
+        "Bacacay",
+        "Malilipot",
+        "Rapu-Rapu",
+        "Tanauan"
+      ],
+      "address": "(052) 742 3515",
+      "plusCode": "4PQP+4M6",
+      "coordinates": {
+        "lat": 13.137782,
+        "lng": 123.7366333
+      },
+      "rating": 4.6,
+      "reviewsCount": 76,
+      "priceHint": "₱2,006",
+      "amenities": [
+        "Free parking",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Airport shuttle",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"The accommodation is good.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Roces/data=!4m10!3m9!1s0x33a103dca6fdb85f:0xd811436aa9a4a871!5m2!4m1!1i2!8m2!3d13.137782!4d123.7366333!16s%2Fg%2F11c1xq942j!19sChIJX7j9ptwDoTMRcaikqWpDEdg"
+    },
+    {
+      "id": "633d969605c93c4a",
+      "googleFeatureId": "11n7hpzvpv",
+      "slug": "casa-tropica-villas",
+      "name": "Casa Tropica Villas",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1746906,
+        "lng": 121.1927414
+      },
+      "rating": 4.8,
+      "reviewsCount": 98,
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Tropica+Villas/data=!4m10!3m9!1s0x33bd61596a64cd51:0x633d969605c93c4a!5m2!4m1!1i2!8m2!3d14.1746906!4d121.1927414!16s%2Fg%2F11n7hpzvpv!19sChIJUc1kallhvTMRSjzJBZaWPWM"
+    },
+    {
+      "id": "fd5f5bd98cec3df7",
+      "googleFeatureId": "11tmkb5t8f",
+      "slug": "casita-de-grands",
+      "name": "Casita De Grands",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tiwi",
+        "Tupas",
+        "Manito"
+      ],
+      "address": "0945 851 0079",
+      "coordinates": {
+        "lat": 13.2476875,
+        "lng": 123.6146875
+      },
+      "rating": 4.7,
+      "reviewsCount": 55,
+      "editorialBlurb": "\"The staff is very welcoming, reliable and generous with their food servings.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Casita+De+Grands/data=!4m10!3m9!1s0x33a1a76ad0ad6ce7:0xfd5f5bd98cec3df7!5m2!4m1!1i2!8m2!3d13.2476875!4d123.6146875!16s%2Fg%2F11tmkb5t8f!19sChIJ52yt0GqnoTMR9z3sjNlbX_0"
+    },
+    {
+      "id": "542b65f3d3c32488",
+      "googleFeatureId": "11h4glmc",
+      "slug": "church-of-tanauan-historical-marker",
+      "name": "Church of Tanauan Historical Marker",
+      "categories": [
+        "tourist-attractions",
+        "heritage"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Heritage & Religious Sites"
+      ],
+      "primaryType": "Historical landmark",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "35P3+C83",
+      "coordinates": {
+        "lat": 14.0860001,
+        "lng": 121.1533099
+      },
+      "rating": 4.7,
+      "reviewsCount": 13,
+      "googleMapsUrl": "https://www.google.com/maps/place/Church+of+Tanauan+Historical+Marker/data=!4m7!3m6!1s0x33bd6f4eb5b4b2e9:0x542b65f3d3c32488!8m2!3d14.0860001!4d121.1533099!16s%2Fg%2F11h4glmc_t!19sChIJ6bK0tU5vvTMRiCTD0_NlK1Q"
+    },
+    {
+      "id": "55e4647e6e3f5af4",
+      "googleFeatureId": "1ts1k54z",
+      "slug": "club-balai-isabel",
+      "name": "Club Balai Isabel",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0924562,
+        "lng": 121.0169315
+      },
+      "rating": 4.2,
+      "reviewsCount": 3532,
+      "priceHint": "₱3,042",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned"
+      ],
+      "editorialBlurb": "Relaxed resort with dining & pools",
+      "googleMapsUrl": "https://www.google.com/maps/place/Club+Balai+Isabel/data=!4m10!3m9!1s0x33bd70949d43acf1:0x55e4647e6e3f5af4!5m2!4m1!1i2!8m2!3d14.0924562!4d121.0169315!16s%2Fg%2F1ts1k54z!19sChIJ8axDnZRwvTMR9Fo_bn5k5FU"
+    },
+    {
+      "id": "5e426b71c306837c",
+      "googleFeatureId": "11bzvxmqx1",
+      "slug": "coastal-view-resort",
+      "name": "Coastal View Resort",
+      "categories": [
+        "tourist-attractions",
+        "resorts",
+        "hotels",
+        "beaches",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts",
+        "Hotels",
+        "Beaches & Islands",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Malilipot",
+        "Santo Domingo",
+        "Legazpi City",
+        "Ligao City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Manito",
+        "Oas",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "(052) 437 8170",
+      "coordinates": {
+        "lat": 13.2362709,
+        "lng": 123.7826172
+      },
+      "rating": 4.1,
+      "reviewsCount": 177,
+      "editorialBlurb": "\"perfect place to chill\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Coastal+View+Resort/data=!4m10!3m9!1s0x33a1aacfac7c20c7:0x5e426b71c306837c!5m2!4m1!1i2!8m2!3d13.2362709!4d123.7826172!16s%2Fg%2F11bzvxmqx1!19sChIJxyB8rM-qoTMRfIMGw3FrQl4"
+    },
+    {
+      "id": "91ccec4509663037",
+      "googleFeatureId": "11gzbd55d",
+      "slug": "costa-palmera-resort",
+      "name": "Costa Palmera Resort",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Guinobatan",
+        "Libon",
+        "Pio Duran",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Malilipot",
+        "Malinao",
+        "Manito",
+        "Oas",
+        "Rapu-Rapu",
+        "Tupas"
+      ],
+      "address": "0917 880 2495",
+      "coordinates": {
+        "lat": 13.2381257,
+        "lng": 123.7874195
+      },
+      "rating": 4.3,
+      "reviewsCount": 248,
+      "priceHint": "₱6,894",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Beach access",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"Staff super friendly and helpful, rooms are clean, good food and good views!\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Costa+Palmera+Resort/data=!4m10!3m9!1s0x33a1aab77efdeef7:0x91ccec4509663037!5m2!4m1!1i2!8m2!3d13.2381257!4d123.7874195!16s%2Fg%2F11gzbd55d!19sChIJ9-79freqoTMRNzBmCUXszJE"
+    },
+    {
+      "id": "c98001d45ce758ac",
+      "googleFeatureId": "11k1hyxzcc",
+      "slug": "crisol-private-resort",
+      "name": "Crisol Private Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan",
+        "Tiwi",
+        "Jovellar",
+        "Malinao"
+      ],
+      "coordinates": {
+        "lat": 13.4623975,
+        "lng": 123.6482026
+      },
+      "rating": 4.2,
+      "reviewsCount": 22,
+      "editorialBlurb": "\"The facilities, while decent, were more than adequate for the price.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Crisol+Private+Resort/data=!4m7!3m6!1s0x33a1b19f26f68e19:0xc98001d45ce758ac!8m2!3d13.4623975!4d123.6482026!16s%2Fg%2F11k1hyxzcc!19sChIJGY72Jp-xoTMRrFjnXNQBgMk"
+    },
+    {
+      "id": "502d81efc7a4260b",
+      "googleFeatureId": "11ld5tpxs8",
+      "slug": "dancalan-beach-resort",
+      "name": "Dancalan Beach Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Pio Duran",
+        "Tanauan",
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Polangui",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 12.9229364,
+        "lng": 123.5780104
+      },
+      "rating": 3.7,
+      "reviewsCount": 29,
+      "priceHint": "₱1,127",
+      "editorialBlurb": "\"The rooms are big and clean with all amenities needed.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Dancalan+Beach+Resort/data=!4m10!3m9!1s0x33a13dcf36a1ce2d:0x502d81efc7a4260b!5m2!4m1!1i2!8m2!3d12.9229364!4d123.5780104!16s%2Fg%2F11ld5tpxs8!19sChIJLc6hNs89oTMRCyakx--BLVA"
+    },
+    {
+      "id": "ab45d067108b6d6",
+      "googleFeatureId": "11v3nn3rqt",
+      "slug": "diwata-nature-resort",
+      "name": "Diwata Nature Resort",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0926223,
+        "lng": 121.3676198
+      },
+      "rating": 4.5,
+      "reviewsCount": 689,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Free parking",
+        "Free breakfast"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Diwata+Nature+Resort/data=!4m10!3m9!1s0x33bd5bbe136ddff9:0xab45d067108b6d6!5m2!4m1!1i2!8m2!3d14.0926223!4d121.3676198!16s%2Fg%2F11v3nn3rqt!19sChIJ-d9tE75bvTMR1rYIcQZdtAo"
+    },
+    {
+      "id": "2f0907fd94b9388d",
+      "googleFeatureId": "11p9dk3982",
+      "slug": "dmi-hotels-and-apartments-tabaco-city-albay-by-reddoorz",
+      "name": "DMI Hotels & Apartments, Tabaco City Albay by Reddoorz",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts",
+        "food"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts",
+        "Food & Restaurants"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Guinobatan",
+        "Jovellanos",
+        "Malilipot",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tiwi",
+        "Tupas",
+        "Tanauan"
+      ],
+      "address": "0945 779 1118",
+      "coordinates": {
+        "lat": 13.3524254,
+        "lng": 123.7324822
+      },
+      "rating": 4.9,
+      "reviewsCount": 196,
+      "priceHint": "₱1,464",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned"
+      ],
+      "editorialBlurb": "\"Good services Good accommodation Nice view and rooms\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/DMI+Hotels+%26+Apartments,+Tabaco+City+Albay+by+Reddoorz/data=!4m10!3m9!1s0x33a1ad1165b89891:0x2f0907fd94b9388d!5m2!4m1!1i2!8m2!3d13.3524254!4d123.7324822!16s%2Fg%2F11p9dk3982!19sChIJkZi4ZRGtoTMRjTi5lP0HCS8"
+    },
+    {
+      "id": "e83d91a996f4ba4a",
+      "googleFeatureId": "1pzt2",
+      "slug": "dos-montes-spring-resort",
+      "name": "Dos Montes Spring Resort",
+      "categories": [
+        "tourist-attractions",
+        "resorts",
+        "hotels",
+        "beaches",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts",
+        "Hotels",
+        "Beaches & Islands",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Manito",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tiwi",
+        "Tupas"
+      ],
+      "address": "Dos Montes Resort, National Highway, Barangay 1 Poblacion, Malilipot",
+      "coordinates": {
+        "lat": 13.3114947,
+        "lng": 123.7399365
+      },
+      "rating": 4.2,
+      "reviewsCount": 208,
+      "amenities": [
+        "pool"
+      ],
+      "editorialBlurb": "e is not crowded and i enjoy the mini slide.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Dos+Montes+Spring+Resort/data=!4m7!3m6!1s0x33a1ac7a44c14841:0xe83d91a996f4ba4a!8m2!3d13.3114947!4d123.7399365!16s%2Fg%2F1pzt2_cq3!19sChIJQUjBRHqsoTMRSrr0lqmRPeg"
+    },
+    {
+      "id": "fe82154d49903e3a",
+      "googleFeatureId": "11x5w09qn8",
+      "slug": "dvm-transient-inn",
+      "name": "DVM TRANSIENT INN",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0958491,
+        "lng": 121.1454406
+      },
+      "rating": 4.8,
+      "reviewsCount": 5,
+      "priceHint": "₱1,176",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/DVM+TRANSIENT+INN/data=!4m10!3m9!1s0x33bd6500540177c5:0xfe82154d49903e3a!5m2!4m1!1i2!8m2!3d14.0958491!4d121.1454406!16s%2Fg%2F11x5w09qn8!19sChIJxXcBVABlvTMROj6QSU0Vgv4"
+    },
+    {
+      "id": "9c1a4312c28c4eb0",
+      "googleFeatureId": "1hc3nt1vc",
+      "slug": "elysia-beach-resort",
+      "name": "Elysia Beach Resort",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Pio Duran",
+        "Tanauan",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Polangui",
+        "Tupas"
+      ],
+      "address": "\"The rooms are adequate, and the 2 end chalets have great sea and pool views.\"",
+      "coordinates": {
+        "lat": 12.9267527,
+        "lng": 123.5737514
+      },
+      "rating": 4.5,
+      "reviewsCount": 235,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Beach access",
+        "Kid-friendly",
+        "pool"
+      ],
+      "editorialBlurb": "Beachfront quarters with dive trips",
+      "googleMapsUrl": "https://www.google.com/maps/place/Elysia+Beach+Resort/data=!4m10!3m9!1s0x33a13d15bb51051b:0x9c1a4312c28c4eb0!5m2!4m1!1i2!8m2!3d12.9267527!4d123.5737514!16s%2Fg%2F1hc3nt1vc!19sChIJGwVRuxU9oTMRsE6MwhJDGpw"
+    },
+    {
+      "id": "58e3a49bc0e38b07",
+      "googleFeatureId": "11cn5scycq",
+      "slug": "emerald-boutique-hotel",
+      "name": "Emerald Boutique Hotel",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Bacacay",
+        "Camalig",
+        "Tanauan"
+      ],
+      "address": "0917 322 5232",
+      "coordinates": {
+        "lat": 13.137106,
+        "lng": 123.735344
+      },
+      "rating": 4.2,
+      "reviewsCount": 293,
+      "priceHint": "₱2,750",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Breakfast",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "Laid-back hotel with a cafe & free Wi-Fi",
+      "googleMapsUrl": "https://www.google.com/maps/place/Emerald+Boutique+Hotel/data=!4m10!3m9!1s0x33a103db5479a843:0x58e3a49bc0e38b07!5m2!4m1!1i2!8m2!3d13.137106!4d123.735344!16s%2Fg%2F11cn5scycq!19sChIJQ6h5VNsDoTMRB4vjwJuk41g"
+    },
+    {
+      "id": "ae7fc0b5b2e0f556",
+      "googleFeatureId": "11hm3yzsvk",
+      "slug": "estela-s-hotel-and-event-center",
+      "name": "Estela's Hotel & Event Center",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0906607,
+        "lng": 121.1485757
+      },
+      "rating": 4.3,
+      "reviewsCount": 16,
+      "priceHint": "₱3,457",
+      "googleMapsUrl": "https://www.google.com/maps/place/Estela%27s+Hotel+%26+Event+Center/data=!4m10!3m9!1s0x33bd6f5ff904518d:0xae7fc0b5b2e0f556!5m2!4m1!1i2!8m2!3d14.0906607!4d121.1485757!16s%2Fg%2F11hm3yzsvk!19sChIJjVEE-V9vvTMRVvXgsrXAf64"
+    },
+    {
+      "id": "664eb821bfb5dae",
+      "googleFeatureId": "11h07cz7w7",
+      "slug": "front-beach-hotel-and-resort",
+      "name": "Front Beach Hotel & Resort",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0172223,
+        "lng": 121.0954979
+      },
+      "amenities": [
+        "Air-conditioned",
+        "Airport shuttle",
+        "Pet-friendly"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Front+Beach+Hotel+%26+Resort/data=!4m10!3m9!1s0x33bd6f8916db1c5f:0x664eb821bfb5dae!5m2!4m1!1i2!8m2!3d14.0172223!4d121.0954979!16s%2Fg%2F11h07cz7w7!19sChIJXxzbFolvvTMRrl37G4LrZAY"
+    },
+    {
+      "id": "b0f33f9f7940e2d8",
+      "googleFeatureId": "11b6b5gb56",
+      "slug": "galvaney-island",
+      "name": "Galvaney Island",
+      "categories": [
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands"
+      ],
+      "primaryType": "Island",
+      "locality": "Polangui, Albay",
+      "lgus": [
+        "Polangui",
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 13.6547776,
+        "lng": 122.7961069
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Galvaney+Island/data=!4m7!3m6!1s0x33a23e64d9244619:0xb0f33f9f7940e2d8!8m2!3d13.6547776!4d122.7961069!16s%2Fg%2F11b6b5gb56!19sChIJGUYk2WQ-ojMR2OJAeZ8_87A"
+    },
+    {
+      "id": "f8894f0036895c6c",
+      "googleFeatureId": "11sl",
+      "slug": "giant-statue-of-nuestra-se-ora-de-salvacion",
+      "name": "Giant Statue of Nuestra Señora de Salvacion",
+      "categories": [
+        "tourist-attractions"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Malilipot",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "\"I love the view specially the 360 viewing of the giant statue..\"",
+      "coordinates": {
+        "lat": 13.170261,
+        "lng": 123.7392507
+      },
+      "rating": 4.8,
+      "reviewsCount": 596,
+      "editorialBlurb": "\"The giant statue is so nice, the",
+      "googleMapsUrl": "https://www.google.com/maps/place/Giant+Statue+of+Nuestra+Se%C3%B1ora+de+Salvacion/data=!4m7!3m6!1s0x33a101bf06103b7f:0xf8894f0036895c6c!8m2!3d13.170261!4d123.7392507!16s%2Fg%2F11sl_l1284!19sChIJfzsQBr8BoTMRbFyJNgBPifg"
+    },
+    {
+      "id": "5dc4c0ea7c4ac1f8",
+      "googleFeatureId": "11j1m16507",
+      "slug": "golite-hostel-albay",
+      "name": "Golite Hostel-Albay",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0946 831 7521",
+      "coordinates": {
+        "lat": 13.1391841,
+        "lng": 123.7317843
+      },
+      "rating": 4.5,
+      "reviewsCount": 11,
+      "priceHint": "₱825",
+      "amenities": [
+        "Free Wi-Fi",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Golite+Hostel-Albay/data=!4m10!3m9!1s0x33a103dd1b24d253:0x5dc4c0ea7c4ac1f8!5m2!4m1!1i2!8m2!3d13.1391841!4d123.7317843!16s%2Fg%2F11j1m16507!19sChIJU9IkG90DoTMR-MFKfOrAxF0"
+    },
+    {
+      "id": "72e9598b61a9635e",
+      "googleFeatureId": "11jns",
+      "slug": "green-lava",
+      "name": "Green Lava",
+      "categories": [
+        "tourist-attractions",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts"
+      ],
+      "primaryType": "Park",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Daraga",
+        "Tanauan",
+        "Camalig"
+      ],
+      "plusCode": "6M4M+J5W",
+      "coordinates": {
+        "lat": 13.2066064,
+        "lng": 123.6829555
+      },
+      "rating": 4.7,
+      "reviewsCount": 116,
+      "hours": "Open 24 hours · view",
+      "googleMapsUrl": "https://www.google.com/maps/place/Green+Lava/data=!4m7!3m6!1s0x33a107e37636cf85:0x72e9598b61a9635e!8m2!3d13.2066064!4d123.6829555!16s%2Fg%2F11jns_0l83!19sChIJhc82duMHoTMRXmOpYYtZ6XI"
+    },
+    {
+      "id": "10d0a8b45d244f73",
+      "googleFeatureId": "1tpn02ql",
+      "slug": "hacienda-darasa-garden-resort-and-hotel",
+      "name": "Hacienda Darasa Garden Resort & Hotel",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0644113,
+        "lng": 121.1546843
+      },
+      "rating": 3.8,
+      "reviewsCount": 174,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Wi-Fi",
+        "Restaurant"
+      ],
+      "editorialBlurb": "\"They have a cafe, events area, Ifugao huts, rooms, and a big pool.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hacienda+Darasa+Garden+Resort+%26+Hotel/data=!4m10!3m9!1s0x33bd6f3967869979:0x10d0a8b45d244f73!5m2!4m1!1i2!8m2!3d14.0644113!4d121.1546843!16s%2Fg%2F1tpn02ql!19sChIJeZmGZzlvvTMRc08kXbSo0BA"
+    },
+    {
+      "id": "8f2c121c39af89f2",
+      "googleFeatureId": "11c6q3q0cm",
+      "slug": "hannah-s-garden-event-place",
+      "name": "Hannah's Garden Event Place",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1631688,
+        "lng": 121.0841203
+      },
+      "rating": 4.4,
+      "reviewsCount": 138,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "editorialBlurb": "Casual resort with dining & a pool",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hannah%27s+Garden+Event+Place/data=!4m10!3m9!1s0x33bd6370782a8477:0x8f2c121c39af89f2!5m2!4m1!1i2!8m2!3d14.1631688!4d121.0841203!16s%2Fg%2F11c6q3q0cm!19sChIJd4QqeHBjvTMR8omvORwSLI8"
+    },
+    {
+      "id": "ed79fcb61a98b28e",
+      "googleFeatureId": "11fk8c68yp",
+      "slug": "hannah-s-resort-and-event-place",
+      "name": "Hannah's Resort And Event Place",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1588776,
+        "lng": 121.0740518
+      },
+      "rating": 4.3,
+      "reviewsCount": 7,
+      "amenities": [
+        "Pool",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Hannah%27s+Resort+And+Event+Place/data=!4m10!3m9!1s0x33bd7b341ca09b1b:0xed79fcb61a98b28e!5m2!4m1!1i2!8m2!3d14.1588776!4d121.0740518!16s%2Fg%2F11fk8c68yp!19sChIJG5ugHDR7vTMRjrKYGrb8ee0"
+    },
+    {
+      "id": "8194eb6521d769da",
+      "googleFeatureId": "11wtgzyycq",
+      "slug": "hot-spring-resort",
+      "name": "Hot spring resort",
+      "categories": [
+        "resorts",
+        "falls-and-springs",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Waterfalls & Hot Springs",
+        "Private Resorts"
+      ],
+      "primaryType": "Cabraran Pequeno",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Guinobatan",
+        "Jovellar",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "\"100 pesos per head only.\"",
+      "plusCode": "3HXV+555",
+      "coordinates": {
+        "lat": 13.0978829,
+        "lng": 123.5929752
+      },
+      "rating": 5,
+      "reviewsCount": 4,
+      "editorialBlurb": "Environment renewable natural resources",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hot+spring+resort/data=!4m7!3m6!1s0x33a10f006160476d:0x8194eb6521d769da!8m2!3d13.0978829!4d123.5929752!16s%2Fg%2F11wtgzyycq!19sChIJbUdgYQAPoTMR2mnXIWXrlIE"
+    },
+    {
+      "id": "59c02d2c63fdbda1",
+      "googleFeatureId": "11khdy6b7y",
+      "slug": "hotel-areca",
+      "name": "Hotel Areca",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Ligao City",
+        "Tupas",
+        "Bacacay",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "0948 969 2075",
+      "coordinates": {
+        "lat": 13.1389016,
+        "lng": 123.732426
+      },
+      "rating": 4.6,
+      "reviewsCount": 227,
+      "priceHint": "₱2,550",
+      "editorialBlurb": "\"Beautiful view of Mayon, clean rooms, good service\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hotel+Areca/data=!4m10!3m9!1s0x33a1036cdf393c03:0x59c02d2c63fdbda1!5m2!4m1!1i2!8m2!3d13.1389016!4d123.732426!16s%2Fg%2F11khdy6b7y!19sChIJAzw532wDoTMRob39YywtwFk"
+    },
+    {
+      "id": "6f3377f34f053df7",
+      "googleFeatureId": "11btrs3x2t",
+      "slug": "hotel-fina",
+      "name": "Hotel Fina",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts",
+        "food"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts",
+        "Food & Restaurants"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Jovellanos",
+        "Tanauan",
+        "Bacacay",
+        "Malilipot",
+        "Malinao",
+        "Oas",
+        "Santo Domingo",
+        "Tiwi"
+      ],
+      "coordinates": {
+        "lat": 13.3574369,
+        "lng": 123.7292457
+      },
+      "rating": 4.1,
+      "reviewsCount": 181,
+      "priceHint": "₱2,505",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Free parking",
+        "Air-conditioned"
+      ],
+      "editorialBlurb": "Relaxed city hotel with a rooftop pool",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hotel+Fina/data=!4m10!3m9!1s0x33a1adc813cacc2d:0x6f3377f34f053df7!5m2!4m1!1i2!8m2!3d13.3574369!4d123.7292457!16s%2Fg%2F11btrs3x2t!19sChIJLczKE8itoTMR9z0FT_N3M28"
+    },
+    {
+      "id": "3ab95f61b32ff555",
+      "googleFeatureId": "11fnn",
+      "slug": "hotel-sentro-legazpi",
+      "name": "Hotel Sentro Legazpi",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Bacacay",
+        "Daraga",
+        "Tupas",
+        "Ligao City",
+        "Camalig",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "0917 182 9393",
+      "coordinates": {
+        "lat": 13.14636,
+        "lng": 123.750901
+      },
+      "rating": 4.5,
+      "reviewsCount": 287,
+      "priceHint": "₱3,135",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Breakfast"
+      ],
+      "editorialBlurb": "Down-to-earth hotel with Wi-Fi",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hotel+Sentro+Legazpi/data=!4m10!3m9!1s0x33a1017fbf210e2d:0x3ab95f61b32ff555!5m2!4m1!1i2!8m2!3d13.14636!4d123.750901!16s%2Fg%2F11fnn_948j!19sChIJLQ4hv38BoTMRVfUvs2FfuTo"
+    },
+    {
+      "id": "3a49e05d047d75d",
+      "googleFeatureId": "1tfxvk40",
+      "slug": "hotel-st-ellis",
+      "name": "Hotel St. Ellis",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "4-star hotel",
+      "starTier": "4-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Tupas",
+        "Malilipot",
+        "Jovellar",
+        "Manito",
+        "Oas",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "\"They have a complimentary breakfast buffet available 6:30 -9:00am.\"",
+      "coordinates": {
+        "lat": 13.148216,
+        "lng": 123.7545869
+      },
+      "rating": 4,
+      "reviewsCount": 480,
+      "priceHint": "₱2,998",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Free parking",
+        "Air-conditioned"
+      ],
+      "editorialBlurb": "High-end lodging with a pool & a gym",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hotel+St.+Ellis/data=!4m10!3m9!1s0x33a101819df9578d:0x3a49e05d047d75d!5m2!4m1!1i2!8m2!3d13.148216!4d123.7545869!16s%2Fg%2F1tfxvk40!19sChIJjVf5nYEBoTMRXddH0AWepAM"
+    },
+    {
+      "id": "dcfa57bcbdae4449",
+      "googleFeatureId": "11h8k665ry",
+      "slug": "italy-condotel-darasa-tanauan-city",
+      "name": "Italy Condotel Darasa, Tanauan City",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0640291,
+        "lng": 121.1537254
+      },
+      "rating": 4.4,
+      "reviewsCount": 83,
+      "priceHint": "₱3,582",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "editorialBlurb": "Laid-back hotel with dining & Wi-Fi",
+      "googleMapsUrl": "https://www.google.com/maps/place/Italy+Condotel+Darasa,+Tanauan+City/data=!4m10!3m9!1s0x33bd6555b4a3e1dd:0xdcfa57bcbdae4449!5m2!4m1!1i2!8m2!3d14.0640291!4d121.1537254!16s%2Fg%2F11h8k665ry!19sChIJ3eGjtFVlvTMRSUSuvbxX-tw"
+    },
+    {
+      "id": "9d561df4453eea53",
+      "googleFeatureId": "11vx0z6ws4",
+      "slug": "j-castles",
+      "name": "J Castles",
+      "categories": [
+        "tourist-attractions"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0754987,
+        "lng": 121.0684615
+      },
+      "rating": 4.1,
+      "reviewsCount": 1448,
+      "hours": "Closed · Opens 11 AM Thu",
+      "googleMapsUrl": "https://www.google.com/maps/place/J+Castles/data=!4m7!3m6!1s0x33bd71ebfb06de61:0x9d561df4453eea53!8m2!3d14.0754987!4d121.0684615!16s%2Fg%2F11vx0z6ws4!19sChIJYd4G--txvTMRU-o-RfQdVp0"
+    },
+    {
+      "id": "16def4e888373db5",
+      "googleFeatureId": "11vdpt46k3",
+      "slug": "jann-s-spring-resort",
+      "name": "Jann’s Spring Resort",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "8P7P+JV4",
+      "coordinates": {
+        "lat": 13.3140179,
+        "lng": 123.7371988
+      },
+      "rating": 4,
+      "reviewsCount": 20,
+      "editorialBlurb": "was clean and peaceful.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Jann%E2%80%99s+Spring+Resort/data=!4m7!3m6!1s0x33a1adfcc489b175:0x16def4e888373db5!8m2!3d13.3140179!4d123.7371988!16s%2Fg%2F11vdpt46k3!19sChIJdbGJxPytoTMRtT03iOj03hY"
+    },
+    {
+      "id": "3196f1e00a7d197f",
+      "googleFeatureId": "11fy9bk7xw",
+      "slug": "japanese-tunnel",
+      "name": "Japanese Tunnel",
+      "categories": [
+        "tourist-attractions",
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Malilipot",
+        "Tanauan",
+        "Tupas",
+        "Jovellar"
+      ],
+      "plusCode": "5MC7+4M5",
+      "coordinates": {
+        "lat": 13.1702518,
+        "lng": 123.6642209
+      },
+      "rating": 4.2,
+      "reviewsCount": 43,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Japanese+Tunnel/data=!4m7!3m6!1s0x33a10689b1708199:0x3196f1e00a7d197f!8m2!3d13.1702518!4d123.6642209!16s%2Fg%2F11fy9bk7xw!19sChIJmYFwsYkGoTMRfxl9CuDxljE"
+    },
+    {
+      "id": "d97bb97b858be0b0",
+      "googleFeatureId": "1vhq17dk",
+      "slug": "jardin-de-antonio",
+      "name": "Jardin De Antonio",
+      "categories": [
+        "tourist-attractions"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "4424+2Q3",
+      "coordinates": {
+        "lat": 14.1000237,
+        "lng": 121.1069355
+      },
+      "rating": 4.4,
+      "reviewsCount": 111,
+      "googleMapsUrl": "https://www.google.com/maps/place/Jardin+De+Antonio/data=!4m7!3m6!1s0x33bd6561ac8e38b1:0xd97bb97b858be0b0!8m2!3d14.1000237!4d121.1069355!16s%2Fg%2F1vhq17dk!19sChIJsTiOrGFlvTMRsOCLhXu5e9k"
+    },
+    {
+      "id": "f2a3685221b3dde9",
+      "googleFeatureId": "11ydcck0ft",
+      "slug": "jazkimronan-resort",
+      "name": "JazKimRonan Resort",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0910435,
+        "lng": 121.0354576
+      },
+      "rating": 3.7,
+      "reviewsCount": 3,
+      "priceHint": "₱3,796",
+      "amenities": [
+        "Pool",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/JazKimRonan+Resort/data=!4m10!3m9!1s0x33bd710041ebd8cb:0xf2a3685221b3dde9!5m2!4m1!1i2!8m2!3d14.0910435!4d121.0354576!16s%2Fg%2F11ydcck0ft!19sChIJy9jrQQBxvTMR6d2zIVJoo_I"
+    },
+    {
+      "id": "ba5efde10fbc6863",
+      "googleFeatureId": "11gczvccyj",
+      "slug": "jdl-residences",
+      "name": "JDL RESIDENCES",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tupas",
+        "Ligao City",
+        "Guinobatan",
+        "Tanauan"
+      ],
+      "address": "0942 099 5530",
+      "coordinates": {
+        "lat": 13.1501084,
+        "lng": 123.7448077
+      },
+      "rating": 4.5,
+      "reviewsCount": 119,
+      "amenities": [
+        "Air-conditioned",
+        "Wi-Fi",
+        "Parking",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"You get a full, breathtaking view of the majestic Mayon Volcano.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/JDL+RESIDENCES/data=!4m10!3m9!1s0x33a1017c0b11a21b:0xba5efde10fbc6863!5m2!4m1!1i2!8m2!3d13.1501084!4d123.7448077!16s%2Fg%2F11gczvccyj!19sChIJG6IRC3wBoTMRY2i8D-H9Xro"
+    },
+    {
+      "id": "1b7ddfe3151023ff",
+      "googleFeatureId": "11dynbwq8d",
+      "slug": "jenerick-resort",
+      "name": "Jenerick Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1376732,
+        "lng": 121.1085484
+      },
+      "rating": 4,
+      "reviewsCount": 74,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Wi-Fi"
+      ],
+      "editorialBlurb": "\"Great for family bonding.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Jenerick+Resort/data=!4m10!3m9!1s0x33bd6506c377ec6f:0x1b7ddfe3151023ff!5m2!4m1!1i2!8m2!3d14.1376732!4d121.1085484!16s%2Fg%2F11dynbwq8d!19sChIJb-x3wwZlvTMR_yMQFePffRs"
+    },
+    {
+      "id": "798127f5311288b9",
+      "googleFeatureId": "11ddyj5hyq",
+      "slug": "joseph-resort",
+      "name": "Joseph Resort",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Brgy",
+      "coordinates": {
+        "lat": 14.0648303,
+        "lng": 121.0737956
+      },
+      "rating": 4.4,
+      "reviewsCount": 45,
+      "googleMapsUrl": "https://www.google.com/maps/place/Joseph+Resort/data=!4m7!3m6!1s0x33bd702bf769ae69:0x798127f5311288b9!8m2!3d14.0648303!4d121.0737956!16s%2Fg%2F11ddyj5hyq!19sChIJaa5p9ytwvTMRuYgSMfUngXk"
+    },
+    {
+      "id": "e6c4096d223df1e2",
+      "googleFeatureId": "11fzb22qjn",
+      "slug": "jovellar-underground-river",
+      "name": "Jovellar Underground River",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "Brgy",
+      "plusCode": "3JG3+FGM",
+      "coordinates": {
+        "lat": 13.0762237,
+        "lng": 123.6037989
+      },
+      "rating": 4.3,
+      "reviewsCount": 208,
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Jovellar+Underground+River/data=!4m7!3m6!1s0x33a1100461cbee0b:0xe6c4096d223df1e2!8m2!3d13.0762237!4d123.6037989!16s%2Fg%2F11fzb22qjn!19sChIJC-7LYQQQoTMR4vE9Im0JxOY"
+    },
+    {
+      "id": "d83b847d68f02d08",
+      "googleFeatureId": "11j137bf4s",
+      "slug": "la-bella-boutique-hotel-tagaytay",
+      "name": "La Bella Boutique Hotel Tagaytay",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Sponsored",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.092176,
+        "lng": 120.903644
+      },
+      "rating": 4.2,
+      "reviewsCount": 584,
+      "priceHint": "₱1,736",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Breakfast",
+        "Wi-Fi"
+      ],
+      "editorialBlurb": "Upmarket lodging with an outdoor pool",
+      "googleMapsUrl": "https://www.google.com/maps/place/La+Bella+Boutique+Hotel+Tagaytay/data=!4m10!3m9!1s0x33bd77d11d5cb7c3:0xd83b847d68f02d08!5m2!4m1!1i2!8m2!3d14.092176!4d120.903644!16s%2Fg%2F11j137bf4s!19sChIJw7dcHdF3vTMRCC3waH2EO9g"
+    },
+    {
+      "id": "9f1ac32f02e60f6c",
+      "googleFeatureId": "11wvt1vrzl",
+      "slug": "la-casa-vega-private-beach-resort-calatagan-batangas",
+      "name": "La Casa Vega Private Beach Resort-Calatagan,Batangas",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Barangay Road",
+      "coordinates": {
+        "lat": 13.9280489,
+        "lng": 120.6205945
+      },
+      "rating": 4.2,
+      "reviewsCount": 16,
+      "googleMapsUrl": "https://www.google.com/maps/place/La+Casa+Vega+Private+Beach+Resort-Calatagan,Batangas/data=!4m7!3m6!1s0x33bdbd01c455f961:0x9f1ac32f02e60f6c!8m2!3d13.9280489!4d120.6205945!16s%2Fg%2F11wvt1vrzl!19sChIJYflVxAG9vTMRbA_mAi_DGp8"
+    },
+    {
+      "id": "88b8778f6b4c11b8",
+      "googleFeatureId": "11pm4hzxdl",
+      "slug": "la-fontana-beach-resort",
+      "name": "LA FONTANA BEACH RESORT",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Hostel",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Guinobatan",
+        "Oas",
+        "Pio Duran",
+        "Tanauan",
+        "Tupas",
+        "Libon",
+        "Polangui",
+        "Jovellanos"
+      ],
+      "plusCode": "286H+586",
+      "coordinates": {
+        "lat": 13.0104161,
+        "lng": 123.3282595
+      },
+      "rating": 4.4,
+      "reviewsCount": 41,
+      "editorialBlurb": "\"Seems a bit ghetto on the way there but the",
+      "googleMapsUrl": "https://www.google.com/maps/place/LA+FONTANA+BEACH+RESORT/data=!4m7!3m6!1s0x33a1699f5d7a7e3f:0x88b8778f6b4c11b8!8m2!3d13.0104161!4d123.3282595!16s%2Fg%2F11pm4hzxdl!19sChIJP356XZ9poTMRuBFMa493uIg"
+    },
+    {
+      "id": "5062256256ed6578",
+      "googleFeatureId": "11cn93zr69",
+      "slug": "la-hacienda-spring-resort",
+      "name": "La Hacienda Spring Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Guinobatan",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0939 874 1916",
+      "coordinates": {
+        "lat": 13.1626639,
+        "lng": 123.601378
+      },
+      "rating": 4.2,
+      "reviewsCount": 58,
+      "editorialBlurb": "\"Perfect for family outing and perfect for Instagram photos.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/La+Hacienda+Spring+Resort/data=!4m10!3m9!1s0x33a10f4c0dc4a203:0x5062256256ed6578!5m2!4m1!1i2!8m2!3d13.1626639!4d123.601378!16s%2Fg%2F11cn93zr69!19sChIJA6LEDUwPoTMReGXtVmIlYlA"
+    },
+    {
+      "id": "8b9e4225a2ea79e8",
+      "googleFeatureId": "11xw5tbh5l",
+      "slug": "la-manna-events-and-leisure-place",
+      "name": "La Manna Events and Leisure Place",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0805606,
+        "lng": 121.1181378
+      },
+      "rating": 5,
+      "reviewsCount": 7,
+      "priceHint": "₱7,408",
+      "googleMapsUrl": "https://www.google.com/maps/place/La+Manna+Events+and+Leisure+Place/data=!4m10!3m9!1s0x33bd6fdba3c30ee3:0x8b9e4225a2ea79e8!5m2!4m1!1i2!8m2!3d14.0805606!4d121.1181378!16s%2Fg%2F11xw5tbh5l!19sChIJ4w7Do9tvvTMR6HnqoiVCnos"
+    },
+    {
+      "id": "1d1311f0e4eaa03b",
+      "googleFeatureId": "11f2s94gg5",
+      "slug": "lake-house",
+      "name": "Lake House",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0896015,
+        "lng": 121.0225906
+      },
+      "rating": 4.4,
+      "reviewsCount": 29,
+      "googleMapsUrl": "https://www.google.com/maps/place/Lake+House/data=!4m10!3m9!1s0x33bd708d5b147109:0x1d1311f0e4eaa03b!5m2!4m1!1i2!8m2!3d14.0896015!4d121.0225906!16s%2Fg%2F11f2s94gg5!19sChIJCXEUW41wvTMRO6Dq5PAREx0"
+    },
+    {
+      "id": "3b0c821ef463e409",
+      "googleFeatureId": "11splgmf",
+      "slug": "laurel-heritage-resort-and-spa",
+      "name": "Laurel Heritage Resort and Spa",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1071843,
+        "lng": 121.145693
+      },
+      "rating": 4,
+      "reviewsCount": 20,
+      "priceHint": "₱3,795",
+      "editorialBlurb": "Relaxed hotel with a spa, pool & dining",
+      "googleMapsUrl": "https://www.google.com/maps/place/Laurel+Heritage+Resort+and+Spa/data=!4m10!3m9!1s0x33bd651a54009ecf:0x3b0c821ef463e409!5m2!4m1!1i2!8m2!3d14.1071843!4d121.145693!16s%2Fg%2F11splgmf_r!19sChIJz54AVBplvTMRCeRj9B6CDDs"
+    },
+    {
+      "id": "f729faf96c51d04d",
+      "googleFeatureId": "11dym8gts0",
+      "slug": "legazpi-boulevard",
+      "name": "Legazpi Boulevard",
+      "categories": [
+        "tourist-attractions",
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands"
+      ],
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Jovellanos",
+        "Tanauan",
+        "Daraga"
+      ],
+      "address": "Legazpi Blvd",
+      "coordinates": {
+        "lat": 13.134933,
+        "lng": 123.7636405
+      },
+      "rating": 4.6,
+      "reviewsCount": 125,
+      "hours": "Open 24 hours · place",
+      "googleMapsUrl": "https://www.google.com/maps/place/Legazpi+Boulevard/data=!4m7!3m6!1s0x33a1022579fe3e8d:0xf729faf96c51d04d!8m2!3d13.134933!4d123.7636405!16s%2Fg%2F11dym8gts0!19sChIJjT7-eSUCoTMRTdBRbPn6Kfc"
+    },
+    {
+      "id": "51b406c9716fa6e5",
+      "googleFeatureId": "11h7rpg",
+      "slug": "legazpi-oceanfront-hostel",
+      "name": "Legazpi Oceanfront Hostel",
+      "categories": [
+        "beaches",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Legazpi City",
+        "Jovellanos",
+        "Manito",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 13.13622,
+        "lng": 123.76188
+      },
+      "rating": 4.5,
+      "reviewsCount": 16,
+      "googleMapsUrl": "https://www.google.com/maps/place/Legazpi+Oceanfront+Hostel/data=!4m10!3m9!1s0x33a103ec2e6a6709:0x51b406c9716fa6e5!5m2!4m1!1i2!8m2!3d13.13622!4d123.76188!16s%2Fg%2F11h7rpg_dd!19sChIJCWdqLuwDoTMR5aZvcckGtFE"
+    },
+    {
+      "id": "655b46dc0b94edc1",
+      "googleFeatureId": "11vwdgcp6m",
+      "slug": "llanes-bancolita-taal-lakeview-resort-balete",
+      "name": "Llanes-Bancolita (taal lakeview resort balete)",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0153806,
+        "lng": 121.0960078
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Llanes-Bancolita+%28taal+lakeview+resort+balete%29/data=!4m10!3m9!1s0x33bd6d0019ed827f:0x655b46dc0b94edc1!5m2!4m1!1i2!8m2!3d14.0153806!4d121.0960078!16s%2Fg%2F11vwdgcp6m!19sChIJf4LtGQBtvTMRwe2UC9xGW2U"
+    },
+    {
+      "id": "5467f0bb99066d3e",
+      "googleFeatureId": "11l6bfh",
+      "slug": "lucia-s-place",
+      "name": "Lucia's Place",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Bed & breakfast",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0657697,
+        "lng": 121.0856755
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Lucia%27s+Place/data=!4m10!3m9!1s0x33bd6fc2908605bf:0x5467f0bb99066d3e!5m2!4m1!1i2!8m2!3d14.0657697!4d121.0856755!16s%2Fg%2F11l6bfh_p2!19sChIJvwWGkMJvvTMRPm0GmbvwZ1Q"
+    },
+    {
+      "id": "9a8886fa53bfa532",
+      "googleFeatureId": "11kj8",
+      "slug": "malvar-shrine",
+      "name": "Malvar Shrine",
+      "categories": [
+        "tourist-attractions"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "446V+43W",
+      "coordinates": {
+        "lat": 14.1103706,
+        "lng": 121.1427134
+      },
+      "rating": 4.7,
+      "reviewsCount": 13,
+      "editorialBlurb": "museum and a very knowledgeable guide.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Malvar+Shrine/data=!4m7!3m6!1s0x33bd6595d74fffff:0x9a8886fa53bfa532!8m2!3d14.1103706!4d121.1427134!16s%2Fg%2F11kj8_yxpn!19sChIJ__9P15VlvTMRMqW_U_qGiJo"
+    },
+    {
+      "id": "48ae05eb01a4bce8",
+      "googleFeatureId": "1hcbh3g8k",
+      "slug": "manhattan-beach-resort",
+      "name": "Manhattan Beach Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Polangui",
+        "Santo Domingo",
+        "Tupas",
+        "Legazpi City",
+        "Bacacay",
+        "Malilipot",
+        "Manito",
+        "Oas",
+        "Pio Duran",
+        "Rapu-Rapu",
+        "Tanauan"
+      ],
+      "address": "(052) 481 9524",
+      "coordinates": {
+        "lat": 13.2383089,
+        "lng": 123.7899093
+      },
+      "rating": 3.9,
+      "reviewsCount": 115,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Beach access",
+        "Wi-Fi",
+        "Kid-friendly",
+        "pool"
+      ],
+      "editorialBlurb": "\"Has pool with slides and access to the seashore.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Manhattan+Beach+Resort/data=!4m10!3m9!1s0x33a1aabc262f41db:0x48ae05eb01a4bce8!5m2!4m1!1i2!8m2!3d13.2383089!4d123.7899093!16s%2Fg%2F1hcbh3g8k!19sChIJ20EvJryqoTMR6LykAesFrkg"
+    },
+    {
+      "id": "7833b54326566549",
+      "googleFeatureId": "11fl9lthgf",
+      "slug": "mataas-public-beach",
+      "name": "Mataas Public Beach",
+      "categories": [
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Public beach",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "6VJH+7PX",
+      "coordinates": {
+        "lat": 13.2307262,
+        "lng": 123.8793737
+      },
+      "rating": 4.4,
+      "reviewsCount": 29,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mataas+Public+Beach/data=!4m7!3m6!1s0x33a055d43444f42d:0x7833b54326566549!8m2!3d13.2307262!4d123.8793737!16s%2Fg%2F11fl9lthgf!19sChIJLfRENNRVoDMRSWVWJkO1M3g"
+    },
+    {
+      "id": "c3877913b9498640",
+      "googleFeatureId": "12hk3",
+      "slug": "mayon-backpackers-hostel",
+      "name": "Mayon Backpackers Hostel",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Oas",
+        "Rapu-Rapu",
+        "Tupas",
+        "Ligao City",
+        "Bacacay",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Malilipot",
+        "Manito",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "0905 518 6076",
+      "coordinates": {
+        "lat": 13.136639,
+        "lng": 123.7308215
+      },
+      "rating": 3.9,
+      "reviewsCount": 225,
+      "priceHint": "₱1,290",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Breakfast"
+      ],
+      "editorialBlurb": "Laid-back hostel with volcano views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mayon+Backpackers+Hostel/data=!4m10!3m9!1s0x33a103c2c799d67b:0xc3877913b9498640!5m2!4m1!1i2!8m2!3d13.136639!4d123.7308215!16s%2Fg%2F12hk3_zt2!19sChIJe9aZx8IDoTMRQIZJuRN5h8M"
+    },
+    {
+      "id": "6cd8b0b88c16deb2",
+      "googleFeatureId": "11csppznkk",
+      "slug": "mayon-lodging-house",
+      "name": "Mayon Lodging House",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Malinao",
+        "Manito",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Santo Domingo",
+        "Malilipot",
+        "Rapu-Rapu",
+        "Tupas",
+        "Ligao City",
+        "Tanauan",
+        "Tiwi"
+      ],
+      "address": "0919 991 4561",
+      "coordinates": {
+        "lat": 13.1656473,
+        "lng": 123.6955488
+      },
+      "rating": 4.3,
+      "reviewsCount": 331,
+      "priceHint": "₱1,056",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "Modest guesthouse with volcano views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mayon+Lodging+House/data=!4m10!3m9!1s0x33a106ba7bb12f45:0x6cd8b0b88c16deb2!5m2!4m1!1i2!8m2!3d13.1656473!4d123.6955488!16s%2Fg%2F11csppznkk!19sChIJRS-xe7oGoTMRst4WjLiw2Gw"
+    },
+    {
+      "id": "7d22dc13686d319e",
+      "googleFeatureId": "11csc8n2gw",
+      "slug": "mayon-skydrive-atv-adventure",
+      "name": "Mayon SkyDrive ATV Adventure",
+      "categories": [
+        "tourist-attractions",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Oas",
+        "Tanauan",
+        "Legazpi City",
+        "Ligao City",
+        "Bacacay",
+        "Malinao",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tupas"
+      ],
+      "address": "Mayon SkyDrive, ATV Adventure, Cagsawa Road",
+      "coordinates": {
+        "lat": 13.1647722,
+        "lng": 123.701462
+      },
+      "rating": 4.7,
+      "reviewsCount": 250,
+      "hours": "Open · Closes 5 PM",
+      "editorialBlurb": "ATV rental service",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mayon+SkyDrive+ATV+Adventure/data=!4m7!3m6!1s0x33a106b17fcf10c9:0x7d22dc13686d319e!8m2!3d13.1647722!4d123.701462!16s%2Fg%2F11csc8n2gw!19sChIJyRDPf7EGoTMRnjFtaBPcIn0"
+    },
+    {
+      "id": "7f9807aa36309a6f",
+      "googleFeatureId": "12qg76j4m",
+      "slug": "mayon-spring-resort",
+      "name": "Mayon Spring Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Jovellanos",
+        "Pio Duran",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas",
+        "Camalig",
+        "Jovellar",
+        "Malilipot",
+        "Manito"
+      ],
+      "plusCode": "6QGF+35J",
+      "coordinates": {
+        "lat": 13.2252236,
+        "lng": 123.7728892
+      },
+      "rating": 3.8,
+      "reviewsCount": 57,
+      "googleMapsUrl": "https://www.google.com/maps/place/Mayon+Spring+Resort/data=!4m7!3m6!1s0x33a1aa9f40e72879:0x7f9807aa36309a6f!8m2!3d13.2252236!4d123.7728892!16s%2Fg%2F12qg76j4m!19sChIJeSjnQJ-qoTMRb5owNqoHmH8"
+    },
+    {
+      "id": "1205011543c512be",
+      "googleFeatureId": "11xgfgyt8c",
+      "slug": "mayon-terrazas-private-resort",
+      "name": "Mayon Terrazas Private Resort",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Tupas",
+        "Jovellar",
+        "Libon",
+        "Manito",
+        "Tanauan"
+      ],
+      "address": "145 1, 145 1",
+      "coordinates": {
+        "lat": 13.1737332,
+        "lng": 123.6854365
+      },
+      "rating": 4.6,
+      "reviewsCount": 7,
+      "editorialBlurb": "\"Perfect to unwind and just enjoy the Mayon view.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mayon+Terrazas+Private+Resort/data=!4m7!3m6!1s0x33a107002bf5e155:0x1205011543c512be!8m2!3d13.1737332!4d123.6854365!16s%2Fg%2F11xgfgyt8c!19sChIJVeH1KwAHoTMRvhLFQxUBBRI"
+    },
+    {
+      "id": "7c97e5fa3984daec",
+      "googleFeatureId": "11y4pcg9l6",
+      "slug": "mgm-guest-house",
+      "name": "MGM Guest House",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hostel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0771344,
+        "lng": 121.1758837
+      },
+      "rating": 4.5,
+      "reviewsCount": 6,
+      "priceHint": "₱1,298",
+      "googleMapsUrl": "https://www.google.com/maps/place/MGM+Guest+House/data=!4m10!3m9!1s0x33bd6900286b65b7:0x7c97e5fa3984daec!5m2!4m1!1i2!8m2!3d14.0771344!4d121.1758837!16s%2Fg%2F11y4pcg9l6!19sChIJt2VrKABpvTMR7NqEOfrll3w"
+    },
+    {
+      "id": "9f6aa5f44b1c6da4",
+      "googleFeatureId": "11ynbm7hmj",
+      "slug": "mgm-guest-house-tanauan-city",
+      "name": "MGM Guest House Tanauan City",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Inn",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0902939,
+        "lng": 121.1469347
+      },
+      "priceHint": "₱2,970",
+      "googleMapsUrl": "https://www.google.com/maps/place/MGM+Guest+House+Tanauan+City/data=!4m10!3m9!1s0x33bd6fe13c25bee9:0x9f6aa5f44b1c6da4!5m2!4m1!1i2!8m2!3d14.0902939!4d121.1469347!16s%2Fg%2F11ynbm7hmj!19sChIJ6b4lPOFvvTMRpG0cS_Slap8"
+    },
+    {
+      "id": "295b6e3dfc44f218",
+      "googleFeatureId": "1td564gf",
+      "slug": "microtel-by-wyndham-batangas",
+      "name": "Microtel by Wyndham Batangas",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.137289,
+        "lng": 121.1338371
+      },
+      "rating": 4,
+      "reviewsCount": 179,
+      "priceHint": "₱4,592",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free breakfast",
+        "Free Wi-Fi"
+      ],
+      "editorialBlurb": "Relaxed roadside hotel with a pool",
+      "googleMapsUrl": "https://www.google.com/maps/place/Microtel+by+Wyndham+Batangas/data=!4m10!3m9!1s0x33bd69162e3c4b19:0x295b6e3dfc44f218!5m2!4m1!1i2!8m2!3d14.137289!4d121.1338371!16s%2Fg%2F1td564gf!19sChIJGUs8LhZpvTMRGPJE_D1uWyk"
+    },
+    {
+      "id": "f791c2208e2e4cce",
+      "googleFeatureId": "1tg",
+      "slug": "misibis-bay-resort",
+      "name": "Misibis Bay Resort",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "nature-sanctuaries",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Nature Reserves & Sanctuaries",
+        "Private Resorts"
+      ],
+      "primaryType": "5-star hotel",
+      "starTier": "5-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Guinobatan",
+        "Tanauan",
+        "Ligao City",
+        "Tabaco City",
+        "Daraga",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Manito",
+        "Oas",
+        "Pio Duran",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tupas",
+        "Jovellar",
+        "Malilipot",
+        "Tiwi"
+      ],
+      "address": "Posh beachfront hotel with 3 pools",
+      "coordinates": {
+        "lat": 13.2380411,
+        "lng": 123.908856
+      },
+      "rating": 4.4,
+      "reviewsCount": 1229,
+      "priceHint": "₱5,375",
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Free parking",
+        "Free Wi-Fi",
+        "Beach access",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"Looking for affordable and breathtaking scenery?\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Misibis+Bay+Resort/data=!4m10!3m9!1s0x33a053efffffffff:0xf791c2208e2e4cce!5m2!4m1!1i2!8m2!3d13.2380411!4d123.908856!16s%2Fg%2F1tg_clcg!19sChIJ_____-9ToDMRzkwujiDCkfc"
+    },
+    {
+      "id": "18fc3a9bf24ac3b8",
+      "googleFeatureId": "1thpz7kx",
+      "slug": "montecillo-de-leonardo-resort",
+      "name": "Montecillo De Leonardo Resort",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0710523,
+        "lng": 121.0717273
+      },
+      "rating": 4.1,
+      "reviewsCount": 30,
+      "amenities": [
+        "Air-conditioned",
+        "Pet-friendly"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Montecillo+De+Leonardo+Resort/data=!4m10!3m9!1s0x33bd6f30410c5e2b:0x18fc3a9bf24ac3b8!5m2!4m1!1i2!8m2!3d14.0710523!4d121.0717273!16s%2Fg%2F1thpz7kx!19sChIJK14MQTBvvTMRuMNK8ps6_Bg"
+    },
+    {
+      "id": "482039fbbff49b53",
+      "googleFeatureId": "11q1jyzm6p",
+      "slug": "mosboron-beach",
+      "name": "Mosboron Beach",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay",
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas",
+        "Tabaco City",
+        "Rapu-Rapu"
+      ],
+      "coordinates": {
+        "lat": 13.2421266,
+        "lng": 123.9090691
+      },
+      "rating": 3.8,
+      "reviewsCount": 151,
+      "hours": "Open 24 hours · tour 100 pesos for overnight\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mosboron+Beach/data=!4m7!3m6!1s0x33a0571b1619728d:0x482039fbbff49b53!8m2!3d13.2421266!4d123.9090691!16s%2Fg%2F11q1jyzm6p!19sChIJjXIZFhtXoDMRU5v0v_s5IEg"
+    },
+    {
+      "id": "d43832daedad11b5",
+      "googleFeatureId": "11ll2wg99g",
+      "slug": "mountain-resort",
+      "name": "Mountain Resort",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "1151 Kinaragan",
+      "coordinates": {
+        "lat": 14.5490418,
+        "lng": 120.5620075
+      },
+      "rating": 4.5,
+      "reviewsCount": 30,
+      "googleMapsUrl": "https://www.google.com/maps/place/Mountain+Resort/data=!4m7!3m6!1s0x33963da711185153:0xd43832daedad11b5!8m2!3d14.5490418!4d120.5620075!16s%2Fg%2F11ll2wg99g!19sChIJU1EYEac9ljMRtRGt7doyONQ"
+    },
+    {
+      "id": "b5220a8dd607505",
+      "googleFeatureId": "11fz3zbb2j",
+      "slug": "mt-mayon-view-point",
+      "name": "Mt. Mayon View Point",
+      "categories": [
+        "tourist-attractions",
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Malilipot",
+        "Malinao",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas",
+        "Libon",
+        "Pio Duran",
+        "Polangui"
+      ],
+      "address": "Legazpi Blvd",
+      "plusCode": "4QGF+X9V",
+      "coordinates": {
+        "lat": 13.127478,
+        "lng": 123.773412
+      },
+      "rating": 4.6,
+      "reviewsCount": 159,
+      "editorialBlurb": "\"Visited Puro, Legazpi City to view the beautiful Mt. Mayon.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mt.+Mayon+View+Point/data=!4m7!3m6!1s0x33a1023df27c5e75:0xb5220a8dd607505!8m2!3d13.127478!4d123.773412!16s%2Fg%2F11fz3zbb2j!19sChIJdV588j0CoTMRBXVg3aggUgs"
+    },
+    {
+      "id": "a8ef948499190d97",
+      "googleFeatureId": "11hdzrrr4s",
+      "slug": "muladbucad-white-beach",
+      "name": "Muladbucad White Beach",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Beach pavillion",
+      "locality": "Jovellanos, Albay",
+      "lgus": [
+        "Jovellanos",
+        "Manito",
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Pio Duran",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "4WP5+M6Q",
+      "coordinates": {
+        "lat": 13.1367029,
+        "lng": 123.9080953
+      },
+      "rating": 4.3,
+      "reviewsCount": 96,
+      "hours": "Open now",
+      "editorialBlurb": "\"The entrance fee is very affordable.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Muladbucad+White+Beach/data=!4m7!3m6!1s0x33a0f98b5561c919:0xa8ef948499190d97!8m2!3d13.1367029!4d123.9080953!16s%2Fg%2F11hdzrrr4s!19sChIJGclhVYv5oDMRlw0ZmYSU76g"
+    },
+    {
+      "id": "6a2dab22a8e7ab4",
+      "googleFeatureId": "11s55dppkm",
+      "slug": "namanday-island-resort",
+      "name": "Namanday Island Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Guinobatan",
+        "Pio Duran",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas",
+        "Tabaco City",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Rapu-Rapu",
+        "Camalig",
+        "Jovellar",
+        "Malilipot"
+      ],
+      "address": "0917 313 1107",
+      "coordinates": {
+        "lat": 13.3055235,
+        "lng": 123.9451874
+      },
+      "rating": 4.3,
+      "reviewsCount": 46,
+      "priceHint": "₱2,882",
+      "editorialBlurb": "\"𝚆𝚎𝚕𝚕 𝚠𝚎 𝚑𝚊𝚍 𝚊𝚗 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚝𝚒𝚖𝚎 𝚏𝚘𝚘𝚍 𝚠𝚊𝚜 𝚐𝚛𝚎𝚊𝚝 𝚜𝚎𝚛𝚟𝚒𝚌𝚎 𝚊𝚠𝚎𝚜𝚘𝚖𝚎\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Namanday+Island+Resort/data=!4m10!3m9!1s0x33a051b1d024ee95:0x6a2dab22a8e7ab4!5m2!4m1!1i2!8m2!3d13.3055235!4d123.9451874!16s%2Fg%2F11s55dppkm!19sChIJle4k0LFRoDMRtHqOKrLaogY"
+    },
+    {
+      "id": "53bb33917e4a2bb5",
+      "googleFeatureId": "11fksrr8pq",
+      "slug": "nardstar-boarding-house",
+      "name": "Nardstar Boarding House",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Boarding house",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "350 / 431 Cañumay St",
+      "coordinates": {
+        "lat": 13.1458717,
+        "lng": 123.731611
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Nardstar+Boarding+House/data=!4m7!3m6!1s0x33a1035b2b2f5917:0x53bb33917e4a2bb5!8m2!3d13.1458717!4d123.731611!16s%2Fg%2F11fksrr8pq!19sChIJF1kvK1sDoTMRtStKfpEzu1M"
+    },
+    {
+      "id": "ff767f9863a3d6ed",
+      "googleFeatureId": "11y4nsnvw8",
+      "slug": "nature-s-view-resort",
+      "name": "Nature's View Resort",
+      "categories": [
+        "resorts",
+        "hiking-and-camping",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hiking & Camping",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Jovellar",
+        "Malilipot",
+        "Manito",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "4QC4+7V7",
+      "coordinates": {
+        "lat": 13.120918,
+        "lng": 123.756633
+      },
+      "rating": 4.4,
+      "reviewsCount": 10,
+      "editorialBlurb": "Hacienda Padilla",
+      "googleMapsUrl": "https://www.google.com/maps/place/Nature%27s+View+Resort/data=!4m7!3m6!1s0x33a103006e255bb3:0xff767f9863a3d6ed!8m2!3d13.120918!4d123.756633!16s%2Fg%2F11y4nsnvw8!19sChIJs1slbgADoTMR7dajY5h_dv8"
+    },
+    {
+      "id": "9a8441e9369e7b01",
+      "googleFeatureId": "11c4f12kn4",
+      "slug": "nayomi-sanctuary-resort",
+      "name": "Nayomi Sanctuary Resort",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0101023,
+        "lng": 121.1067414
+      },
+      "rating": 4.5,
+      "reviewsCount": 156,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Wi-Fi",
+        "Restaurant"
+      ],
+      "editorialBlurb": "Remote hotel with a pool & a bar",
+      "googleMapsUrl": "https://www.google.com/maps/place/Nayomi+Sanctuary+Resort/data=!4m10!3m9!1s0x33bd6dcbaaaaaaab:0x9a8441e9369e7b01!5m2!4m1!1i2!8m2!3d14.0101023!4d121.1067414!16s%2Fg%2F11c4f12kn4!19sChIJq6qqqsttvTMRAXueNulBhJo"
+    },
+    {
+      "id": "d298339efd7cc99",
+      "googleFeatureId": "11cn8sh08r",
+      "slug": "ndn-grand-hotel",
+      "name": "NDN Grand Hotel",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1046469,
+        "lng": 121.148687
+      },
+      "rating": 4.2,
+      "reviewsCount": 324,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned"
+      ],
+      "editorialBlurb": "Casual lodging with an outdoor pool",
+      "googleMapsUrl": "https://www.google.com/maps/place/NDN+Grand+Hotel/data=!4m10!3m9!1s0x33bd65eccf25161d:0xd298339efd7cc99!5m2!4m1!1i2!8m2!3d14.1046469!4d121.148687!16s%2Fg%2F11cn8sh08r!19sChIJHRYlz-xlvTMRmczX7zmDKQ0"
+    },
+    {
+      "id": "24f6029a92527177",
+      "googleFeatureId": "11cryxj8lk",
+      "slug": "ndn-resort-and-events-place",
+      "name": "NDN Resort And Events Place",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0925979,
+        "lng": 121.0405317
+      },
+      "rating": 4.2,
+      "reviewsCount": 184,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Wi-Fi",
+        "Restaurant"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/NDN+Resort+And+Events+Place/data=!4m10!3m9!1s0x33bd706e4f1fe8d7:0x24f6029a92527177!5m2!4m1!1i2!8m2!3d14.0925979!4d121.0405317!16s%2Fg%2F11cryxj8lk!19sChIJ1-gfT25wvTMRd3FSkpoC9iQ"
+    },
+    {
+      "id": "6325532b4fade740",
+      "googleFeatureId": "1tf77mqv",
+      "slug": "noni-s-resort",
+      "name": "Noni's Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 13.883406,
+        "lng": 121.0144519
+      },
+      "rating": 4.4,
+      "reviewsCount": 302,
+      "priceHint": "₱6,000",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned"
+      ],
+      "editorialBlurb": "Tranquil resort with a pool & lake views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Noni%27s+Resort/data=!4m10!3m9!1s0x33bd0c02c4b236e9:0x6325532b4fade740!5m2!4m1!1i2!8m2!3d13.883406!4d121.0144519!16s%2Fg%2F1tf77mqv!19sChIJ6TayxAIMvTMRQOetTytTJWM"
+    },
+    {
+      "id": "9d55663bd36dc58f",
+      "googleFeatureId": "1hc93568v",
+      "slug": "oh-la-la-paradise-spring-resort",
+      "name": "Oh La La Paradise Spring Resort",
+      "categories": [
+        "tourist-attractions",
+        "resorts",
+        "hotels",
+        "beaches",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts",
+        "Hotels",
+        "Beaches & Islands",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Pio Duran",
+        "Polangui",
+        "Legazpi City",
+        "Tabaco City",
+        "Bacacay",
+        "Jovellanos",
+        "Libon",
+        "Manito",
+        "Oas",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0918 524 3034",
+      "coordinates": {
+        "lat": 13.240687,
+        "lng": 123.6049746
+      },
+      "rating": 4.2,
+      "reviewsCount": 177,
+      "editorialBlurb": "\"You can take pictures with the trees or flowers at the entrance.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Oh+La+La+Paradise+Spring+Resort/data=!4m7!3m6!1s0x33a10895b5ce521b:0x9d55663bd36dc58f!8m2!3d13.240687!4d123.6049746!16s%2Fg%2F1hc93568v!19sChIJG1LOtZUIoTMRj8Vt0ztmVZ0"
+    },
+    {
+      "id": "be7d7c58d427f5ef",
+      "googleFeatureId": "11jzpnncsz",
+      "slug": "ohannah-cabin",
+      "name": "Ohannah Cabin",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0313805,
+        "lng": 121.1590205
+      },
+      "rating": 4.9,
+      "reviewsCount": 130,
+      "priceHint": "₱9,600",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Ohannah+Cabin/data=!4m10!3m9!1s0x33bd6f77a93a7439:0xbe7d7c58d427f5ef!5m2!4m1!1i2!8m2!3d14.0313805!4d121.1590205!16s%2Fg%2F11jzpnncsz!19sChIJOXQ6qXdvvTMR7_Un1Fh8fb4"
+    },
+    {
+      "id": "938298c700e877b0",
+      "googleFeatureId": "11yr2bpd1t",
+      "slug": "oyo187-rose-ros-place-budget-hotelresort",
+      "name": "oyo187 Rose Ros Place Budget HotelResort",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0925084,
+        "lng": 121.1674401
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/oyo187+Rose+Ros+Place+Budget+HotelResort/data=!4m10!3m9!1s0x33bd65fe91db85ab:0x938298c700e877b0!5m2!4m1!1i2!8m2!3d14.0925084!4d121.1674401!16s%2Fg%2F11yr2bpd1t!19sChIJq4Xbkf5lvTMRsHfoAMeYgpM"
+    },
+    {
+      "id": "1873301cd1c17c08",
+      "googleFeatureId": "11rl6mjn6p",
+      "slug": "pandb-residences-legazpi",
+      "name": "P&B Residences Legazpi",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Polangui",
+        "Tupas",
+        "Ligao City",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "0917 888 7710",
+      "coordinates": {
+        "lat": 13.1669794,
+        "lng": 123.7507117
+      },
+      "rating": 4.6,
+      "reviewsCount": 56,
+      "priceHint": "₱2,400",
+      "amenities": [
+        "Free parking",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Airport shuttle"
+      ],
+      "editorialBlurb": "\"The rooms are beautiful, spacious and clean.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/P%26B+Residences+Legazpi/data=!4m10!3m9!1s0x33a10106c059a409:0x1873301cd1c17c08!5m2!4m1!1i2!8m2!3d13.1669794!4d123.7507117!16s%2Fg%2F11rl6mjn6p!19sChIJCaRZwAYBoTMRCHzB0Rwwcxg"
+    },
+    {
+      "id": "2b9dbe3a2270fad9",
+      "googleFeatureId": "11q408c",
+      "slug": "paayahayan-sa-bulod",
+      "name": "Paayahayan sa Bulod",
+      "categories": [
+        "tourist-attractions",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Daraga",
+        "Oas",
+        "Polangui",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "Sabluyon Rd",
+      "plusCode": "7JX6+X2V",
+      "coordinates": {
+        "lat": 13.2999996,
+        "lng": 123.6100356
+      },
+      "rating": 4.5,
+      "reviewsCount": 28,
+      "editorialBlurb": "\"Nice view.nice air\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Paayahayan+sa+Bulod/data=!4m7!3m6!1s0x33a1a7d155a8523b:0x2b9dbe3a2270fad9!8m2!3d13.2999996!4d123.6100356!16s%2Fg%2F11q408c_7h!19sChIJO1KoVdGnoTMR2fpwIjq-nSs"
+    },
+    {
+      "id": "d582ac5bf9c1c7eb",
+      "googleFeatureId": "11kpgr77h1",
+      "slug": "palipasan-public-beach",
+      "name": "Palipasan Public Beach",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Santo Domingo",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "6QJG+5Q4",
+      "coordinates": {
+        "lat": 13.2303841,
+        "lng": 123.7769542
+      },
+      "rating": 4,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/Palipasan+Public+Beach/data=!4m7!3m6!1s0x33a1ab6e46b7ccc3:0xd582ac5bf9c1c7eb!8m2!3d13.2303841!4d123.7769542!16s%2Fg%2F11kpgr77h1!19sChIJw8y3Rm6roTMR68fB-VusgtU"
+    },
+    {
+      "id": "7f4bec98c8540626",
+      "googleFeatureId": "11rzjbqmjl",
+      "slug": "pamilacan-vacay",
+      "name": "Pamilacan Vacay",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1088738,
+        "lng": 121.1462136
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Pamilacan+Vacay/data=!4m10!3m9!1s0x33bd6594e468514f:0x7f4bec98c8540626!5m2!4m1!1i2!8m2!3d14.1088738!4d121.1462136!16s%2Fg%2F11rzjbqmjl!19sChIJT1Fo5JRlvTMRJgZUyJjsS38"
+    },
+    {
+      "id": "11bc633d9c46b948",
+      "googleFeatureId": "11c53p009j",
+      "slug": "pe-aranda-park",
+      "name": "Peñaranda Park",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Daraga",
+        "Jovellanos",
+        "Tanauan",
+        "Tupas",
+        "Ligao City",
+        "Camalig",
+        "Guinobatan",
+        "Jovellar",
+        "Pio Duran"
+      ],
+      "plusCode": "4PQM+GRW",
+      "coordinates": {
+        "lat": 13.1388666,
+        "lng": 123.7345836
+      },
+      "rating": 4.2,
+      "reviewsCount": 1059,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Pe%C3%B1aranda+Park/data=!4m7!3m6!1s0x33a103dc9b5cab71:0x11bc633d9c46b948!8m2!3d13.1388666!4d123.7345836!16s%2Fg%2F11c53p009j!19sChIJcatcm9wDoTMRSLlGnD1jvBE"
+    },
+    {
+      "id": "f478ac8b2c987c4b",
+      "googleFeatureId": "11k4bg6r26",
+      "slug": "phantazy-spring-resort",
+      "name": "Phantazy Spring Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Guinobatan",
+        "Legazpi City",
+        "Ligao City",
+        "Daraga",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas",
+        "Camalig",
+        "Jovellar",
+        "Malilipot",
+        "Manito",
+        "Santo Domingo"
+      ],
+      "address": "Brgy Salvacion, Purok 4",
+      "coordinates": {
+        "lat": 13.3454133,
+        "lng": 123.7344335
+      },
+      "rating": 4,
+      "reviewsCount": 79,
+      "amenities": [
+        "pool"
+      ],
+      "editorialBlurb": "\"Great fun for the family, excellent kids pool, friendly staff.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Phantazy+Spring+Resort/data=!4m7!3m6!1s0x33a1afeda2e0ef29:0xf478ac8b2c987c4b!8m2!3d13.3454133!4d123.7344335!16s%2Fg%2F11k4bg6r26!19sChIJKe_gou2voTMRS3yYLIusePQ"
+    },
+    {
+      "id": "929586b0ba801f94",
+      "googleFeatureId": "11fhyrqdyv",
+      "slug": "playa-alegre",
+      "name": "Playa Alegre",
+      "categories": [
+        "beaches",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 11.1124666,
+        "lng": 125.0209449
+      },
+      "rating": 3.8,
+      "reviewsCount": 215,
+      "priceHint": "₱4,498",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Beach access"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Playa+Alegre/data=!4m10!3m9!1s0x3307d99c008d08c7:0x929586b0ba801f94!5m2!4m1!1i2!8m2!3d11.1124666!4d125.0209449!16s%2Fg%2F11fhyrqdyv!19sChIJxwiNAJzZBzMRlB-AurCGlZI"
+    },
+    {
+      "id": "acf7fa10e42ce5d1",
+      "googleFeatureId": "11h64hgwvc",
+      "slug": "plumeria-hotel-batangas",
+      "name": "Plumeria Hotel Batangas",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1048029,
+        "lng": 121.1508563
+      },
+      "rating": 4.1,
+      "reviewsCount": 35,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Air-conditioned",
+        "Breakfast"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Plumeria+Hotel+Batangas/data=!4m10!3m9!1s0x33bd65fafe2c8937:0xacf7fa10e42ce5d1!5m2!4m1!1i2!8m2!3d14.1048029!4d121.1508563!16s%2Fg%2F11h64hgwvc!19sChIJN4ks_vplvTMR0eUs5BD696w"
+    },
+    {
+      "id": "378fd986fe06be9d",
+      "googleFeatureId": "11z38ryd8s",
+      "slug": "private-resort-martin-bitong",
+      "name": "Private Resort (Martin Bitong)",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Matuod South Road",
+      "plusCode": "XJPJ+9FF",
+      "coordinates": {
+        "lat": 13.9859617,
+        "lng": 120.6311431
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Private+Resort+%28Martin+Bitong%29/data=!4m7!3m6!1s0x33bdbd001a386111:0x378fd986fe06be9d!8m2!3d13.9859617!4d120.6311431!16s%2Fg%2F11z38ryd8s!19sChIJEWE4GgC9vTMRnb4G_obZjzc"
+    },
+    {
+      "id": "55bbd962c5167ef0",
+      "googleFeatureId": "11qmc2yxps",
+      "slug": "punta-almara-beach-resort",
+      "name": "Punta Almara Beach Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Guinobatan",
+        "Jovellar",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Tanauan",
+        "Tupas",
+        "Jovellanos"
+      ],
+      "address": "Bicol 638",
+      "plusCode": "29G9+G36",
+      "coordinates": {
+        "lat": 13.026278,
+        "lng": 123.367629
+      },
+      "rating": 4.2,
+      "reviewsCount": 457,
+      "editorialBlurb": "\"The service is excellent, and the view on this",
+      "googleMapsUrl": "https://www.google.com/maps/place/Punta+Almara+Beach+Resort/data=!4m7!3m6!1s0x33a16b6a1bc743a9:0x55bbd962c5167ef0!8m2!3d13.026278!4d123.367629!16s%2Fg%2F11qmc2yxps!19sChIJqUPHG2proTMR8H4WxWLZu1U"
+    },
+    {
+      "id": "4ebe25886b930123",
+      "googleFeatureId": "11qm3pkqrc",
+      "slug": "punta-estrella-white-beach",
+      "name": "Punta Estrella White beach",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Tanauan",
+        "Tupas"
+      ],
+      "plusCode": "376M+5MF",
+      "coordinates": {
+        "lat": 13.060438,
+        "lng": 123.2841593
+      },
+      "rating": 4.5,
+      "reviewsCount": 122,
+      "amenities": [
+        "Wi-Fi"
+      ],
+      "editorialBlurb": "\"Spacious parking, accomodating staff, many cottages, affordable entrance fee\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Punta+Estrella+White+beach/data=!4m10!3m9!1s0x33a16ff1d1fb680d:0x4ebe25886b930123!5m2!4m1!1i2!8m2!3d13.060438!4d123.2841593!16s%2Fg%2F11qm3pkqrc!19sChIJDWj70fFvoTMRIwGTa4glvk4"
+    },
+    {
+      "id": "ff14c7ade7a544a1",
+      "googleFeatureId": "11fylpw0l",
+      "slug": "quituinan-hill",
+      "name": "Quituinan Hill",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "heritage",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Heritage & Religious Sites",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Oas",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "Brgy. Daraga",
+      "plusCode": "5M98+W3X",
+      "coordinates": {
+        "lat": 13.1698598,
+        "lng": 123.6652402
+      },
+      "rating": 4.6,
+      "reviewsCount": 750,
+      "hours": "Open now · place",
+      "googleMapsUrl": "https://www.google.com/maps/place/Quituinan+Hill/data=!4m7!3m6!1s0x33a106890044924b:0xff14c7ade7a544a1!8m2!3d13.1698598!4d123.6652402!16s%2Fg%2F11fylpw0l_!19sChIJS5JEAIkGoTMRoUSl563HFP8"
+    },
+    {
+      "id": "931c09205b79b5f9",
+      "googleFeatureId": "11jt75lwgj",
+      "slug": "quituinan-ranch",
+      "name": "Quituinan Ranch",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Malilipot",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas",
+        "Jovellar",
+        "Oas",
+        "Rapu-Rapu"
+      ],
+      "coordinates": {
+        "lat": 13.1700491,
+        "lng": 123.6649777
+      },
+      "rating": 4.6,
+      "reviewsCount": 157,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Quituinan+Ranch/data=!4m7!3m6!1s0x33a10728b6f801a9:0x931c09205b79b5f9!8m2!3d13.1700491!4d123.6649777!16s%2Fg%2F11jt75lwgj!19sChIJqQH4tigHoTMR-bV5WyAJHJM"
+    },
+    {
+      "id": "fb0b9e90f69bfc3e",
+      "googleFeatureId": "11k3c",
+      "slug": "r-farm-resort",
+      "name": "R Farm Resort",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "3452+MV6",
+      "coordinates": {
+        "lat": 14.0591563,
+        "lng": 121.1021471
+      },
+      "rating": 3.1,
+      "reviewsCount": 10,
+      "googleMapsUrl": "https://www.google.com/maps/place/R+Farm+Resort/data=!4m7!3m6!1s0x33bd6f88f1773acb:0xfb0b9e90f69bfc3e!8m2!3d14.0591563!4d121.1021471!16s%2Fg%2F11k3c_hf07!19sChIJyzp38YhvvTMRPvyb9pCeC_s"
+    },
+    {
+      "id": "6ea745c0df9a6043",
+      "googleFeatureId": "11w8pjl0qh",
+      "slug": "rb-residencia",
+      "name": "RB Residencia",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0433689,
+        "lng": 121.159094
+      },
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/RB+Residencia/data=!4m10!3m9!1s0x33bd6fd914379095:0x6ea745c0df9a6043!5m2!4m1!1i2!8m2!3d14.0433689!4d121.159094!16s%2Fg%2F11w8pjl0qh!19sChIJlZA3FNlvvTMRQ2Ca38BFp24"
+    },
+    {
+      "id": "7502f4973ab993a4",
+      "googleFeatureId": "11frrzsswv",
+      "slug": "reddoorz-golite-old-albay",
+      "name": "RedDoorz @ Golite Old Albay",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "(02) 8248 7369",
+      "coordinates": {
+        "lat": 13.1393125,
+        "lng": 123.7316875
+      },
+      "rating": 3.4,
+      "reviewsCount": 46,
+      "priceHint": "₱1,306",
+      "amenities": [
+        "Free parking",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "editorialBlurb": "Casual budget hotel with parking & Wi-Fi",
+      "googleMapsUrl": "https://www.google.com/maps/place/RedDoorz+@+Golite+Old+Albay/data=!4m10!3m9!1s0x33a1030a2085d1a5:0x7502f4973ab993a4!5m2!4m1!1i2!8m2!3d13.1393125!4d123.7316875!16s%2Fg%2F11frrzsswv!19sChIJpdGFIAoDoTMRpJO5Opf0AnU"
+    },
+    {
+      "id": "9ce94834429a3226",
+      "googleFeatureId": "11jt179q47",
+      "slug": "reddoorz-piamonte-apartelle-santo-tomas-batangas",
+      "name": "RedDoorz @ Piamonte Apartelle Santo Tomas Batangas",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "35Q9+6H8, Santo Tomas, 4234 Batangas",
+      "plusCode": "35Q9+6H8",
+      "coordinates": {
+        "lat": 14.0879625,
+        "lng": 121.1687298
+      },
+      "rating": 4.3,
+      "reviewsCount": 39,
+      "priceHint": "₱1,032",
+      "amenities": [
+        "Air-conditioned"
+      ],
+      "website": "https://www.reddoorz.com/en-ph/hotel/philippines/batangas/santo-tomas/san-vicente/reddoorz-piamonte-apartelle-santo-tomas-batangas?utm_campaign=webclick&utm_medium=mybusiness&utm_source=google",
+      "googleMapsUrl": "https://www.google.com/maps/place/RedDoorz+@+Piamonte+Apartelle+Santo+Tomas+Batangas/data=!4m10!3m9!1s0x33bd65ff8811e731:0x9ce94834429a3226!5m2!4m1!1i2!8m2!3d14.0879625!4d121.1687298!16s%2Fg%2F11jt179q47!19sChIJMecRiP9lvTMRJjKaQjRI6Zw"
+    },
+    {
+      "id": "d77d48a68a266e76",
+      "googleFeatureId": "11cn8s71cc",
+      "slug": "reddoorz-praferosa-resort-hotel-calamba",
+      "name": "RedDoorz @ Praferosa Resort Hotel Calamba",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Sponsored",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.180562,
+        "lng": 121.181687
+      },
+      "rating": 3.9,
+      "reviewsCount": 154,
+      "priceHint": "₱905",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/RedDoorz+@+Praferosa+Resort+Hotel+Calamba/data=!4m10!3m9!1s0x33bd615ac5bd7def:0xd77d48a68a266e76!5m2!4m1!1i2!8m2!3d14.180562!4d121.181687!16s%2Fg%2F11cn8s71cc!19sChIJ7329xVphvTMRdm4miqZIfdc"
+    },
+    {
+      "id": "53ee2ed580fd607e",
+      "googleFeatureId": "11b7c7fcks",
+      "slug": "riserr-residences",
+      "name": "riseRR residences",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tupas",
+        "Bacacay",
+        "Tanauan"
+      ],
+      "address": "(052) 732 7930",
+      "coordinates": {
+        "lat": 13.1414243,
+        "lng": 123.7339812
+      },
+      "rating": 4.1,
+      "reviewsCount": 108,
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"Quite small place but service and view is awesome.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/riseRR+residences/data=!4m10!3m9!1s0x33a103dc1093cfc9:0x53ee2ed580fd607e!5m2!4m1!1i2!8m2!3d13.1414243!4d123.7339812!16s%2Fg%2F11b7c7fcks!19sChIJyc-TENwDoTMRfmD9gNUu7lM"
+    },
+    {
+      "id": "1bfd81c204cc4a2c",
+      "googleFeatureId": "1trxb76",
+      "slug": "rizal-beach-resort",
+      "name": "Rizal Beach Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Tanauan",
+        "Legazpi City",
+        "Camalig"
+      ],
+      "coordinates": {
+        "lat": 12.8907846,
+        "lng": 124.1287055
+      },
+      "rating": 4.1,
+      "reviewsCount": 367,
+      "googleMapsUrl": "https://www.google.com/maps/place/Rizal+Beach+Resort/data=!4m10!3m9!1s0x33a0eb6f023c1919:0x1bfd81c204cc4a2c!5m2!4m1!1i2!8m2!3d12.8907846!4d124.1287055!16s%2Fg%2F1trxb76_!19sChIJGRk8Am_roDMRLErMBMKB_Rs"
+    },
+    {
+      "id": "18f8d889b002d88f",
+      "googleFeatureId": "11h3vfscr6",
+      "slug": "rmc-transient-house",
+      "name": "RMC TRANSIENT HOUSE",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Lodging",
+      "locality": "Jovellanos, Albay",
+      "lgus": [
+        "Jovellanos",
+        "Tanauan"
+      ],
+      "plusCode": "5P3F+CPV",
+      "coordinates": {
+        "lat": 13.1536154,
+        "lng": 123.7243028
+      },
+      "rating": 4.7,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/RMC+TRANSIENT+HOUSE/data=!4m7!3m6!1s0x33a101ec1ad59d0d:0x18f8d889b002d88f!8m2!3d13.1536154!4d123.7243028!16s%2Fg%2F11h3vfscr6!19sChIJDZ3VGuwBoTMRj9gCsInY-Bg"
+    },
+    {
+      "id": "b75389bc831c02",
+      "googleFeatureId": "11j4mvfxc8",
+      "slug": "rose-and-ross-place-budget-hotel-and-private-resort",
+      "name": "Rose and Ross Place Budget Hotel and Private Resort",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0924595,
+        "lng": 121.167473
+      },
+      "rating": 4.3,
+      "reviewsCount": 46,
+      "amenities": [
+        "Free parking",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Rose+and+Ross+Place+Budget+Hotel+and+Private+Resort/data=!4m10!3m9!1s0x33bd6543b3f60ffb:0xb75389bc831c02!5m2!4m1!1i2!8m2!3d14.0924595!4d121.167473!16s%2Fg%2F11j4mvfxc8!19sChIJ-w_2s0NlvTMRAhyDvIlTtwA"
+    },
+    {
+      "id": "eb6ced685deea47b",
+      "googleFeatureId": "11c32nwxw0",
+      "slug": "rr-beach-resort-pio-duran-albay",
+      "name": "RR Beach Resort Pio Duran Albay",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Pio Duran",
+        "Tanauan",
+        "Tupas",
+        "Legazpi City",
+        "Libon"
+      ],
+      "address": "Ligao - Pio Duran Rd",
+      "coordinates": {
+        "lat": 12.998087,
+        "lng": 123.469032
+      },
+      "rating": 4.1,
+      "reviewsCount": 190,
+      "editorialBlurb": "\"You've got great live music, decent food, and the",
+      "googleMapsUrl": "https://www.google.com/maps/place/RR+Beach+Resort+Pio+Duran+Albay/data=!4m7!3m6!1s0x33a114ef00a8358f:0xeb6ced685deea47b!8m2!3d12.998087!4d123.469032!16s%2Fg%2F11c32nwxw0!19sChIJjzWoAO8UoTMRe6TuXWjtbOs"
+    },
+    {
+      "id": "cc884031ba367842",
+      "googleFeatureId": "11ylspd6bx",
+      "slug": "sadai-n-balai-private-resort",
+      "name": "SaDaI N BaLai PRIVATE RESORT",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0987684,
+        "lng": 121.1765702
+      },
+      "priceHint": "₱11",
+      "googleMapsUrl": "https://www.google.com/maps/place/SaDaI+N+BaLai+PRIVATE+RESORT/data=!4m10!3m9!1s0x33bd6700123a0a27:0xcc884031ba367842!5m2!4m1!1i2!8m2!3d14.0987684!4d121.1765702!16s%2Fg%2F11ylspd6bx!19sChIJJwo6EgBnvTMRQng2ujFAiMw"
+    },
+    {
+      "id": "fc4842c02c46b161",
+      "googleFeatureId": "11y3wqg9c2",
+      "slug": "sagurong-natural-spring-resort",
+      "name": "Sagurong Natural Spring Resort",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Daraga",
+        "Ligao City",
+        "Libon",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan"
+      ],
+      "address": "P3",
+      "coordinates": {
+        "lat": 13.3099177,
+        "lng": 123.741473
+      },
+      "rating": 3.4,
+      "reviewsCount": 7,
+      "hours": "Open · Closes 5 PM",
+      "editorialBlurb": "Public swimming pool",
+      "googleMapsUrl": "https://www.google.com/maps/place/Sagurong+Natural+Spring+Resort/data=!4m7!3m6!1s0x33a1ad24b29abcfb:0xfc4842c02c46b161!8m2!3d13.3099177!4d123.741473!16s%2Fg%2F11y3wqg9c2!19sChIJ-7yasiStoTMRYbFGLMBCSPw"
+    },
+    {
+      "id": "ee8193b7944e4d64",
+      "googleFeatureId": "11f0wlqd7k",
+      "slug": "sampaguita-tourist-inn",
+      "name": "Sampaguita Tourist Inn",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Inn",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Tanauan",
+        "Tupas",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo"
+      ],
+      "address": "\"Pros: 1. Cheap rates and very basic.\"",
+      "coordinates": {
+        "lat": 13.1485103,
+        "lng": 123.7343594
+      },
+      "rating": 3.7,
+      "reviewsCount": 646,
+      "googleMapsUrl": "https://www.google.com/maps/place/Sampaguita+Tourist+Inn/data=!4m10!3m9!1s0x33a10161f2701f91:0xee8193b7944e4d64!5m2!4m1!1i2!8m2!3d13.1485103!4d123.7343594!16s%2Fg%2F11f0wlqd7k!19sChIJkR9w8mEBoTMRZE1OlLeTge4"
+    },
+    {
+      "id": "d550ca1346af25b5",
+      "googleFeatureId": "1hhlvl86l",
+      "slug": "santomas-suites",
+      "name": "SanTomas Suites",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "4-star hotel",
+      "starTier": "4-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.136429,
+        "lng": 121.13194
+      },
+      "rating": 4,
+      "reviewsCount": 125,
+      "priceHint": "₱3,965",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Breakfast"
+      ],
+      "editorialBlurb": "Unfussy business hotel with a roof deck",
+      "googleMapsUrl": "https://www.google.com/maps/place/SanTomas+Suites/data=!4m10!3m9!1s0x33bd6453a36fd5bf:0xd550ca1346af25b5!5m2!4m1!1i2!8m2!3d14.136429!4d121.13194!16s%2Fg%2F1hhlvl86l!19sChIJv9Vvo1NkvTMRtSWvRhPKUNU"
+    },
+    {
+      "id": "c24a6df72c1ed4ef",
+      "googleFeatureId": "1hc6bvc8z",
+      "slug": "sol-y-viento-hotels-and-resorts",
+      "name": "Sol Y Viento Hotels and Resorts",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1725314,
+        "lng": 121.1777878
+      },
+      "rating": 4.4,
+      "reviewsCount": 965,
+      "priceHint": "₱3,489",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free breakfast",
+        "Free Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Sol+Y+Viento+Hotels+and+Resorts/data=!4m10!3m9!1s0x33bd6153c027867b:0xc24a6df72c1ed4ef!5m2!4m1!1i2!8m2!3d14.1725314!4d121.1777878!16s%2Fg%2F1hc6bvc8z!19sChIJe4YnwFNhvTMR79QeLPdtSsI"
+    },
+    {
+      "id": "6c745d4b5cb053ae",
+      "googleFeatureId": "11nc7l",
+      "slug": "soluna-villas",
+      "name": "Soluna Villas",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Purok 2, Brgy. Gonzales, 10908 Soluna Villas, Hibrodor St, 4232 Brgy. Gonzales",
+      "coordinates": {
+        "lat": 14.0741394,
+        "lng": 121.0770556
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/Soluna+Villas/data=!4m7!3m6!1s0x33bd71bf2aba358b:0x6c745d4b5cb053ae!8m2!3d14.0741394!4d121.0770556!16s%2Fg%2F11nc7l_5ff!19sChIJizW6Kr9xvTMRrlOwXEtddGw"
+    },
+    {
+      "id": "9d080fa3b19bfe53",
+      "googleFeatureId": "11dyn3yq5y",
+      "slug": "spring-zone-resort",
+      "name": "Spring Zone Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tiwi",
+        "Tupas"
+      ],
+      "address": "7QQ5+522, Daraga - Legazpi City - Tiwi Rd, Bacacay, Albay",
+      "plusCode": "7QQ5+522",
+      "coordinates": {
+        "lat": 13.287897,
+        "lng": 123.7575012
+      },
+      "rating": 4.3,
+      "reviewsCount": 44,
+      "amenities": [
+        "Pool",
+        "Wi-Fi"
+      ],
+      "editorialBlurb": "\"Great fresh water pools and rent a kubo cook ur own bbq\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Spring+Zone+Resort/data=!4m10!3m9!1s0x33a1ab73f8f761a9:0x9d080fa3b19bfe53!5m2!4m1!1i2!8m2!3d13.287897!4d123.7575012!16s%2Fg%2F11dyn3yq5y!19sChIJqWH3-HOroTMRU_6bsaMPCJ0"
+    },
+    {
+      "id": "356e733d154c7b4d",
+      "googleFeatureId": "11svll",
+      "slug": "sta-cruz-hidden-resort",
+      "name": "Sta. Cruz Hidden Resort",
+      "categories": [
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Brgy",
+      "coordinates": {
+        "lat": 11.1257572,
+        "lng": 125.024636
+      },
+      "rating": 3.8,
+      "reviewsCount": 63,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Sta.+Cruz+Hidden+Resort/data=!4m7!3m6!1s0x3307d9ef37481e4b:0x356e733d154c7b4d!8m2!3d11.1257572!4d125.024636!16s%2Fg%2F11svll_cd4!19sChIJSx5IN-_ZBzMRTXtMFT1zbjU"
+    },
+    {
+      "id": "2cb38b86db324f68",
+      "googleFeatureId": "11w",
+      "slug": "summer-bliss-private-resort",
+      "name": "Summer Bliss Private Resort",
+      "categories": [
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Private Resorts"
+      ],
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Barangay Montaña",
+      "coordinates": {
+        "lat": 14.1263111,
+        "lng": 121.0659243
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open · Closes 10 AM Tue",
+      "amenities": [
+        "Swimming pool"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Summer+Bliss+Private+Resort/data=!4m7!3m6!1s0x33bd7b008d5ad833:0x2cb38b86db324f68!8m2!3d14.1263111!4d121.0659243!16s%2Fg%2F11w_nc4z84!19sChIJM9hajQB7vTMRaE8y24aLsyw"
+    },
+    {
+      "id": "4f5f9aabefd56dd9",
+      "googleFeatureId": "11rsg1rd26",
+      "slug": "sunnyside-hotel",
+      "name": "Sunnyside Hotel",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.093445,
+        "lng": 121.1611681
+      },
+      "rating": 4.3,
+      "reviewsCount": 41,
+      "priceHint": "₱1,909",
+      "amenities": [
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Sunnyside+Hotel/data=!4m10!3m9!1s0x33bd6589df64fe1b:0x4f5f9aabefd56dd9!5m2!4m1!1i2!8m2!3d14.093445!4d121.1611681!16s%2Fg%2F11rsg1rd26!19sChIJG_5k34llvTMR2W3V76uaX08"
+    },
+    {
+      "id": "5694c5c4e134007a",
+      "googleFeatureId": "11yc5",
+      "slug": "sunscape-beach-resort",
+      "name": "Sunscape Beach Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "42GF+7P",
+      "coordinates": {
+        "lat": 11.1256197,
+        "lng": 125.0243172
+      },
+      "rating": 3.9,
+      "reviewsCount": 16,
+      "googleMapsUrl": "https://www.google.com/maps/place/Sunscape+Beach+Resort/data=!4m7!3m6!1s0x3307d9005fdf8e8b:0x5694c5c4e134007a!8m2!3d11.1256197!4d125.0243172!16s%2Fg%2F11yc5_101y!19sChIJi47fXwDZBzMRegA04cTFlFY"
+    },
+    {
+      "id": "8e2a47089cd9c2cc",
+      "googleFeatureId": "11cn9kmrv2",
+      "slug": "sunshine-garden-resort",
+      "name": "Sunshine Garden Resort",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "3586+Q4P",
+      "coordinates": {
+        "lat": 14.0669673,
+        "lng": 121.1603332
+      },
+      "rating": 3.8,
+      "reviewsCount": 60,
+      "googleMapsUrl": "https://www.google.com/maps/place/Sunshine+Garden+Resort/data=!4m7!3m6!1s0x33bd6f3791e7750f:0x8e2a47089cd9c2cc!8m2!3d14.0669673!4d121.1603332!16s%2Fg%2F11cn9kmrv2!19sChIJD3XnkTdvvTMRzMLZnAhHKo4"
+    },
+    {
+      "id": "93f16b2c5379d723",
+      "googleFeatureId": "11m",
+      "slug": "tanauan-beach",
+      "name": "Tanauan Beach",
+      "categories": [
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "425C+GW5",
+      "coordinates": {
+        "lat": 11.1087526,
+        "lng": 125.0223695
+      },
+      "rating": 4.4,
+      "reviewsCount": 13,
+      "googleMapsUrl": "https://www.google.com/maps/place/Tanauan+Beach/data=!4m7!3m6!1s0x3307d99e0267f8f3:0x93f16b2c5379d723!8m2!3d11.1087526!4d125.0223695!16s%2Fg%2F11m_wk2kx0!19sChIJ8_hnAp7ZBzMRI9d5Uyxr8ZM"
+    },
+    {
+      "id": "b2188179ba4cac9b",
+      "googleFeatureId": "1vcjjsj4",
+      "slug": "tangkaan-beach",
+      "name": "Tangkaan Beach",
+      "categories": [
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands"
+      ],
+      "primaryType": "Public beach",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Padre Burgos - Tankaan Rd",
+      "plusCode": "224H+VHP",
+      "coordinates": {
+        "lat": 10.007202,
+        "lng": 125.028963
+      },
+      "rating": 4.5,
+      "reviewsCount": 235,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tangkaan+Beach/data=!4m7!3m6!1s0x3307321d1f891f99:0xb2188179ba4cac9b!8m2!3d10.007202!4d125.028963!16s%2Fg%2F1vcjjsj4!19sChIJmR-JHx0yBzMRm6xMunmBGLI"
+    },
+    {
+      "id": "cd72e3408d7cb067",
+      "googleFeatureId": "11l2zhqp5b",
+      "slug": "the-anahaw-cabin",
+      "name": "The Anahaw Cabin",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.0841338,
+        "lng": 121.092873
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open now",
+      "editorialBlurb": "Cabin rental agency",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Anahaw+Cabin/data=!4m10!3m9!1s0x33bd6ff520cb05d5:0xcd72e3408d7cb067!5m2!4m1!1i2!8m2!3d14.0841338!4d121.092873!16s%2Fg%2F11l2zhqp5b!19sChIJ1QXLIPVvvTMRZ7B8jUDjcs0"
+    },
+    {
+      "id": "ead868e97967d009",
+      "googleFeatureId": "1q67f0fpl",
+      "slug": "the-apple-peach-house",
+      "name": "The Apple Peach House",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Jovellanos",
+        "Tupas",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "0915 621 6810",
+      "coordinates": {
+        "lat": 13.1370445,
+        "lng": 123.7339863
+      },
+      "rating": 3.9,
+      "reviewsCount": 186,
+      "priceHint": "₱1,881",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Breakfast"
+      ],
+      "editorialBlurb": "Relaxed hotel with a vibrant cafe/bar",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Apple+Peach+House/data=!4m10!3m9!1s0x33a103c34cbf6a35:0xead868e97967d009!5m2!4m1!1i2!8m2!3d13.1370445!4d123.7339863!16s%2Fg%2F1q67f0fpl!19sChIJNWq_TMMDoTMRCdBneelo2Oo"
+    },
+    {
+      "id": "570dd403a6fcc63b",
+      "googleFeatureId": "113dhj3xw",
+      "slug": "the-e-hotel-makati",
+      "name": "The E-Hotel Makati",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Sponsored",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Modern property with 2 casual eateries",
+      "coordinates": {
+        "lat": 14.55076,
+        "lng": 121.01988
+      },
+      "rating": 3.2,
+      "reviewsCount": 226,
+      "priceHint": "₱1,884",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Restaurant"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/The+E-Hotel+Makati/data=!4m10!3m9!1s0x3397c910578977a7:0x570dd403a6fcc63b!5m2!4m1!1i2!8m2!3d14.55076!4d121.01988!16s%2Fg%2F113dhj3xw!19sChIJp3eJVxDJlzMRO8b8pgPUDVc"
+    },
+    {
+      "id": "8c840b9fc88e63f1",
+      "googleFeatureId": "11vt6h8tbz",
+      "slug": "the-m-residence-resort-and-guest-house",
+      "name": "The M Residence Resort And Guest House",
+      "categories": [
+        "resorts",
+        "staycations",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Staycations",
+        "Private Resorts"
+      ],
+      "primaryType": "Guest house",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Bacacay",
+        "Camalig",
+        "Jovellanos",
+        "Polangui",
+        "Daraga",
+        "Jovellar",
+        "Malilipot",
+        "Manito",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0935 105 0911",
+      "coordinates": {
+        "lat": 13.1124258,
+        "lng": 123.7829147
+      },
+      "rating": 4,
+      "reviewsCount": 9,
+      "amenities": [
+        "pool"
+      ],
+      "editorialBlurb": "\"Beautiful View and great pool !!\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+M+Residence+Resort+And+Guest+House/data=!4m7!3m6!1s0x33a1017db0f218ed:0x8c840b9fc88e63f1!8m2!3d13.1124258!4d123.7829147!16s%2Fg%2F11vt6h8tbz!19sChIJ7RjysH0BoTMR8WOOyJ8LhIw"
+    },
+    {
+      "id": "a6d6d9d3c4696634",
+      "googleFeatureId": "11vbjsz96p",
+      "slug": "the-manay-imacoto-beach-club-and-resort",
+      "name": "The Manay Imacoto Beach Club & Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Oas, Albay",
+      "lgus": [
+        "Oas",
+        "Pio Duran",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Manito",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0994 463 6152",
+      "coordinates": {
+        "lat": 13.0604375,
+        "lng": 123.2845625
+      },
+      "rating": 4.8,
+      "reviewsCount": 17,
+      "editorialBlurb": "\"Truly relaxing and the place itself was beautifully built.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Manay+Imacoto+Beach+Club+%26+Resort/data=!4m10!3m9!1s0x33a16f5ad8c62751:0xa6d6d9d3c4696634!5m2!4m1!1i2!8m2!3d13.0604375!4d123.2845625!16s%2Fg%2F11vbjsz96p!19sChIJUSfG2FpvoTMRNGZpxNPZ1qY"
+    },
+    {
+      "id": "699ee2fbd0fc9aa9",
+      "googleFeatureId": "11ppntdxpj",
+      "slug": "the-palm-resort",
+      "name": "The Palm Resort",
+      "categories": [
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan",
+        "Tiwi"
+      ],
+      "coordinates": {
+        "lat": 13.5741841,
+        "lng": 123.3961741
+      },
+      "rating": 4.4,
+      "reviewsCount": 68,
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Palm+Resort/data=!4m10!3m9!1s0x33a195ce6091228f:0x699ee2fbd0fc9aa9!5m2!4m1!1i2!8m2!3d13.5741841!4d123.3961741!16s%2Fg%2F11ppntdxpj!19sChIJjyKRYM6VoTMRqZr80Pvinmk"
+    },
+    {
+      "id": "6088aa605a69ce3",
+      "googleFeatureId": "11g",
+      "slug": "the-park-bed-and-breakfast",
+      "name": "The Park Bed & Breakfast",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Pres, President Jose P. Laurel Hwy",
+      "plusCode": "35H2+J6C",
+      "coordinates": {
+        "lat": 14.0790614,
+        "lng": 121.1505259
+      },
+      "rating": 3.3,
+      "reviewsCount": 9,
+      "hours": "Permanently closed",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Park+Bed+%26+Breakfast/data=!4m7!3m6!1s0x33bd6fd543859075:0x6088aa605a69ce3!8m2!3d14.0790614!4d121.1505259!16s%2Fg%2F11g_yffczt!19sChIJdZCFQ9VvvTMR45ymBaaKCAY"
+    },
+    {
+      "id": "87b280473123fe2b",
+      "googleFeatureId": "11py6ypbkf",
+      "slug": "the-shore-by-la-terraza",
+      "name": "The Shore by La Terraza",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Guinobatan",
+        "Oas",
+        "Tanauan",
+        "Tupas",
+        "Libon",
+        "Pio Duran"
+      ],
+      "address": "0930 142 0663",
+      "plusCode": "29F7+7GQ",
+      "coordinates": {
+        "lat": 13.0232001,
+        "lng": 123.3638606
+      },
+      "rating": 4.3,
+      "reviewsCount": 37,
+      "editorialBlurb": "\"Love it, accommodating staff and clean",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Shore+by+La+Terraza/data=!4m7!3m6!1s0x33a16b7b6df1e65d:0x87b280473123fe2b!8m2!3d13.0232001!4d123.3638606!16s%2Fg%2F11py6ypbkf!19sChIJXebxbXtroTMRK_4jMUeAsoc"
+    },
+    {
+      "id": "7169a9a5acc8abc0",
+      "googleFeatureId": "11mv4",
+      "slug": "the-vineyard-at-tanauan",
+      "name": "The Vineyard at Tanauan",
+      "categories": [
+        "tourist-attractions",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Filipino",
+      "starTier": "3-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "\"It had 4 rooms, a main living area and a private pool.\"",
+      "coordinates": {
+        "lat": 14.0763279,
+        "lng": 121.070082
+      },
+      "rating": 4,
+      "reviewsCount": 200,
+      "priceHint": "₱17",
+      "amenities": [
+        "Restaurant"
+      ],
+      "editorialBlurb": "\"The rooms had amazing views and were very relaxing.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Vineyard+at+Tanauan/data=!4m10!3m9!1s0x33bd71f24933da6d:0x7169a9a5acc8abc0!5m2!4m1!1i2!8m2!3d14.0763279!4d121.070082!16s%2Fg%2F11mv4_24th!19sChIJbdozSfJxvTMRwKvIrKWpaXE"
+    },
+    {
+      "id": "403239fc3b314144",
+      "googleFeatureId": "11h37rx98h",
+      "slug": "thirdy-s-place-hostel",
+      "name": "Thirdy's Place Hostel",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0917 866 9602",
+      "coordinates": {
+        "lat": 13.1374553,
+        "lng": 123.7406229
+      },
+      "rating": 3.7,
+      "reviewsCount": 41,
+      "priceHint": "₱958",
+      "amenities": [
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Pet-friendly"
+      ],
+      "editorialBlurb": "\"- free Wifi & drinking water.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Thirdy%27s+Place+Hostel/data=!4m10!3m9!1s0x33a1035b6e5ec857:0x403239fc3b314144!5m2!4m1!1i2!8m2!3d13.1374553!4d123.7406229!16s%2Fg%2F11h37rx98h!19sChIJV8heblsDoTMRREExO_w5MkA"
+    },
+    {
+      "id": "af4a15e99d6e4146",
+      "googleFeatureId": "1hc7xx71f",
+      "slug": "ticao-altamar-boutique-resort",
+      "name": "Ticao Altamar Boutique Resort",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 12.5952832,
+        "lng": 123.7315191
+      },
+      "rating": 4.4,
+      "reviewsCount": 58,
+      "priceHint": "₱5,977",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Beach access",
+        "Air-conditioned"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Ticao+Altamar+Boutique+Resort/data=!4m10!3m9!1s0x33a12b35dba7a34f:0xaf4a15e99d6e4146!5m2!4m1!1i2!8m2!3d12.5952832!4d123.7315191!16s%2Fg%2F1hc7xx71f!19sChIJT6On2zUroTMRRkFunekVSq8"
+    },
+    {
+      "id": "efa0a5ea4d0bfecf",
+      "googleFeatureId": "11bzv",
+      "slug": "tierra-salva-lakeview-resort",
+      "name": "Tierra Salva Lakeview Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.069873,
+        "lng": 121.0714459
+      },
+      "rating": 4.5,
+      "reviewsCount": 56,
+      "googleMapsUrl": "https://www.google.com/maps/place/Tierra+Salva+Lakeview+Resort/data=!4m10!3m9!1s0x33bd702589759b2b:0xefa0a5ea4d0bfecf!5m2!4m1!1i2!8m2!3d14.069873!4d121.0714459!16s%2Fg%2F11bzv_fl53!19sChIJK5t1iSVwvTMRz_4LTeqloO8"
+    },
+    {
+      "id": "d9ce3c379a53c9b9",
+      "googleFeatureId": "11hs9zyw4c",
+      "slug": "tirta-spring-villa",
+      "name": "Tirta Spring Villa",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1764708,
+        "lng": 121.2061525
+      },
+      "rating": 4.7,
+      "reviewsCount": 27,
+      "googleMapsUrl": "https://www.google.com/maps/place/Tirta+Spring+Villa/data=!4m10!3m9!1s0x33bd61cca850b727:0xd9ce3c379a53c9b9!5m2!4m1!1i2!8m2!3d14.1764708!4d121.2061525!16s%2Fg%2F11hs9zyw4c!19sChIJJ7dQqMxhvTMRuclTmjc8ztk"
+    },
+    {
+      "id": "53baea49c3098f2d",
+      "googleFeatureId": "1hc4v9yhd",
+      "slug": "tiwi-spring-resort",
+      "name": "Tiwi Spring Resort",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tiwi, Albay",
+      "lgus": [
+        "Tiwi",
+        "Legazpi City",
+        "Jovellanos",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "(052) 488 5048",
+      "plusCode": "FMC3+58C",
+      "coordinates": {
+        "lat": 13.4704412,
+        "lng": 123.6532702
+      },
+      "rating": 3.8,
+      "reviewsCount": 58,
+      "googleMapsUrl": "https://www.google.com/maps/place/Tiwi+Spring+Resort/data=!4m7!3m6!1s0x33a1b13f35125f09:0x53baea49c3098f2d!8m2!3d13.4704412!4d123.6532702!16s%2Fg%2F1hc4v9yhd!19sChIJCV8SNT-xoTMRLY8Jw0nqulM"
+    },
+    {
+      "id": "5ea981f05f246146",
+      "googleFeatureId": "11ldgt3mdj",
+      "slug": "tokai-s-transient-house",
+      "name": "Tokai's Transient House",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tupas, Albay",
+      "lgus": [
+        "Tupas",
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "0998 576 8148",
+      "coordinates": {
+        "lat": 13.1455563,
+        "lng": 123.7469194
+      },
+      "rating": 4.9,
+      "reviewsCount": 60,
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "editorialBlurb": "\"They will even provide you with room slippers and toiletries.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tokai%27s+Transient+House/data=!4m10!3m9!1s0x33a101cc103377c7:0x5ea981f05f246146!5m2!4m1!1i2!8m2!3d13.1455563!4d123.7469194!16s%2Fg%2F11ldgt3mdj!19sChIJx3czEMwBoTMRRmEkX_CBqV4"
+    },
+    {
+      "id": "41f852fdf494f28e",
+      "googleFeatureId": "11svwvq66c",
+      "slug": "tres-marias-dos-barakos-transient-green",
+      "name": "Tres Marias Dos Barakos Transient (Green)",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1678048,
+        "lng": 121.1040115
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "priceHint": "₱2,053",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tres+Marias+Dos+Barakos+Transient+%28Green%29/data=!4m10!3m9!1s0x33bd65452991c16b:0x41f852fdf494f28e!5m2!4m1!1i2!8m2!3d14.1678048!4d121.1040115!16s%2Fg%2F11svwvq66c!19sChIJa8GRKUVlvTMRjvKU9P1S-EE"
+    },
+    {
+      "id": "f973ddc96b35e09a",
+      "googleFeatureId": "11gvzk6v3k",
+      "slug": "trinity-islands",
+      "name": "Trinity Islands",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Oas, Albay",
+      "lgus": [
+        "Oas",
+        "Tupas",
+        "Legazpi City",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan"
+      ],
+      "address": "372P+W2R, Oas, Albay",
+      "plusCode": "372P+W2R",
+      "coordinates": {
+        "lat": 13.0523707,
+        "lng": 123.2850143
+      },
+      "rating": 4.5,
+      "reviewsCount": 65,
+      "editorialBlurb": "\"A must-see in Albay.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Trinity+Islands/data=!4m7!3m6!1s0x33a1696122eb5109:0xf973ddc96b35e09a!8m2!3d13.0523707!4d123.2850143!16s%2Fg%2F11gvzk6v3k!19sChIJCVHrImFpoTMRmuA1a8ndc_k"
+    },
+    {
+      "id": "7a912decee8ff7b0",
+      "googleFeatureId": "11fkds2nnn",
+      "slug": "trip-inn-legazpi-city-near-airport",
+      "name": "Trip Inn Legazpi City near Airport",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "2-star hotel",
+      "starTier": "2-star hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Pio Duran",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.1467362,
+        "lng": 123.7487312
+      },
+      "rating": 3.8,
+      "reviewsCount": 73,
+      "priceHint": "₱1,049",
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "editorialBlurb": "Basic hotel with an airport shuttle",
+      "googleMapsUrl": "https://www.google.com/maps/place/Trip+Inn+Legazpi+City+near+Airport/data=!4m10!3m9!1s0x33a1017e441e890b:0x7a912decee8ff7b0!5m2!4m1!1i2!8m2!3d13.1467362!4d123.7487312!16s%2Fg%2F11fkds2nnn!19sChIJC4keRH4BoTMRsPeP7uwtkXo"
+    },
+    {
+      "id": "1ba7bf565a07d44b",
+      "googleFeatureId": "11",
+      "slug": "tugawe-cove-resort",
+      "name": "Tugawe Cove Resort",
+      "categories": [
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "4-star hotel",
+      "starTier": "4-star hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 13.7195666,
+        "lng": 123.9718613
+      },
+      "rating": 4.4,
+      "reviewsCount": 322,
+      "priceHint": "₱6,681",
+      "amenities": [
+        "Pool",
+        "Free Wi-Fi",
+        "Beach access",
+        "Air-conditioned"
+      ],
+      "editorialBlurb": "Tranquil lodging with a pool & bay views",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tugawe+Cove+Resort/data=!4m10!3m9!1s0x33a02f7cfed29525:0x1ba7bf565a07d44b!5m2!4m1!1i2!8m2!3d13.7195666!4d123.9718613!16s%2Fg%2F11_w09jy1!19sChIJJZXS_nwvoDMRS9QHWla_pxs"
+    },
+    {
+      "id": "56581cabc8b56501",
+      "googleFeatureId": "11fzfft3",
+      "slug": "vanishing-island",
+      "name": "Vanishing Island",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Tourist attraction",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Bacacay",
+        "Jovellanos",
+        "Malilipot",
+        "Santo Domingo",
+        "Tanauan",
+        "Legazpi City",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Libon",
+        "Malinao",
+        "Manito",
+        "Polangui",
+        "Tupas"
+      ],
+      "plusCode": "9V42+XHJ",
+      "coordinates": {
+        "lat": 13.3574516,
+        "lng": 123.8513784
+      },
+      "rating": 4.5,
+      "reviewsCount": 87,
+      "hours": "Open · Closes 3 PM",
+      "editorialBlurb": "Cagraray-San Miguel Strait",
+      "googleMapsUrl": "https://www.google.com/maps/place/Vanishing+Island/data=!4m7!3m6!1s0x33a052656e2ffa69:0x56581cabc8b56501!8m2!3d13.3574516!4d123.8513784!16s%2Fg%2F11fzfft3_6!19sChIJafovbmVSoDMRAWW1yKscWFY"
+    },
+    {
+      "id": "e915a49f842f187c",
+      "googleFeatureId": "11ckkr3s6f",
+      "slug": "victoria-bay-resort",
+      "name": "Victoria Bay Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Oas",
+        "Tanauan",
+        "Jovellanos",
+        "Pio Duran",
+        "Tupas",
+        "Camalig",
+        "Jovellar",
+        "Libon"
+      ],
+      "address": "Sitio Imacoto Cagmanaba",
+      "coordinates": {
+        "lat": 13.070973,
+        "lng": 123.294635
+      },
+      "rating": 4.1,
+      "reviewsCount": 294,
+      "editorialBlurb": "\"Affordable rooms and cottages!\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Victoria+Bay+Resort/data=!4m7!3m6!1s0x33a16f30aa6744e5:0xe915a49f842f187c!8m2!3d13.070973!4d123.294635!16s%2Fg%2F11ckkr3s6f!19sChIJ5URnqjBvoTMRfBgvhJ-kFek"
+    },
+    {
+      "id": "23a93603d53e9693",
+      "googleFeatureId": "11sdnycqx2",
+      "slug": "victoria-resthouse-and-private-resort",
+      "name": "Victoria Resthouse and Private Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellanos",
+        "Polangui",
+        "Jovellar",
+        "Pio Duran",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "0994 942 8268",
+      "plusCode": "5P45+5GW",
+      "coordinates": {
+        "lat": 13.1555316,
+        "lng": 123.7088819
+      },
+      "rating": 3.7,
+      "reviewsCount": 6,
+      "amenities": [
+        "pool"
+      ],
+      "editorialBlurb": "\"soo cool and musiccccc pool gooood\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Victoria+Resthouse+and+Private+Resort/data=!4m7!3m6!1s0x33a101b70ffd03c7:0x23a93603d53e9693!8m2!3d13.1555316!4d123.7088819!16s%2Fg%2F11sdnycqx2!19sChIJxwP9D7cBoTMRk5Y-1QM2qSM"
+    },
+    {
+      "id": "f9101a78afedc35e",
+      "googleFeatureId": "11k4q9z0km",
+      "slug": "victoria-s-secret-cabin-and-resort",
+      "name": "Victoria's Secret Cabin & Resort",
+      "categories": [
+        "private-resorts",
+        "hiking-and-camping",
+        "staycations"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Hiking & Camping",
+        "Staycations"
+      ],
+      "primaryType": "Camping cabin",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "plusCode": "3492+5W",
+      "coordinates": {
+        "lat": 14.0671839,
+        "lng": 121.1029001
+      },
+      "rating": 4.8,
+      "reviewsCount": 13,
+      "editorialBlurb": "is clean and nice to stay for family reunion, events/gatherings.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Victoria%27s+Secret+Cabin+%26+Resort/data=!4m7!3m6!1s0x33bd6f14f68544c1:0xf9101a78afedc35e!8m2!3d14.0671839!4d121.1029001!16s%2Fg%2F11k4q9z0km!19sChIJwUSF9hRvvTMRXsPtr3gaEPk"
+    },
+    {
+      "id": "d9873f38507a1c07",
+      "googleFeatureId": "11bz09904q",
+      "slug": "viento-de-mar-beach-resort",
+      "name": "Viento De Mar Beach Resort",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Daraga",
+        "Guinobatan",
+        "Malilipot",
+        "Malinao",
+        "Pio Duran",
+        "Polangui",
+        "Tanauan",
+        "Legazpi City",
+        "Camalig",
+        "Jovellanos",
+        "Libon",
+        "Manito",
+        "Oas",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tiwi",
+        "Tupas"
+      ],
+      "address": "0918 924 1842",
+      "coordinates": {
+        "lat": 13.315002,
+        "lng": 123.7719559
+      },
+      "rating": 4.1,
+      "reviewsCount": 298,
+      "priceHint": "₱3,850",
+      "amenities": [
+        "Free parking",
+        "Beach access",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Kid-friendly"
+      ],
+      "editorialBlurb": "\"nice views , relaxing and quality 🤍 one of the best place ever 🥰\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Viento+De+Mar+Beach+Resort/data=!4m10!3m9!1s0x33a1ac96f1297901:0xd9873f38507a1c07!5m2!4m1!1i2!8m2!3d13.315002!4d123.7719559!16s%2Fg%2F11bz09904q!19sChIJAXkp8ZasoTMRBxx6UDg_h9k"
+    },
+    {
+      "id": "b003883e1f01dbc9",
+      "googleFeatureId": "11sx6w6wdq",
+      "slug": "villa-acosta-spring-resort",
+      "name": "Villa Acosta Spring Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Santo Domingo",
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Libon",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Bacacay",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Malilipot",
+        "Manito",
+        "Oas",
+        "Tupas"
+      ],
+      "plusCode": "6QGF+35J",
+      "coordinates": {
+        "lat": 13.2252236,
+        "lng": 123.7728892
+      },
+      "rating": 4.2,
+      "reviewsCount": 38,
+      "editorialBlurb": "\"The view is awesome especially the sunrise and sunset.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Villa+Acosta+Spring+Resort/data=!4m7!3m6!1s0x33a1abe221940271:0xb003883e1f01dbc9!8m2!3d13.2252236!4d123.7728892!16s%2Fg%2F11sx6w6wdq!19sChIJcQKUIeKroTMRydsBHz6IA7A"
+    },
+    {
+      "id": "2179491baee17103",
+      "googleFeatureId": "11hdvk6r1y",
+      "slug": "villa-amihan-resort",
+      "name": "Villa Amihan Resort",
+      "categories": [
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Private Resorts"
+      ],
+      "primaryType": "Lodging",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "Clemwnte st",
+      "coordinates": {
+        "lat": 14.1702777,
+        "lng": 121.206034
+      },
+      "rating": 4.7,
+      "reviewsCount": 28,
+      "editorialBlurb": "\"Excellent facilities… clean and spacious for a large group.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Villa+Amihan+Resort/data=!4m7!3m6!1s0x33bd61383f516099:0x2179491baee17103!8m2!3d14.1702777!4d121.206034!16s%2Fg%2F11hdvk6r1y!19sChIJmWBRPzhhvTMRA3HhrhtJeSE"
+    },
+    {
+      "id": "aee35348cf788966",
+      "googleFeatureId": "11y9",
+      "slug": "villa-elsa-private-resort",
+      "name": "Villa Elsa Private Resort",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Camalig",
+        "Daraga",
+        "Libon",
+        "Polangui",
+        "Legazpi City",
+        "Ligao City",
+        "Jovellar",
+        "Jovellanos",
+        "Rapu-Rapu",
+        "Santo Domingo",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "181 Purok 3",
+      "coordinates": {
+        "lat": 13.1737672,
+        "lng": 123.7160546
+      },
+      "rating": 2.3,
+      "reviewsCount": 13,
+      "amenities": [
+        "pool"
+      ],
+      "editorialBlurb": "\"Slept good and pool was warmmm.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Villa+Elsa+Private+Resort/data=!4m7!3m6!1s0x33a101c9809b17b7:0xaee35348cf788966!8m2!3d13.1737672!4d123.7160546!16s%2Fg%2F11y9_54wy3!19sChIJtxebgMkBoTMRZol4z0hT464"
+    },
+    {
+      "id": "d5b07994e641b028",
+      "googleFeatureId": "11vprs1mdh",
+      "slug": "villa-letizia-private-resort-tanauan",
+      "name": "Villa Letizia Private Resort Tanauan",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "37 Zone 5 Bagumbayan Rd",
+      "coordinates": {
+        "lat": 14.0741849,
+        "lng": 121.1356859
+      },
+      "rating": 4.5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Villa+Letizia+Private+Resort+Tanauan/data=!4m7!3m6!1s0x33bd6f336407da73:0xd5b07994e641b028!8m2!3d14.0741849!4d121.1356859!16s%2Fg%2F11vprs1mdh!19sChIJc9oHZDNvvTMRKLBB5pR5sNU"
+    },
+    {
+      "id": "2f7d0d194fa41b88",
+      "googleFeatureId": "1q6752f17",
+      "slug": "villa-sofia-private-resort",
+      "name": "Villa Sofia Private Resort",
+      "categories": [
+        "private-resorts",
+        "resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1796554,
+        "lng": 121.1793166
+      },
+      "rating": 4.3,
+      "reviewsCount": 66,
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Villa+Sofia+Private+Resort/data=!4m10!3m9!1s0x33bd615a7cdc8807:0x2f7d0d194fa41b88!5m2!4m1!1i2!8m2!3d14.1796554!4d121.1793166!16s%2Fg%2F1q6752f17!19sChIJB4jcfFphvTMRiBukTxkNfS8"
+    },
+    {
+      "id": "8ac9725ea7d91e94",
+      "googleFeatureId": "1td9b8zg",
+      "slug": "vitton-and-woodland-beach-resorts",
+      "name": "Vitton & Woodland Beach Resorts",
+      "categories": [
+        "beaches",
+        "hotels",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Hotels",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "3-star hotel",
+      "starTier": "3-star hotel",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan",
+        "Pio Duran",
+        "Tanauan",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Oas",
+        "Polangui",
+        "Tupas"
+      ],
+      "address": "0917 544 4089",
+      "plusCode": "WHFG+JPV",
+      "coordinates": {
+        "lat": 12.92412,
+        "lng": 123.57681
+      },
+      "rating": 4.1,
+      "reviewsCount": 452,
+      "priceHint": "₱1,350",
+      "amenities": [
+        "Pool",
+        "Free parking",
+        "Beach access",
+        "Air-conditioned",
+        "Kid-friendly",
+        "pool"
+      ],
+      "editorialBlurb": "\"Quiet, friendly staff, beautiful views and a great pool.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Vitton+%26+Woodland+Beach+Resorts/data=!4m10!3m9!1s0x33a13d791463c299:0x8ac9725ea7d91e94!5m2!4m1!1i2!8m2!3d12.92412!4d123.57681!16s%2Fg%2F1td9b8zg!19sChIJmcJjFHk9oTMRlB7Zp15yyYo"
+    },
+    {
+      "id": "1142a6ede3c29fa",
+      "googleFeatureId": "1pzqfh7nb",
+      "slug": "white-rock-ocean-view",
+      "name": "White Rock (Ocean View)",
+      "categories": [
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Beach",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan",
+        "Tiwi",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.2372093,
+        "lng": 123.7869544
+      },
+      "rating": 4,
+      "reviewsCount": 4,
+      "googleMapsUrl": "https://www.google.com/maps/place/White+Rock+%28Ocean+View%29/data=!4m7!3m6!1s0x33a1aab7a34ab5e5:0x1142a6ede3c29fa!8m2!3d13.2372093!4d123.7869544!16s%2Fg%2F1pzqfh7nb!19sChIJ5bVKo7eqoTMR-ik83m4qFAE"
+    },
+    {
+      "id": "ebec25b58f41ed9d",
+      "googleFeatureId": "11lwc8lh91",
+      "slug": "woodridge-place",
+      "name": "Woodridge Place",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Lodging",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "coordinates": {
+        "lat": 14.1404725,
+        "lng": 121.0287826
+      },
+      "rating": 4.7,
+      "reviewsCount": 19,
+      "googleMapsUrl": "https://www.google.com/maps/place/Woodridge+Place/data=!4m10!3m9!1s0x33bd7b009dc2d1e1:0xebec25b58f41ed9d!5m2!4m1!1i2!8m2!3d14.1404725!4d121.0287826!16s%2Fg%2F11lwc8lh91!19sChIJ4dHCnQB7vTMRne1Bj7Ul7Os"
+    },
+    {
+      "id": "f5aa3310591d1397",
+      "googleFeatureId": "11nc0d23pq",
+      "slug": "yuy-spring-resort",
+      "name": "YUY Spring Resort",
+      "categories": [
+        "resorts",
+        "hotels",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Hotels",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Jovellanos",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tiwi",
+        "Tupas"
+      ],
+      "address": "Wellsite 5, Capantagan",
+      "coordinates": {
+        "lat": 13.4586501,
+        "lng": 123.6305016
+      },
+      "rating": 5,
+      "reviewsCount": 8,
+      "editorialBlurb": "\"Water is crystal clear!!\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/YUY+Spring+Resort/data=!4m7!3m6!1s0x33a1b17d4db60bdf:0xf5aa3310591d1397!8m2!3d13.4586501!4d123.6305016!16s%2Fg%2F11nc0d23pq!19sChIJ3wu2TX2xoTMRlxMdWRAzqvU"
+    },
+    {
+      "id": "40f1ec3bffd14966",
+      "googleFeatureId": "11j0s180gj",
+      "slug": "zen-rooms-hacienda-darasa",
+      "name": "ZEN Rooms Hacienda Darasa",
+      "categories": [
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Hotels"
+      ],
+      "primaryType": "Hotel",
+      "locality": "Tanauan, Albay",
+      "lgus": [
+        "Tanauan"
+      ],
+      "address": "791 Pres, 4th St",
+      "coordinates": {
+        "lat": 14.071962,
+        "lng": 121.15198
+      },
+      "hours": "Permanently closed",
+      "googleMapsUrl": "https://www.google.com/maps/place/ZEN+Rooms+Hacienda+Darasa/data=!4m7!3m6!1s0x33bd6f40e4363265:0x40f1ec3bffd14966!8m2!3d14.071962!4d121.15198!16s%2Fg%2F11j0s180gj!19sChIJZTI25EBvvTMRZknR_zvs8UA"
+    },
+    {
+      "id": "aec7e75d23789583",
+      "googleFeatureId": "11hdj960v6",
+      "slug": "zoie-s-white-beach-resort",
+      "name": "Zoie's White Beach Resort",
+      "categories": [
+        "tourist-attractions",
+        "beaches",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Beaches & Islands",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Public beach",
+      "locality": "Manito, Albay",
+      "lgus": [
+        "Manito",
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Pio Duran",
+        "Polangui",
+        "Santo Domingo",
+        "Tanauan",
+        "Tiwi",
+        "Tupas",
+        "Oas",
+        "Rapu-Rapu"
+      ],
+      "address": "0995 232 8706",
+      "plusCode": "3RFF+35P",
+      "coordinates": {
+        "lat": 13.0727006,
+        "lng": 123.8229686
+      },
+      "rating": 4,
+      "reviewsCount": 37,
+      "editorialBlurb": "and cleanliness is a mass\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Zoie%27s+White+Beach+Resort/data=!4m7!3m6!1s0x33a0fdb5fb36cc2b:0xaec7e75d23789583!8m2!3d13.0727006!4d123.8229686!16s%2Fg%2F11hdj960v6!19sChIJK8w2-7X9oDMRg5V4I13nx64"
+    }
+  ]
+}

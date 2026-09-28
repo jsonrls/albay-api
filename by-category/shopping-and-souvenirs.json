@@ -1,0 +1,2571 @@
+{
+  "province": "Albay",
+  "category": "shopping-and-souvenirs",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 94,
+  "places": [
+    {
+      "id": "d0566bf53306ce",
+      "googleFeatureId": "11kbbs0r3f",
+      "slug": "3j-s-store",
+      "name": "3J'S STORE",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Grocery store",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Sabido Rd",
+      "plusCode": "7H5P+R75",
+      "coordinates": {
+        "lat": 13.2595044,
+        "lng": 123.5857246
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/3J%27S+STORE/data=!4m7!3m6!1s0x33a1a790237b893f:0xd0566bf53306ce!8m2!3d13.2595044!4d123.5857246!16s%2Fg%2F11kbbs0r3f!19sChIJP4l7I5CnoTMRzgYz9WtW0AA"
+    },
+    {
+      "id": "9b5cf8fa8890cd67",
+      "googleFeatureId": "11cmnd12",
+      "slug": "7-eleven-2571-tnhs-tabaco-albay",
+      "name": "7-Eleven 2571 TNHS Tabaco Albay",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Convenience store",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "TNHS T.Cabiles Ave.",
+      "coordinates": {
+        "lat": 13.3555614,
+        "lng": 123.7196284
+      },
+      "rating": 4.6,
+      "reviewsCount": 7,
+      "hours": "Open 24 hours",
+      "editorialBlurb": "Pit stop for snacks, drinks & daily essentials",
+      "googleMapsUrl": "https://www.google.com/maps/place/7-Eleven+2571+TNHS+Tabaco+Albay/data=!4m7!3m6!1s0x33a1adce3f7af0cb:0x9b5cf8fa8890cd67!8m2!3d13.3555614!4d123.7196284!16s%2Fg%2F11cmnd12_d!19sChIJy_B6P86toTMRZ82QiPr4XJs"
+    },
+    {
+      "id": "42f6fbf7f97c8e50",
+      "googleFeatureId": "11w2gd70gw",
+      "slug": "7-eleven-pawa-tabaco",
+      "name": "7-Eleven Pawa Tabaco",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Grocery store",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Legazpi City - Tiwi Coastal Rd",
+      "plusCode": "9P9F+V7P",
+      "coordinates": {
+        "lat": 13.3697066,
+        "lng": 123.7231936
+      },
+      "rating": 5,
+      "reviewsCount": 4,
+      "googleMapsUrl": "https://www.google.com/maps/place/7-Eleven+Pawa+Tabaco/data=!4m7!3m6!1s0x33a1ad003e845a1b:0x42f6fbf7f97c8e50!8m2!3d13.3697066!4d123.7231936!16s%2Fg%2F11w2gd70gw!19sChIJG1qEPgCtoTMRUI58-ff79kI"
+    },
+    {
+      "id": "b8fb9f4c773d93b5",
+      "googleFeatureId": "11r91t3jt4",
+      "slug": "a-and-j-pastry-haven",
+      "name": "A & J Pastry Haven",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "coordinates": {
+        "lat": 13.361371,
+        "lng": 123.7176997
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "hours": "Open · Closes 6 AM Tue",
+      "googleMapsUrl": "https://www.google.com/maps/place/A+%26+J+Pastry+Haven/data=!4m7!3m6!1s0x33a1adff1f960281:0xb8fb9f4c773d93b5!8m2!3d13.361371!4d123.7176997!16s%2Fg%2F11r91t3jt4!19sChIJgQKWH_-toTMRtZM9d0yf-7g"
+    },
+    {
+      "id": "da1bf77549a79082",
+      "googleFeatureId": "11pzjs38p2",
+      "slug": "afters-delight",
+      "name": "Afters Delight",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "155 Banao Guinobatan NA",
+      "coordinates": {
+        "lat": 13.2104713,
+        "lng": 123.5792595
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Closed · Opens 9 AM Wed",
+      "googleMapsUrl": "https://www.google.com/maps/place/Afters+Delight/data=!4m7!3m6!1s0x33a10917e7691ce5:0xda1bf77549a79082!8m2!3d13.2104713!4d123.5792595!16s%2Fg%2F11pzjs38p2!19sChIJ5Rxp5xcJoTMRgpCnSXX3G9o"
+    },
+    {
+      "id": "3da138a879d5c1d0",
+      "googleFeatureId": "11y2jr19yc",
+      "slug": "albayano-supermart",
+      "name": "Albayano Supermart",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Ziga Ave",
+      "plusCode": "9P4J+46V",
+      "coordinates": {
+        "lat": 13.3553676,
+        "lng": 123.7305364
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Albayano+Supermart/data=!4m7!3m6!1s0x33a1ad0069fd5013:0x3da138a879d5c1d0!8m2!3d13.3553676!4d123.7305364!16s%2Fg%2F11y2jr19yc!19sChIJE1D9aQCtoTMR0MHVeag4oT0"
+    },
+    {
+      "id": "6324f3d58f6bac55",
+      "googleFeatureId": "11ywsw7q0p",
+      "slug": "angeliz-cakes-n-cafe",
+      "name": "Angeliz Cakes n Cafe",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Ground Flr, ABN bldg, Purok 3 Brgy. 39 Bagumbayan F. Aquende Dr",
+      "coordinates": {
+        "lat": 13.144066,
+        "lng": 123.7344697
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Angeliz+Cakes+n+Cafe/data=!4m7!3m6!1s0x33a103b38b170907:0x6324f3d58f6bac55!8m2!3d13.144066!4d123.7344697!16s%2Fg%2F11ywsw7q0p!19sChIJBwkXi7MDoTMRVaxrj9XzJGM"
+    },
+    {
+      "id": "b8758c8bdb49f6fd",
+      "googleFeatureId": "11glycb2ck",
+      "slug": "ayala-malls-legazpi",
+      "name": "Ayala Malls Legazpi",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Shopping mall",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "ayala malls, anchor 2 3/f",
+      "coordinates": {
+        "lat": 13.1471102,
+        "lng": 123.7517106
+      },
+      "rating": 4.2,
+      "reviewsCount": 3211,
+      "hours": "Open · Closes 8 PM",
+      "editorialBlurb": "Shopping & movies in a roomy setup",
+      "googleMapsUrl": "https://www.google.com/maps/place/Ayala+Malls+Legazpi/data=!4m7!3m6!1s0x33a10181d10437f5:0xb8758c8bdb49f6fd!8m2!3d13.1471102!4d123.7517106!16s%2Fg%2F11glycb2ck!19sChIJ9TcE0YEBoTMR_fZJ24uMdbg"
+    },
+    {
+      "id": "9408edd08a974697",
+      "googleFeatureId": "11h8l4",
+      "slug": "barista-depot-inc-legazpi-branch",
+      "name": "Barista Depot Inc. - Legazpi Branch",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Coffee store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "468-A, Pecson Bldg, Rizal St",
+      "coordinates": {
+        "lat": 13.1406839,
+        "lng": 123.7472312
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Barista+Depot+Inc.+-+Legazpi+Branch/data=!4m7!3m6!1s0x33a103d3f8dae87b:0x9408edd08a974697!8m2!3d13.1406839!4d123.7472312!16s%2Fg%2F11h8l4_hdm!19sChIJe-ja-NMDoTMRl0aXitDtCJQ"
+    },
+    {
+      "id": "641f4e5fb03163bd",
+      "googleFeatureId": "11myv2p0ns",
+      "slug": "belando-bakery",
+      "name": "Belando Bakery",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City"
+      ],
+      "address": "Purok 3 Legazpi City - Tiwi Coastal Rd",
+      "coordinates": {
+        "lat": 13.1638093,
+        "lng": 123.7512613
+      },
+      "hours": "Open · Closes 10 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Belando+Bakery/data=!4m7!3m6!1s0x33a10117a6a236a3:0x641f4e5fb03163bd!8m2!3d13.1638093!4d123.7512613!16s%2Fg%2F11myv2p0ns!19sChIJozaiphcBoTMRvWMxsF9OH2Q"
+    },
+    {
+      "id": "5775c934aaa2ebaf",
+      "googleFeatureId": "1td78pfp",
+      "slug": "bj-grocery-and-bakery-store",
+      "name": "BJ Grocery and Bakery Store",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Grocery store",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Dona Aurora Quezon St",
+      "plusCode": "7G42+QC2",
+      "coordinates": {
+        "lat": 13.2568831,
+        "lng": 123.501006
+      },
+      "hours": "Open · Closes 7:30 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/BJ+Grocery+and+Bakery+Store/data=!4m7!3m6!1s0x33a10a740ea143df:0x5775c934aaa2ebaf!8m2!3d13.2568831!4d123.501006!16s%2Fg%2F1td78pfp!19sChIJ30OhDnQKoTMRr-uiqjTJdVc"
+    },
+    {
+      "id": "d6aefe81d7d8944e",
+      "googleFeatureId": "11v0sbc5yg",
+      "slug": "bonayon-s-ice-cream",
+      "name": "BONAYON'S ICE CREAM",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Ice cream shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "plusCode": "8MXP+Q65",
+      "coordinates": {
+        "lat": 13.3493805,
+        "lng": 123.6856056
+      },
+      "rating": 4,
+      "reviewsCount": 2,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/BONAYON%27S+ICE+CREAM/data=!4m7!3m6!1s0x33a1afe5e43913bb:0xd6aefe81d7d8944e!8m2!3d13.3493805!4d123.6856056!16s%2Fg%2F11v0sbc5yg!19sChIJuxM55OWvoTMRTpTY14H-rtY"
+    },
+    {
+      "id": "3aa2a34465e0364a",
+      "googleFeatureId": "11stg83lqv",
+      "slug": "borromeo-island-gas-dealer",
+      "name": "BORROMEO ISLAND GAS DEALER",
+      "categories": [
+        "beaches",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "General store",
+      "locality": "Guinobatan, Albay",
+      "lgus": [
+        "Guinobatan"
+      ],
+      "address": "188 Purok 2",
+      "coordinates": {
+        "lat": 13.1252552,
+        "lng": 123.5562988
+      },
+      "hours": "Open · Closes 7 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/BORROMEO+ISLAND+GAS+DEALER/data=!4m7!3m6!1s0x33a10f3085a04d8f:0x3aa2a34465e0364a!8m2!3d13.1252552!4d123.5562988!16s%2Fg%2F11stg83lqv!19sChIJj02ghTAPoTMRSjbgZUSjojo"
+    },
+    {
+      "id": "4b16c8d3f910adec",
+      "googleFeatureId": "11f",
+      "slug": "bread-and-butter-mini-mart-and-bakeshop",
+      "name": "Bread and Butter Mini Mart and Bakeshop",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "General store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "plusCode": "5P4M+4RJ",
+      "coordinates": {
+        "lat": 13.1553354,
+        "lng": 123.7345274
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "hours": "Open · Closes 9 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Bread+and+Butter+Mini+Mart+and+Bakeshop/data=!4m7!3m6!1s0x33a10166710fd929:0x4b16c8d3f910adec!8m2!3d13.1553354!4d123.7345274!16s%2Fg%2F11f_j3hzgm!19sChIJKdkPcWYBoTMR7K0Q-dPIFks"
+    },
+    {
+      "id": "4d98406d25635233",
+      "googleFeatureId": "11kb70rsf6",
+      "slug": "breadwhinner-ligao",
+      "name": "Breadwhinner Ligao",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Natera St",
+      "coordinates": {
+        "lat": 13.2391663,
+        "lng": 123.5387278
+      },
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Breadwhinner+Ligao/data=!4m7!3m6!1s0x33a10978eb74a399:0x4d98406d25635233!8m2!3d13.2391663!4d123.5387278!16s%2Fg%2F11kb70rsf6!19sChIJmaN063gJoTMRM1JjJW1AmE0"
+    },
+    {
+      "id": "69a6bde8122a38fe",
+      "googleFeatureId": "11rtwlfwcj",
+      "slug": "cake-n-smile",
+      "name": "Cake 'N Smile",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "coordinates": {
+        "lat": 13.1608856,
+        "lng": 123.7336113
+      },
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cake+%27N+Smile/data=!4m7!3m6!1s0x33a10153a156d5cb:0x69a6bde8122a38fe!8m2!3d13.1608856!4d123.7336113!16s%2Fg%2F11rtwlfwcj!19sChIJy9VWoVMBoTMR_jgqEui9pmk"
+    },
+    {
+      "id": "ab37c1b052832e6b",
+      "googleFeatureId": "11thshf7q8",
+      "slug": "cake-couture",
+      "name": "Cake Couture",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Dessert shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "plusCode": "4PWW+CFQ",
+      "coordinates": {
+        "lat": 13.1460866,
+        "lng": 123.7462191
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Cake+Couture/data=!4m7!3m6!1s0x33a1015cfb9c3b5f:0xab37c1b052832e6b!8m2!3d13.1460866!4d123.7462191!16s%2Fg%2F11thshf7q8!19sChIJXzuc-1wBoTMRay6DUrDBN6s"
+    },
+    {
+      "id": "aa040fa162161abc",
+      "googleFeatureId": "11z1z9rx",
+      "slug": "cakes-and-sweets-by-mhar",
+      "name": "Cakes and Sweets By Mhar",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "coordinates": {
+        "lat": 13.3144273,
+        "lng": 123.6618725
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Cakes+and+Sweets+By+Mhar/data=!4m7!3m6!1s0xa6bd05bb77d46c77:0xaa040fa162161abc!8m2!3d13.3144273!4d123.6618725!16s%2Fg%2F11z1z9rx_s!19sChIJd2zUd7sFvaYRvBoWYqEPBKo"
+    },
+    {
+      "id": "2df451f00c6e7073",
+      "googleFeatureId": "11b66cwtzq",
+      "slug": "camalig-wet-and-dry-public-market",
+      "name": "Camalig (Wet & Dry) Public Market",
+      "categories": [
+        "tourist-attractions",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Market",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig"
+      ],
+      "address": "G. Nobleza St",
+      "plusCode": "5MH3+VXQ",
+      "coordinates": {
+        "lat": 13.1797059,
+        "lng": 123.654993
+      },
+      "rating": 3.9,
+      "reviewsCount": 276,
+      "hours": "Open 24 hours · of Camalig",
+      "googleMapsUrl": "https://www.google.com/maps/place/Camalig+%28Wet+%26+Dry%29+Public+Market/data=!4m7!3m6!1s0x33a1065d90d4e4f7:0x2df451f00c6e7073!8m2!3d13.1797059!4d123.654993!16s%2Fg%2F11b66cwtzq!19sChIJ9-TUkF0GoTMRc3BuDPBR9C0"
+    },
+    {
+      "id": "eaf1816180f95f05",
+      "googleFeatureId": "11ns8w7712",
+      "slug": "cheat-day-cakes-and-pastries",
+      "name": "Cheat Day Cakes and Pastries",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Mabini Rd",
+      "coordinates": {
+        "lat": 13.2415041,
+        "lng": 123.5398686
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Cheat+Day+Cakes+and+Pastries/data=!4m7!3m6!1s0x33a109d6d7483229:0xeaf1816180f95f05!8m2!3d13.2415041!4d123.5398686!16s%2Fg%2F11ns8w7712!19sChIJKTJI19YJoTMRBV_5gGGB8eo"
+    },
+    {
+      "id": "227c0a2568fb6a5",
+      "googleFeatureId": "11t6pfh7fd",
+      "slug": "chef-connie-s-sm-legazpi",
+      "name": "Chef Connie's - SM Legazpi",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "coordinates": {
+        "lat": 13.1441337,
+        "lng": 123.745218
+      },
+      "rating": 4.3,
+      "reviewsCount": 3,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Chef+Connie%27s+-+SM+Legazpi/data=!4m7!3m6!1s0x33a103d565cb0de5:0x227c0a2568fb6a5!8m2!3d13.1441337!4d123.745218!16s%2Fg%2F11t6pfh7fd!19sChIJ5Q3LZdUDoTMRpbaPVqLAJwI"
+    },
+    {
+      "id": "7e641b82b2e6842b",
+      "googleFeatureId": "11snrz7k",
+      "slug": "clara-streats",
+      "name": "Clara'sTreats",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Divina Street",
+      "coordinates": {
+        "lat": 13.3448238,
+        "lng": 123.7273239
+      },
+      "hours": "Open · Closes 11 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Clara%27sTreats/data=!4m7!3m6!1s0x33a1ad535b35184f:0x7e641b82b2e6842b!8m2!3d13.3448238!4d123.7273239!16s%2Fg%2F11snrz7k_v!19sChIJTxg1W1OtoTMRK4TmsoIbZH4"
+    },
+    {
+      "id": "5db9693f81c3d3a5",
+      "googleFeatureId": "11rv6gtpck",
+      "slug": "dandg-s-delights",
+      "name": "D&G's Delights",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "plusCode": "9P27+VW3",
+      "coordinates": {
+        "lat": 13.3521318,
+        "lng": 123.7147969
+      },
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/D%26G%27s+Delights/data=!4m7!3m6!1s0x33a1ad14ef6c6b4b:0x5db9693f81c3d3a5!8m2!3d13.3521318!4d123.7147969!16s%2Fg%2F11rv6gtpck!19sChIJS2ts7xStoTMRpdPDgT9puV0"
+    },
+    {
+      "id": "ca7af36dec944239",
+      "googleFeatureId": "1wz507ht",
+      "slug": "dunkin",
+      "name": "Dunkin'",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Donut shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "F. Imperial St",
+      "plusCode": "4QW2+JW8",
+      "coordinates": {
+        "lat": 13.1465309,
+        "lng": 123.7523335
+      },
+      "rating": 3.8,
+      "reviewsCount": 82,
+      "hours": "Open 24 hours",
+      "editorialBlurb": "Chain known for breakfast & coffee",
+      "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27/data=!4m7!3m6!1s0x33a101802e6e1243:0xca7af36dec944239!8m2!3d13.1465309!4d123.7523335!16s%2Fg%2F1wz507ht!19sChIJQxJuLoABoTMROUKU7G3zeso"
+    },
+    {
+      "id": "c918471fc15c721d",
+      "googleFeatureId": "11wv7rbtd4",
+      "slug": "dunkin-ligao-city",
+      "name": "Dunkin' - Ligao City",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Donut shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Mckinley St",
+      "plusCode": "6GRQ+8C9",
+      "coordinates": {
+        "lat": 13.2407767,
+        "lng": 123.5386101
+      },
+      "rating": 4.5,
+      "reviewsCount": 2,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27+-+Ligao+City/data=!4m7!3m6!1s0x33a1090074658d73:0xc918471fc15c721d!8m2!3d13.2407767!4d123.5386101!16s%2Fg%2F11wv7rbtd4!19sChIJc41ldAAJoTMRHXJcwR9HGMk"
+    },
+    {
+      "id": "a88f4228be80af10",
+      "googleFeatureId": "11w1d8jdyr",
+      "slug": "dunkin-drive-thru-legazpi",
+      "name": "Dunkin' Drive thru Legazpi",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Donut shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "plusCode": "5Q62+7G9",
+      "coordinates": {
+        "lat": 13.1606737,
+        "lng": 123.7513719
+      },
+      "rating": 4.2,
+      "reviewsCount": 43,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27+Drive+thru+Legazpi/data=!4m7!3m6!1s0x33a1010035344cd9:0xa88f4228be80af10!8m2!3d13.1606737!4d123.7513719!16s%2Fg%2F11w1d8jdyr!19sChIJ2Uw0NQABoTMREK-AvihCj6g"
+    },
+    {
+      "id": "c3ed34007cc94eb0",
+      "googleFeatureId": "11vr1dg",
+      "slug": "dunkin-tabaco",
+      "name": "Dunkin' Tabaco",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Donut shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Tomas Cabiles St",
+      "plusCode": "9P5H+6QF",
+      "coordinates": {
+        "lat": 13.3580722,
+        "lng": 123.7294146
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open · Closes 8 PM",
+      "editorialBlurb": "Chain known for breakfast & coffee",
+      "googleMapsUrl": "https://www.google.com/maps/place/Dunkin%27+Tabaco/data=!4m7!3m6!1s0x33a1adc7f882b88d:0xc3ed34007cc94eb0!8m2!3d13.3580722!4d123.7294146!16s%2Fg%2F11vr1dg_nb!19sChIJjbiC-MetoTMRsE7JfAA07cM"
+    },
+    {
+      "id": "2aafb182334d610f",
+      "googleFeatureId": "11syspy881",
+      "slug": "eatery-s-and-ice-cream",
+      "name": "Eatery's and Ice Cream",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Ice cream shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "34 San Lorenzo St",
+      "coordinates": {
+        "lat": 13.2401775,
+        "lng": 123.5326124
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/Eatery%27s+and+Ice+Cream/data=!4m7!3m6!1s0x33a109a2e7a9db31:0x2aafb182334d610f!8m2!3d13.2401775!4d123.5326124!16s%2Fg%2F11syspy881!19sChIJMdup56IJoTMRD2FNM4Kxryo"
+    },
+    {
+      "id": "38ef83743d059cd4",
+      "googleFeatureId": "11kqxkhg1p",
+      "slug": "ezra-cera-cakes",
+      "name": "Ezra Cera Cakes",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Dessert shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "31 F. Aquende Dr",
+      "coordinates": {
+        "lat": 13.1406785,
+        "lng": 123.7344456
+      },
+      "rating": 5,
+      "reviewsCount": 7,
+      "hours": "Open · Closes 7 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Ezra+Cera+Cakes/data=!4m7!3m6!1s0x33a103992487931d:0x38ef83743d059cd4!8m2!3d13.1406785!4d123.7344456!16s%2Fg%2F11kqxkhg1p!19sChIJHZOHJJkDoTMR1JwFPXSD7zg"
+    },
+    {
+      "id": "2a6aa5f3e62f9534",
+      "googleFeatureId": "11z0w",
+      "slug": "facio-creations",
+      "name": "Facio Creations",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Purok 4",
+      "coordinates": {
+        "lat": 13.2378016,
+        "lng": 123.5530994
+      },
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Facio+Creations/data=!4m7!3m6!1s0x33a10900433f4873:0x2a6aa5f3e62f9534!8m2!3d13.2378016!4d123.5530994!16s%2Fg%2F11z0w_3nh0!19sChIJc0g_QwAJoTMRNJUv5vOlaio"
+    },
+    {
+      "id": "7a0ae4a32cbb8b37",
+      "googleFeatureId": "11xt1",
+      "slug": "favetreats",
+      "name": "FaveTreats",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "plusCode": "9P68+8P9",
+      "coordinates": {
+        "lat": 13.360776,
+        "lng": 123.7168441
+      },
+      "hours": "Closed · Opens 6:30 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/FaveTreats/data=!4m7!3m6!1s0x33a1ad005bb42643:0x7a0ae4a32cbb8b37!8m2!3d13.360776!4d123.7168441!16s%2Fg%2F11xt1_1_6q!19sChIJQya0WwCtoTMRN4u7LKPkCno"
+    },
+    {
+      "id": "b58034a178604ba",
+      "googleFeatureId": "11vpz8mhb0",
+      "slug": "godo-ligao",
+      "name": "GoDo - Ligao",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Ice cream shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "coordinates": {
+        "lat": 13.2387346,
+        "lng": 123.5560634
+      },
+      "rating": 4.9,
+      "reviewsCount": 8,
+      "hours": "Open · Closes 6:30 PM",
+      "editorialBlurb": "Provincial Hospital Old gate, Josefina Belmonte Duran",
+      "googleMapsUrl": "https://www.google.com/maps/place/GoDo+-+Ligao/data=!4m7!3m6!1s0x33a10967565a26ef:0xb58034a178604ba!8m2!3d13.2387346!4d123.5560634!16s%2Fg%2F11vpz8mhb0!19sChIJ7yZaVmcJoTMRugSGF0oDWAs"
+    },
+    {
+      "id": "217e0c67126978f0",
+      "googleFeatureId": "1hc1r8pkc",
+      "slug": "gold-bar-pawnshop",
+      "name": "Gold Bar Pawnshop",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pawn shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Quezon Ave",
+      "plusCode": "4QW3+W45",
+      "coordinates": {
+        "lat": 13.1472652,
+        "lng": 123.7528527
+      },
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Gold+Bar+Pawnshop/data=!4m7!3m6!1s0x33a10181c8d629db:0x217e0c67126978f0!8m2!3d13.1472652!4d123.7528527!16s%2Fg%2F1hc1r8pkc!19sChIJ2ynWyIEBoTMR8HhpEmcMfiE"
+    },
+    {
+      "id": "92190eb72e48d500",
+      "googleFeatureId": "11x8hg6689",
+      "slug": "green-day-matcha-bar",
+      "name": "Green Day Matcha Bar",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Dessert shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City"
+      ],
+      "plusCode": "4PQM+H99",
+      "coordinates": {
+        "lat": 13.1389152,
+        "lng": 123.733555
+      },
+      "rating": 4.4,
+      "reviewsCount": 53,
+      "hours": "Open · Closes 10 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Green+Day+Matcha+Bar/data=!4m7!3m6!1s0x33a103007a943dd1:0x92190eb72e48d500!8m2!3d13.1389152!4d123.733555!16s%2Fg%2F11x8hg6689!19sChIJ0T2UegADoTMRANVILrcOGZI"
+    },
+    {
+      "id": "d67ff3da81138f53",
+      "googleFeatureId": "11tj0vq2p8",
+      "slug": "hong-supermarket",
+      "name": "Hong Supermarket",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Grocery store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "plusCode": "4PWW+492",
+      "coordinates": {
+        "lat": 13.1452728,
+        "lng": 123.7459018
+      },
+      "rating": 4.4,
+      "reviewsCount": 33,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hong+Supermarket/data=!4m7!3m6!1s0x33a101ec4bee4c23:0xd67ff3da81138f53!8m2!3d13.1452728!4d123.7459018!16s%2Fg%2F11tj0vq2p8!19sChIJI0zuS-wBoTMRU48Tgdrzf9Y"
+    },
+    {
+      "id": "f9ae31c85fd95183",
+      "googleFeatureId": "11yszjtdq0",
+      "slug": "hynz-sweet-confections-studio",
+      "name": "Hynz Sweet Confections Studio",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Brgy.#37 Bitano, IBP Rd",
+      "coordinates": {
+        "lat": 13.1445521,
+        "lng": 123.7473769
+      },
+      "hours": "Open · Closes 10 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hynz+Sweet+Confections+Studio/data=!4m7!3m6!1s0x33a101320f091453:0xf9ae31c85fd95183!8m2!3d13.1445521!4d123.7473769!16s%2Fg%2F11yszjtdq0!19sChIJUxQJDzIBoTMRg1HZX8gxrvk"
+    },
+    {
+      "id": "2427d345355d9cea",
+      "googleFeatureId": "11c6v",
+      "slug": "j-co",
+      "name": "J.Co",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Donut shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Ground Floor Ayala Malls Legazpi, Quezon Ave",
+      "plusCode": "4QW2+VX2",
+      "coordinates": {
+        "lat": 13.147149,
+        "lng": 123.7524046
+      },
+      "rating": 4.2,
+      "reviewsCount": 250,
+      "hours": "Open · Closes 7 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/J.Co/data=!4m7!3m6!1s0x33a10181d3d3cd4f:0x2427d345355d9cea!8m2!3d13.147149!4d123.7524046!16s%2Fg%2F11c6v_ysl6!19sChIJT83T04EBoTMR6pxdNUXTJyQ"
+    },
+    {
+      "id": "7f398ba783f241f4",
+      "googleFeatureId": "11swz",
+      "slug": "jandd-s-cakes-and-desserts",
+      "name": "J&D's Cakes & Desserts",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "coordinates": {
+        "lat": 13.330297,
+        "lng": 123.7191265
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/J%26D%27s+Cakes+%26+Desserts/data=!4m7!3m6!1s0xaf452662eec98c8b:0x7f398ba783f241f4!8m2!3d13.330297!4d123.7191265!16s%2Fg%2F11swz_hdk8!19sChIJi4zJ7mImRa8R9EHyg6eLOX8"
+    },
+    {
+      "id": "357fb8fb7eef8991",
+      "googleFeatureId": "11sjrft6d2",
+      "slug": "joyance-baked-goods",
+      "name": "Joyance Baked Goods",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Zone 5",
+      "coordinates": {
+        "lat": 13.3493678,
+        "lng": 123.6824129
+      },
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Joyance+Baked+Goods/data=!4m7!3m6!1s0x33a1af9279b5088b:0x357fb8fb7eef8991!8m2!3d13.3493678!4d123.6824129!16s%2Fg%2F11sjrft6d2!19sChIJiwi1eZKvoTMRkYnvfvu4fzU"
+    },
+    {
+      "id": "6007cf326acbcbef",
+      "googleFeatureId": "11zcdjv8v7",
+      "slug": "joycelicious-by-ems-kitchenette",
+      "name": "Joycelicious by ems kitchenette",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Washington St",
+      "coordinates": {
+        "lat": 13.1910929,
+        "lng": 123.5992731
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Joycelicious+by+ems+kitchenette/data=!4m7!3m6!1s0x33a1098db324e7af:0x6007cf326acbcbef!8m2!3d13.1910929!4d123.5992731!16s%2Fg%2F11zcdjv8v7!19sChIJr-cks40JoTMR78vLajLPB2A"
+    },
+    {
+      "id": "f2d90d77e6b958cc",
+      "googleFeatureId": "11nbjzgqq4",
+      "slug": "k-anne-s-cakes-and-pastries-shop",
+      "name": "K-Anne's Cakes and Pastries Shop",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Zone 1",
+      "coordinates": {
+        "lat": 13.2413842,
+        "lng": 123.6049268
+      },
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/K-Anne%27s+Cakes+and+Pastries+Shop/data=!4m7!3m6!1s0x33a109f531676d89:0xf2d90d77e6b958cc!8m2!3d13.2413842!4d123.6049268!16s%2Fg%2F11nbjzgqq4!19sChIJiW1nMfUJoTMRzFi55ncN2fI"
+    },
+    {
+      "id": "6e325904e8451e3f",
+      "googleFeatureId": "11s8gglypl",
+      "slug": "kainoa-custom-cakes",
+      "name": "KAINOA custom cakes",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "coordinates": {
+        "lat": 13.1375882,
+        "lng": 123.753529
+      },
+      "hours": "Open now",
+      "editorialBlurb": "OLV BURAGUIS Capital ALBAY - CITY OF LEGAZPI (Capital",
+      "googleMapsUrl": "https://www.google.com/maps/place/KAINOA+custom+cakes/data=!4m7!3m6!1s0x33a101d66126cef1:0x6e325904e8451e3f!8m2!3d13.1375882!4d123.753529!16s%2Fg%2F11s8gglypl!19sChIJ8c4mYdYBoTMRPx5F6ARZMm4"
+    },
+    {
+      "id": "ab561ac6165e56e",
+      "googleFeatureId": "11sk8qkxcp",
+      "slug": "kate-s-patisserie",
+      "name": "Kate's Patisserie",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "ext, Natera St",
+      "coordinates": {
+        "lat": 13.2384464,
+        "lng": 123.5400453
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Kate%27s+Patisserie/data=!4m7!3m6!1s0x33a109183f5adb7f:0xab561ac6165e56e!8m2!3d13.2384464!4d123.5400453!16s%2Fg%2F11sk8qkxcp!19sChIJf9taPxgJoTMRbuVlYaxhtQo"
+    },
+    {
+      "id": "3610a8886b9db20a",
+      "googleFeatureId": "11xsbw2xmx",
+      "slug": "keiku-bakeshop",
+      "name": "Keiku Bakeshop",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City"
+      ],
+      "address": "Don B. Erquiaga Street, P 5th St",
+      "coordinates": {
+        "lat": 13.1547958,
+        "lng": 123.7541441
+      },
+      "rating": 5,
+      "reviewsCount": 5,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Keiku+Bakeshop/data=!4m7!3m6!1s0x33a101380e0dfd9f:0x3610a8886b9db20a!8m2!3d13.1547958!4d123.7541441!16s%2Fg%2F11xsbw2xmx!19sChIJn_0NDjgBoTMRCrKda4ioEDY"
+    },
+    {
+      "id": "d70e6f39125f3f5e",
+      "googleFeatureId": "11x8sklgds",
+      "slug": "khar-s-cakes-and-pastries",
+      "name": "Khar's Cakes & Pastries",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Zone 1",
+      "coordinates": {
+        "lat": 13.3442531,
+        "lng": 123.7186846
+      },
+      "rating": 5,
+      "reviewsCount": 4,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Khar%27s+Cakes+%26+Pastries/data=!4m7!3m6!1s0x33a1ad0038aeaee7:0xd70e6f39125f3f5e!8m2!3d13.3442531!4d123.7186846!16s%2Fg%2F11x8sklgds!19sChIJ566uOACtoTMRXj9fEjlvDtc"
+    },
+    {
+      "id": "701b07e381f9242",
+      "googleFeatureId": "11hzxv8ch0",
+      "slug": "kofitea-tabaco",
+      "name": "KoFITEA - TABACO",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Bubble tea store",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "plusCode": "9P39+QW5",
+      "coordinates": {
+        "lat": 13.3549087,
+        "lng": 123.7202137
+      },
+      "rating": 4.3,
+      "reviewsCount": 24,
+      "hours": "Open · Closes 10 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/KoFITEA+-+TABACO/data=!4m7!3m6!1s0x33a1ad6a9f560a0b:0x701b07e381f9242!8m2!3d13.3549087!4d123.7202137!16s%2Fg%2F11hzxv8ch0!19sChIJCwpWn2qtoTMRQpIfOH6wAQc"
+    },
+    {
+      "id": "2d1f49c5a244644a",
+      "googleFeatureId": "11kqdvh8pb",
+      "slug": "krispy-kreme-doughnuts-sm-city-legazpi",
+      "name": "Krispy Kreme Doughnuts® - SM City Legazpi",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Donut shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "plusCode": "4PVV+CQC",
+      "coordinates": {
+        "lat": 13.1435723,
+        "lng": 123.7444052
+      },
+      "rating": 3.5,
+      "reviewsCount": 23,
+      "hours": "Open · Closes 9 PM",
+      "editorialBlurb": "Long-standing donuts & coffee chain",
+      "googleMapsUrl": "https://www.google.com/maps/place/Krispy+Kreme+Doughnuts%C2%AE+-+SM+City+Legazpi/data=!4m7!3m6!1s0x33a103c5c5ea2a41:0x2d1f49c5a244644a!8m2!3d13.1435723!4d123.7444052!16s%2Fg%2F11kqdvh8pb!19sChIJQSrqxcUDoTMRSmREosVJHy0"
+    },
+    {
+      "id": "698c62e4beec7b36",
+      "googleFeatureId": "11gfcysfpr",
+      "slug": "lazy-baker-cupcakerie",
+      "name": "Lazy Baker Cupcakerie",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cupcake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City"
+      ],
+      "address": "Kalayaan Park, Barriada Road, Brgy Gogon - Bonot Bypass Rd",
+      "coordinates": {
+        "lat": 13.1527822,
+        "lng": 123.7467843
+      },
+      "rating": 5,
+      "reviewsCount": 28,
+      "hours": "Open · Closes 9 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Lazy+Baker+Cupcakerie/data=!4m7!3m6!1s0x33a10181f765edb9:0x698c62e4beec7b36!8m2!3d13.1527822!4d123.7467843!16s%2Fg%2F11gfcysfpr!19sChIJue1l94EBoTMRNnvsvuRijGk"
+    },
+    {
+      "id": "ead5fa0f8550039",
+      "googleFeatureId": "11c6fcm4vd",
+      "slug": "lcc-mall-ligao",
+      "name": "LCC Mall Ligao",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Shopping mall",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Mckinley Street",
+      "coordinates": {
+        "lat": 13.240659,
+        "lng": 123.5388989
+      },
+      "rating": 4.3,
+      "reviewsCount": 259,
+      "hours": "Open · Closes 9 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/LCC+Mall+Ligao/data=!4m7!3m6!1s0x33a109f201944205:0xead5fa0f8550039!8m2!3d13.240659!4d123.5388989!16s%2Fg%2F11c6fcm4vd!19sChIJBUKUAfIJoTMROQBV-KBfrQ4"
+    },
+    {
+      "id": "892a97b50c0527c7",
+      "googleFeatureId": "1hf3w07sw",
+      "slug": "lcc-mall-tabaco",
+      "name": "LCC Mall Tabaco",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Shopping mall",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "plusCode": "9P5H+6W7",
+      "coordinates": {
+        "lat": 13.3580349,
+        "lng": 123.7297836
+      },
+      "rating": 4.1,
+      "reviewsCount": 570,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/LCC+Mall+Tabaco/data=!4m7!3m6!1s0x33a1adc7ff7d5841:0x892a97b50c0527c7!8m2!3d13.3580349!4d123.7297836!16s%2Fg%2F1hf3w07sw!19sChIJQVh9_8etoTMRxycFDLWXKok"
+    },
+    {
+      "id": "1511d32941f7ca38",
+      "googleFeatureId": "11b6txfk31",
+      "slug": "lcc-supermarket-ligao",
+      "name": "LCC Supermarket - Ligao",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "McKinley Street",
+      "coordinates": {
+        "lat": 13.2405555,
+        "lng": 123.5380022
+      },
+      "rating": 4.1,
+      "reviewsCount": 141,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/LCC+Supermarket+-+Ligao/data=!4m7!3m6!1s0x33a109ede695da9b:0x1511d32941f7ca38!8m2!3d13.2405555!4d123.5380022!16s%2Fg%2F11b6txfk31!19sChIJm9qV5u0JoTMROMr3QSnTERU"
+    },
+    {
+      "id": "93ffc19985c8987c",
+      "googleFeatureId": "1hhwbfsfj",
+      "slug": "lcc-supermarket-tabaco",
+      "name": "LCC Supermarket - Tabaco",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Ziga Avenue",
+      "plusCode": "9P5H+6W7",
+      "coordinates": {
+        "lat": 13.3579207,
+        "lng": 123.7295816
+      },
+      "rating": 4.3,
+      "reviewsCount": 395,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/LCC+Supermarket+-+Tabaco/data=!4m7!3m6!1s0x33a1adb801de0563:0x93ffc19985c8987c!8m2!3d13.3579207!4d123.7295816!16s%2Fg%2F1hhwbfsfj!19sChIJYwXeAbitoTMRfJjIhZnB_5M"
+    },
+    {
+      "id": "8180988277501897",
+      "googleFeatureId": "12hl3yq02",
+      "slug": "lcc-supermarket-tabaco-city-mall",
+      "name": "LCC Supermarket - Tabaco City Mall",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Gen. Luna St",
+      "coordinates": {
+        "lat": 13.3576268,
+        "lng": 123.7305104
+      },
+      "rating": 4.4,
+      "reviewsCount": 10,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/LCC+Supermarket+-+Tabaco+City+Mall/data=!4m7!3m6!1s0x33a1adb81dd0bdd5:0x8180988277501897!8m2!3d13.3576268!4d123.7305104!16s%2Fg%2F12hl3yq02!19sChIJ1b3QHbitoTMRlxhQd4KYgIE"
+    },
+    {
+      "id": "9e7c05172c7f0601",
+      "googleFeatureId": "1tcv3vpf",
+      "slug": "legazpi-city-public-market",
+      "name": "Legazpi City Public Market",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Market",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "plusCode": "4QW2+P7W",
+      "coordinates": {
+        "lat": 13.146872,
+        "lng": 123.7506885
+      },
+      "rating": 4,
+      "reviewsCount": 611,
+      "hours": "Open · Closes 10 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Legazpi+City+Public+Market/data=!4m7!3m6!1s0x33a1017f9f352b61:0x9e7c05172c7f0601!8m2!3d13.146872!4d123.7506885!16s%2Fg%2F1tcv3vpf!19sChIJYSs1n38BoTMRAQZ_LBcFfJ4"
+    },
+    {
+      "id": "fd4bb0f14590bc7d",
+      "googleFeatureId": "11vltsxx91",
+      "slug": "legazpi-croffles",
+      "name": "legazpi croffles",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Purok 1",
+      "coordinates": {
+        "lat": 13.1540157,
+        "lng": 123.751294
+      },
+      "hours": "Closed · Opens 9 AM Tue",
+      "googleMapsUrl": "https://www.google.com/maps/place/legazpi+croffles/data=!4m7!3m6!1s0x33a101608309f7b3:0xfd4bb0f14590bc7d!8m2!3d13.1540157!4d123.751294!16s%2Fg%2F11vltsxx91!19sChIJs_cJg2ABoTMRfbyQRfGwS_0"
+    },
+    {
+      "id": "261bf720cd696ea3",
+      "googleFeatureId": "1hc6f8h6s",
+      "slug": "legazpi-miki-incorporated",
+      "name": "Legazpi Miki Incorporated",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Legazpi Miki Inc, 5 F. Imperial St",
+      "coordinates": {
+        "lat": 13.1464742,
+        "lng": 123.752051
+      },
+      "rating": 4.8,
+      "reviewsCount": 16,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Legazpi+Miki+Incorporated/data=!4m7!3m6!1s0x33a1017dec519bc9:0x261bf720cd696ea3!8m2!3d13.1464742!4d123.752051!16s%2Fg%2F1hc6f8h6s!19sChIJyZtR7H0BoTMRo25pzSD3GyY"
+    },
+    {
+      "id": "8ca1119b87c28d92",
+      "googleFeatureId": "11x7345976",
+      "slug": "lotte-mart-ligao",
+      "name": "Lotte Mart Ligao",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "190 National Hwy",
+      "coordinates": {
+        "lat": 13.2395689,
+        "lng": 123.5415369
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Lotte+Mart+Ligao/data=!4m7!3m6!1s0x33a109006d46b87b:0x8ca1119b87c28d92!8m2!3d13.2395689!4d123.5415369!16s%2Fg%2F11x7345976!19sChIJe7hGbQAJoTMRko3Ch5sRoYw"
+    },
+    {
+      "id": "8b86522e9c7c7ade",
+      "googleFeatureId": "11y8wzs99n",
+      "slug": "mae-s-cakes",
+      "name": "Mae's Cakes",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Gen. Luna St",
+      "coordinates": {
+        "lat": 13.3578704,
+        "lng": 123.7308389
+      },
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mae%27s+Cakes/data=!4m7!3m6!1s0x33a1ad00045a5289:0x8b86522e9c7c7ade!8m2!3d13.3578704!4d123.7308389!16s%2Fg%2F11y8wzs99n!19sChIJiVJaBACtoTMR3np8nC5Shos"
+    },
+    {
+      "id": "45a97c6a400f58ae",
+      "googleFeatureId": "11sbwq09cj",
+      "slug": "malilipot-public-market",
+      "name": "Malilipot Public Market",
+      "categories": [
+        "tourist-attractions",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Market",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "address": "Bordonada St",
+      "plusCode": "8P9Q+QRC",
+      "coordinates": {
+        "lat": 13.3194261,
+        "lng": 123.7395213
+      },
+      "rating": 3.5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Malilipot+Public+Market/data=!4m7!3m6!1s0x33a1ac6f6c2eea69:0x45a97c6a400f58ae!8m2!3d13.3194261!4d123.7395213!16s%2Fg%2F11sbwq09cj!19sChIJaeoubG-soTMRrlgPQGp8qUU"
+    },
+    {
+      "id": "53684a1a0edabd3e",
+      "googleFeatureId": "11c6ffnm4w",
+      "slug": "martha-s-mart",
+      "name": "Martha's Mart",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Convenience store",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "coordinates": {
+        "lat": 13.2373842,
+        "lng": 123.5491793
+      },
+      "rating": 3.8,
+      "reviewsCount": 5,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Martha%27s+Mart/data=!4m7!3m6!1s0x33a109ea67ab44ff:0x53684a1a0edabd3e!8m2!3d13.2373842!4d123.5491793!16s%2Fg%2F11c6ffnm4w!19sChIJ_0SrZ-oJoTMRPr3aDhpKaFM"
+    },
+    {
+      "id": "7e12b68e2ea9c80d",
+      "googleFeatureId": "11mcsvp08f",
+      "slug": "mary-jane-s-cakes-and-pastries",
+      "name": "Mary Jane’s Cakes & Pastries",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Brgy, Purok 6 Sitio Sabloyon",
+      "coordinates": {
+        "lat": 13.2921309,
+        "lng": 123.622723
+      },
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mary+Jane%E2%80%99s+Cakes+%26+Pastries/data=!4m7!3m6!1s0x33a1a987b61a34ff:0x7e12b68e2ea9c80d!8m2!3d13.2921309!4d123.622723!16s%2Fg%2F11mcsvp08f!19sChIJ_zQatoepoTMRDcipLo62En4"
+    },
+    {
+      "id": "bdb5d65e1168992b",
+      "googleFeatureId": "11xcf8z2dd",
+      "slug": "metro-value-mart-ligao-city",
+      "name": "Metro Value Mart Ligao City",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "San Jose St",
+      "plusCode": "6GQP+QVX",
+      "coordinates": {
+        "lat": 13.2394857,
+        "lng": 123.537228
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/Metro+Value+Mart+Ligao+City/data=!4m7!3m6!1s0x33a109004e3a449b:0xbdb5d65e1168992b!8m2!3d13.2394857!4d123.537228!16s%2Fg%2F11xcf8z2dd!19sChIJm0Q6TgAJoTMRK5loEV7Wtb0"
+    },
+    {
+      "id": "620f0e1bcda1eb2b",
+      "googleFeatureId": "11xdxp5x27",
+      "slug": "mom-s-love-sweet-delights",
+      "name": "Mom’s Love Sweet Delights",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Zone 1A",
+      "coordinates": {
+        "lat": 13.3604952,
+        "lng": 123.7008662
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Mom%E2%80%99s+Love+Sweet+Delights/data=!4m7!3m6!1s0x33a1af5b5dc67349:0x620f0e1bcda1eb2b!8m2!3d13.3604952!4d123.7008662!16s%2Fg%2F11xdxp5x27!19sChIJSXPGXVuvoTMRK-uhzRsOD2I"
+    },
+    {
+      "id": "122f8c7b5bd23e07",
+      "googleFeatureId": "11vc03",
+      "slug": "momoyo-ice-cream-and-bakery",
+      "name": "MOMOYO ice cream & BAKERY",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Bubble tea store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Imperial Building, Quezon Ave",
+      "coordinates": {
+        "lat": 13.1471049,
+        "lng": 123.7528096
+      },
+      "rating": 3.4,
+      "reviewsCount": 5,
+      "hours": "Open · Closes 9 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/MOMOYO+ice+cream+%26+BAKERY/data=!4m7!3m6!1s0x33a101cd6ed8d655:0x122f8c7b5bd23e07!8m2!3d13.1471049!4d123.7528096!16s%2Fg%2F11vc03_7ks!19sChIJVdbYbs0BoTMRBz7SW3uMLxI"
+    },
+    {
+      "id": "65bf05d41e6f36f7",
+      "googleFeatureId": "11nvw8mr46",
+      "slug": "nan-z-puto",
+      "name": "Nan'z Puto",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Marques St Brgy,#15",
+      "coordinates": {
+        "lat": 13.1336864,
+        "lng": 123.7388473
+      },
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Nan%27z+Puto/data=!4m7!3m6!1s0x33a10314df67d3af:0x65bf05d41e6f36f7!8m2!3d13.1336864!4d123.7388473!16s%2Fg%2F11nvw8mr46!19sChIJr9Nn3xQDoTMR9zZvHtQFv2U"
+    },
+    {
+      "id": "1c99d9e68f98ff1c",
+      "googleFeatureId": "11f5lxlf14",
+      "slug": "novo-tabaco-branch",
+      "name": "Novo - Tabaco Branch",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Daraga - Legazpi City - Tiwi Rd",
+      "plusCode": "9P4J+67X",
+      "coordinates": {
+        "lat": 13.3556036,
+        "lng": 123.7307334
+      },
+      "rating": 4.7,
+      "reviewsCount": 26,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Novo+-+Tabaco+Branch/data=!4m7!3m6!1s0x33a1ad71b85a7bed:0x1c99d9e68f98ff1c!8m2!3d13.3556036!4d123.7307334!16s%2Fg%2F11f5lxlf14!19sChIJ7XtauHGtoTMRHP-Yj-bZmRw"
+    },
+    {
+      "id": "adb433659d1ce6e6",
+      "googleFeatureId": "11vb",
+      "slug": "p7-san-francisco-malilipot-albay",
+      "name": "P7 san francisco malilipot albay",
+      "categories": [
+        "tourist-attractions",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Market",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "plusCode": "8Q63+V8R",
+      "coordinates": {
+        "lat": 13.312152,
+        "lng": 123.7532022
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/P7+san+francisco+malilipot+albay/data=!4m7!3m6!1s0x33a1ad69e98829c1:0xadb433659d1ce6e6!8m2!3d13.312152!4d123.7532022!16s%2Fg%2F11vb_mjsrb!19sChIJwSmI6WmtoTMR5uYcnWUztK0"
+    },
+    {
+      "id": "c48d75b19bcf3249",
+      "googleFeatureId": "11kr1mt6vd",
+      "slug": "pastriesh",
+      "name": "Pastriesh",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Dessert shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "2F, Bachiller Compound, F. Aquende Dr",
+      "coordinates": {
+        "lat": 13.1452474,
+        "lng": 123.7346436
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Pastriesh/data=!4m7!3m6!1s0x33a103c453a32125:0xc48d75b19bcf3249!8m2!3d13.1452474!4d123.7346436!16s%2Fg%2F11kr1mt6vd!19sChIJJSGjU8QDoTMRSTLPm7F1jcQ"
+    },
+    {
+      "id": "23f42c37636aa50",
+      "googleFeatureId": "11xs15hbtb",
+      "slug": "pearly-swirls-cakes-and-pastries",
+      "name": "Pearly Swirls Cakes and Pastries",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Ground Floor, CAL Courtyard Corner of Rizal Street and, Tandang Sora St",
+      "coordinates": {
+        "lat": 13.1392766,
+        "lng": 123.7312494
+      },
+      "rating": 4,
+      "reviewsCount": 3,
+      "hours": "Open · Closes 9:30 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Pearly+Swirls+Cakes+and+Pastries/data=!4m7!3m6!1s0x33a1013b63d6f663:0x23f42c37636aa50!8m2!3d13.1392766!4d123.7312494!16s%2Fg%2F11xs15hbtb!19sChIJY_bWYzsBoTMRUKo2dsNCPwI"
+    },
+    {
+      "id": "54a5247fba52d6df",
+      "googleFeatureId": "11ntfy4qp",
+      "slug": "personal-collection-ligao-branch",
+      "name": "PERSONAL COLLECTION LIGAO BRANCH",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "plusCode": "6GQV+R32",
+      "coordinates": {
+        "lat": 13.2395123,
+        "lng": 123.5426336
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/PERSONAL+COLLECTION+LIGAO+BRANCH/data=!4m7!3m6!1s0x33a109006e49313b:0x54a5247fba52d6df!8m2!3d13.2395123!4d123.5426336!16s%2Fg%2F11ntfy4qp_!19sChIJOzFJbgAJoTMR39ZSun8kpVQ"
+    },
+    {
+      "id": "e637f912a19095f",
+      "googleFeatureId": "11b7q10",
+      "slug": "polyware-trading",
+      "name": "Polyware Trading",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "General store",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Santillan St., Gen. Luna St",
+      "plusCode": "9P5J+76W",
+      "coordinates": {
+        "lat": 13.3582407,
+        "lng": 123.7305674
+      },
+      "rating": 4.5,
+      "reviewsCount": 4,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Polyware+Trading/data=!4m7!3m6!1s0x33a1adb8171e4e73:0xe637f912a19095f!8m2!3d13.3582407!4d123.7305674!16s%2Fg%2F11b7q10_q9!19sChIJc04eF7itoTMRXwkZKpF_Yw4"
+    },
+    {
+      "id": "e0a5d5f5ee72ca9",
+      "googleFeatureId": "11stxd4th2",
+      "slug": "puff-bar-lgp",
+      "name": "Puff Bar LGP",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Vaporizer store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City"
+      ],
+      "address": "F. Imperial St",
+      "coordinates": {
+        "lat": 13.1464821,
+        "lng": 123.7454486
+      },
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/Puff+Bar+LGP/data=!4m7!3m6!1s0x33a10190b7787e21:0xe0a5d5f5ee72ca9!8m2!3d13.1464821!4d123.7454486!16s%2Fg%2F11stxd4th2!19sChIJIX54t5ABoTMRqSznXl9dCg4"
+    },
+    {
+      "id": "8eb7edf07450fbdb",
+      "googleFeatureId": "11x11jnrkv",
+      "slug": "puregold-tabaco-albay",
+      "name": "Puregold Tabaco Albay",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Karangahan Blvd",
+      "plusCode": "9P5F+Q6Q",
+      "coordinates": {
+        "lat": 13.3594714,
+        "lng": 123.7230974
+      },
+      "rating": 3.5,
+      "reviewsCount": 6,
+      "googleMapsUrl": "https://www.google.com/maps/place/Puregold+Tabaco+Albay/data=!4m7!3m6!1s0x33a1ad0048e735a5:0x8eb7edf07450fbdb!8m2!3d13.3594714!4d123.7230974!16s%2Fg%2F11x11jnrkv!19sChIJpTXnSACtoTMR2_tQdPDtt44"
+    },
+    {
+      "id": "a407602ee33eedb3",
+      "googleFeatureId": "11gn28m0f1",
+      "slug": "rb8-food-productions",
+      "name": "RB8 Food Productions",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cookie shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Zone 4",
+      "coordinates": {
+        "lat": 13.338908,
+        "lng": 123.7230038
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/RB8+Food+Productions/data=!4m7!3m6!1s0x33a1ad5b98683b0b:0xa407602ee33eedb3!8m2!3d13.338908!4d123.7230038!16s%2Fg%2F11gn28m0f1!19sChIJCztomFutoTMRs-0-4y5gB6Q"
+    },
+    {
+      "id": "b724738815d95632",
+      "googleFeatureId": "11c517dfh7",
+      "slug": "red-ribbon",
+      "name": "Red Ribbon",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "G/F, Ayala Malls, Quezon Ave",
+      "coordinates": {
+        "lat": 13.1477091,
+        "lng": 123.7536765
+      },
+      "rating": 4.5,
+      "reviewsCount": 2,
+      "hours": "Open · Closes 9 PM",
+      "editorialBlurb": "Filipino bakery selling cakes & pastries",
+      "googleMapsUrl": "https://www.google.com/maps/place/Red+Ribbon/data=!4m7!3m6!1s0x33a10181d768015f:0xb724738815d95632!8m2!3d13.1477091!4d123.7536765!16s%2Fg%2F11c517dfh7!19sChIJXwFo14EBoTMRMlbZFYhzJLc"
+    },
+    {
+      "id": "c6a8767f55165468",
+      "googleFeatureId": "11g4f7ckxy",
+      "slug": "red-ribbon-sm-city-legazpi",
+      "name": "Red Ribbon | SM City Legazpi",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "coordinates": {
+        "lat": 13.1443216,
+        "lng": 123.7441129
+      },
+      "rating": 4.3,
+      "reviewsCount": 39,
+      "hours": "Open · Closes 9 PM",
+      "editorialBlurb": "Filipino bakery selling cakes & pastries",
+      "googleMapsUrl": "https://www.google.com/maps/place/Red+Ribbon+%7C+SM+City+Legazpi/data=!4m7!3m6!1s0x33a103bc30430821:0xc6a8767f55165468!8m2!3d13.1443216!4d123.7441129!16s%2Fg%2F11g4f7ckxy!19sChIJIQhDMLwDoTMRaFQWVX92qMY"
+    },
+    {
+      "id": "f62fff835b94851b",
+      "googleFeatureId": "11bzvzzg",
+      "slug": "reyes-supermart",
+      "name": "Reyes Supermart",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Santillan St",
+      "plusCode": "9P5J+9VM",
+      "coordinates": {
+        "lat": 13.3584613,
+        "lng": 123.7321861
+      },
+      "hours": "Open · Closes 7 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Reyes+Supermart/data=!4m7!3m6!1s0x33a1adb84aacb791:0xf62fff835b94851b!8m2!3d13.3584613!4d123.7321861!16s%2Fg%2F11bzvzzg_d!19sChIJkbesSritoTMRG4WUW4P_L_Y"
+    },
+    {
+      "id": "8074f3d0df402a0b",
+      "googleFeatureId": "11ysrbfl2w",
+      "slug": "ricky-s-kinalas-loglogan",
+      "name": "Ricky’s Kinalas/loglogan",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Noodle shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Purok 2 Herrera",
+      "coordinates": {
+        "lat": 13.2639743,
+        "lng": 123.5835158
+      },
+      "hours": "Open · Closes 7 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Ricky%E2%80%99s+Kinalas%2Floglogan/data=!4m7!3m6!1s0x33a1a7715b90efe3:0x8074f3d0df402a0b!8m2!3d13.2639743!4d123.5835158!16s%2Fg%2F11ysrbfl2w!19sChIJ4--QW3GnoTMRCypA39DzdIA"
+    },
+    {
+      "id": "72ecfcddea6e5ad7",
+      "googleFeatureId": "11dx8q3mrq",
+      "slug": "round-and-squares-pastries",
+      "name": "Round & Squares Pastries",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "LSB Building, Rizal St",
+      "coordinates": {
+        "lat": 13.1428305,
+        "lng": 123.7278647
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open · Closes 10 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Round+%26+Squares+Pastries/data=!4m7!3m6!1s0x33a103e735adc989:0x72ecfcddea6e5ad7!8m2!3d13.1428305!4d123.7278647!16s%2Fg%2F11dx8q3mrq!19sChIJicmtNecDoTMR11pu6t387HI"
+    },
+    {
+      "id": "aa906942bc2815b1",
+      "googleFeatureId": "11vl8v5l4r",
+      "slug": "rounded-food-house",
+      "name": "Rounded Food House",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "coordinates": {
+        "lat": 13.2103276,
+        "lng": 123.5793626
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Rounded+Food+House/data=!4m7!3m6!1s0x33a10910cc50a6bb:0xaa906942bc2815b1!8m2!3d13.2103276!4d123.5793626!16s%2Fg%2F11vl8v5l4r!19sChIJu6ZQzBAJoTMRsRUovEJpkKo"
+    },
+    {
+      "id": "5d077062e048dd90",
+      "googleFeatureId": "11lf2b7sw3",
+      "slug": "sandc-s-cakes-and-pastries",
+      "name": "S&C's Cakes and Pastries",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City"
+      ],
+      "address": "Brgy 28",
+      "coordinates": {
+        "lat": 13.1449546,
+        "lng": 123.7559886
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/S%26C%27s+Cakes+and+Pastries/data=!4m7!3m6!1s0x33a101cc39f96491:0x5d077062e048dd90!8m2!3d13.1449546!4d123.7559886!16s%2Fg%2F11lf2b7sw3!19sChIJkWT5OcwBoTMRkN1I4GJwB10"
+    },
+    {
+      "id": "ddc3b4a52f684c14",
+      "googleFeatureId": "11vprsvwnd",
+      "slug": "seoul-savour",
+      "name": "Seoul Savour",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Convenience store",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Rizal St",
+      "coordinates": {
+        "lat": 13.1392905,
+        "lng": 123.7312841
+      },
+      "rating": 4.3,
+      "reviewsCount": 27,
+      "hours": "Open · Closes 9 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Seoul+Savour/data=!4m7!3m6!1s0x33a1037eb5bb640d:0xddc3b4a52f684c14!8m2!3d13.1392905!4d123.7312841!16s%2Fg%2F11vprsvwnd!19sChIJDWS7tX4DoTMRFExoL6W0w90"
+    },
+    {
+      "id": "ab2d382d920630c0",
+      "googleFeatureId": "11y3z17j7b",
+      "slug": "shiwa-bites",
+      "name": "Shiwa Bites",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Purok 2",
+      "coordinates": {
+        "lat": 13.1686976,
+        "lng": 123.7514856
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Shiwa+Bites/data=!4m7!3m6!1s0x33a1010026173865:0xab2d382d920630c0!8m2!3d13.1686976!4d123.7514856!16s%2Fg%2F11y3z17j7b!19sChIJZTgXJgABoTMRwDAGki04Las"
+    },
+    {
+      "id": "678aadbd566aaa9f",
+      "googleFeatureId": "11ytdm76cw",
+      "slug": "siomai-king-food-hub-ligao-city",
+      "name": "Siomai King Food Hub Ligao City",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Frozen food store",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "mckimley st",
+      "coordinates": {
+        "lat": 13.2407143,
+        "lng": 123.5381513
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Siomai+King+Food+Hub+Ligao+City/data=!4m7!3m6!1s0x33a109c83b9f004f:0x678aadbd566aaa9f!8m2!3d13.2407143!4d123.5381513!16s%2Fg%2F11ytdm76cw!19sChIJTwCfO8gJoTMRn6pqVr2timc"
+    },
+    {
+      "id": "54c63d1006bc527a",
+      "googleFeatureId": "11xts3qk39",
+      "slug": "sn-o",
+      "name": "SNÖO",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Candy store",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Zone 06 Panal",
+      "coordinates": {
+        "lat": 13.3547673,
+        "lng": 123.7185424
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open 24 hours",
+      "googleMapsUrl": "https://www.google.com/maps/place/SN%C3%96O/data=!4m7!3m6!1s0x33a1adbb86eddc23:0x54c63d1006bc527a!8m2!3d13.3547673!4d123.7185424!16s%2Fg%2F11xts3qk39!19sChIJI9zthrutoTMRelK8BhA9xlQ"
+    },
+    {
+      "id": "fddc8829c0ec03f7",
+      "googleFeatureId": "11lds41zr3",
+      "slug": "starland-bakeshop",
+      "name": "Starland Bakeshop",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Purok 4",
+      "coordinates": {
+        "lat": 13.3399418,
+        "lng": 123.7056643
+      },
+      "hours": "Open · Closes 9 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Starland+Bakeshop/data=!4m7!3m6!1s0x33a1afafe51d9ce7:0xfddc8829c0ec03f7!8m2!3d13.3399418!4d123.7056643!16s%2Fg%2F11lds41zr3!19sChIJ55wd5a-voTMR9wPswCmI3P0"
+    },
+    {
+      "id": "61da4f473c626613",
+      "googleFeatureId": "11tj2mzlv6",
+      "slug": "sweetlicious-of-leeh-n-skye",
+      "name": "Sweetlicious of Leeh n' Skye",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Pastry shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Baño St",
+      "plusCode": "5P6M+68P",
+      "coordinates": {
+        "lat": 13.1605806,
+        "lng": 123.7333334
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Sweetlicious+of+Leeh+n%27+Skye/data=!4m7!3m6!1s0x33a10156411a52b1:0x61da4f473c626613!8m2!3d13.1605806!4d123.7333334!16s%2Fg%2F11tj2mzlv6!19sChIJsVIaQVYBoTMRE2ZiPEdP2mE"
+    },
+    {
+      "id": "b3cf0016bf316a6d",
+      "googleFeatureId": "11r",
+      "slug": "tabaco-city-public-market-extension",
+      "name": "Tabaco City Public Market Extension",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Supermarket",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "plusCode": "9P5J+2C6",
+      "coordinates": {
+        "lat": 13.3575395,
+        "lng": 123.7310195
+      },
+      "rating": 4.2,
+      "reviewsCount": 30,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tabaco+City+Public+Market+Extension/data=!4m7!3m6!1s0x33a1ad9fa6ba12c3:0xb3cf0016bf316a6d!8m2!3d13.3575395!4d123.7310195!16s%2Fg%2F11r_tq4xv9!19sChIJwxK6pp-toTMRbWoxvxYAz7M"
+    },
+    {
+      "id": "42c7e52ac0216eea",
+      "googleFeatureId": "11l6t2vtht",
+      "slug": "tasty-luxe",
+      "name": "Tasty Luxe",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Donut shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Zone 4",
+      "coordinates": {
+        "lat": 13.3387264,
+        "lng": 123.6983797
+      },
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tasty+Luxe/data=!4m7!3m6!1s0x33a1af4c15c13539:0x42c7e52ac0216eea!8m2!3d13.3387264!4d123.6983797!16s%2Fg%2F11l6t2vtht!19sChIJOTXBFUyvoTMR6m4hwCrlx0I"
+    },
+    {
+      "id": "b632dc121ceef551",
+      "googleFeatureId": "11ts019vhs",
+      "slug": "the-cookie-crunch",
+      "name": "The Cookie Crunch",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cookie shop",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "P7",
+      "coordinates": {
+        "lat": 13.338823,
+        "lng": 123.7355639
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Cookie+Crunch/data=!4m7!3m6!1s0x33a1adbdc3b88a81:0xb632dc121ceef551!8m2!3d13.338823!4d123.7355639!16s%2Fg%2F11ts019vhs!19sChIJgYq4w72toTMRUfXuHBLcMrY"
+    },
+    {
+      "id": "b72a308d1a275672",
+      "googleFeatureId": "11kt23bnrz",
+      "slug": "the-sweet-spot-lgp",
+      "name": "The Sweet Spot Lgp",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City"
+      ],
+      "address": "124 Magallanes St",
+      "coordinates": {
+        "lat": 13.1498448,
+        "lng": 123.7526406
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open · Closes 8 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Sweet+Spot+Lgp/data=!4m7!3m6!1s0x33a10108e8af3bab:0xb72a308d1a275672!8m2!3d13.1498448!4d123.7526406!16s%2Fg%2F11kt23bnrz!19sChIJqzuv6AgBoTMRclYnGo0wKrc"
+    },
+    {
+      "id": "9b5de91b4a2ef913",
+      "googleFeatureId": "11ljtvswmz",
+      "slug": "tinang-s-bread-and-pastry",
+      "name": "Tinang's Bread and Pastry",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "294 Policarpo St",
+      "coordinates": {
+        "lat": 13.2429431,
+        "lng": 123.5423416
+      },
+      "hours": "Open · Closes 9 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tinang%27s+Bread+and+Pastry/data=!4m7!3m6!1s0x33a1090278557e11:0x9b5de91b4a2ef913!8m2!3d13.2429431!4d123.5423416!16s%2Fg%2F11ljtvswmz!19sChIJEX5VeAIJoTMRE_kuShvpXZs"
+    },
+    {
+      "id": "3cc71b6bcbf9dad",
+      "googleFeatureId": "11sgqhhk66",
+      "slug": "trio-s-cakes-and-pastries-corner",
+      "name": "Trio's Cakes and Pastries Corner",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Zone 3",
+      "coordinates": {
+        "lat": 13.1737769,
+        "lng": 123.4607376
+      },
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Trio%27s+Cakes+and+Pastries+Corner/data=!4m7!3m6!1s0x33a10d0a2a2b815d:0x3cc71b6bcbf9dad!8m2!3d13.1737769!4d123.4607376!16s%2Fg%2F11sgqhhk66!19sChIJXYErKgoNoTMRrZ2_vLZxzAM"
+    },
+    {
+      "id": "9239d1b11a693fbd",
+      "googleFeatureId": "11ntk2rwwx",
+      "slug": "yhuan-s-cake-and-pastries",
+      "name": "Yhuan's Cake & Pastries",
+      "categories": [
+        "food",
+        "shopping-and-souvenirs"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Souvenirs & Pasalubong"
+      ],
+      "primaryType": "Cake shop",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "Rizal Street Legazpi city",
+      "coordinates": {
+        "lat": 13.13862,
+        "lng": 123.741496
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "hours": "Open · Closes 7 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Yhuan%27s+Cake+%26+Pastries/data=!4m7!3m6!1s0x33a10311595485c5:0x9239d1b11a693fbd!8m2!3d13.13862!4d123.741496!16s%2Fg%2F11ntk2rwwx!19sChIJxYVUWREDoTMRvT9pGrHROZI"
+    }
+  ]
+}

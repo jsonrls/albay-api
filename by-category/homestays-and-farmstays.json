@@ -1,0 +1,1346 @@
+{
+  "province": "Albay",
+  "category": "homestays-and-farmstays",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 44,
+  "places": [
+    {
+      "id": "8a8f64e0e56b933c",
+      "googleFeatureId": "11lthfm5",
+      "slug": "5-j-s-space-rental",
+      "name": "5 J’s Space Rental",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Rapu-Rapu"
+      ],
+      "coordinates": {
+        "lat": 13.1505347,
+        "lng": 123.7524804
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/5+J%E2%80%99s+Space+Rental/data=!4m10!3m9!1s0x33a1010071253a67:0x8a8f64e0e56b933c!5m2!4m1!1i2!8m2!3d13.1505347!4d123.7524804!16s%2Fg%2F11lthfm5_b!19sChIJZzolcQABoTMRPJNr5eBkj4o"
+    },
+    {
+      "id": "2325a8866cc92db7",
+      "googleFeatureId": "11xkvq0mpp",
+      "slug": "agustin-transient-inn",
+      "name": "Agustin Transient Inn",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "13 J. B. Berces St",
+      "plusCode": "9P6J+JHX",
+      "coordinates": {
+        "lat": 13.3615849,
+        "lng": 123.7314939
+      },
+      "rating": 1,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Agustin+Transient+Inn/data=!4m7!3m6!1s0x33a1ad00412efca1:0x2325a8866cc92db7!8m2!3d13.3615849!4d123.7314939!16s%2Fg%2F11xkvq0mpp!19sChIJofwuQQCtoTMRty3JbIaoJSM"
+    },
+    {
+      "id": "a96ed14362e0b6be",
+      "googleFeatureId": "11mcw6wgvb",
+      "slug": "albay-tourist-inn",
+      "name": "Albay Tourist Inn",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays",
+        "Hotels"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tupas, Albay",
+      "lgus": [
+        "Tupas",
+        "Legazpi City",
+        "Daraga"
+      ],
+      "coordinates": {
+        "lat": 13.1756423,
+        "lng": 123.7381004
+      },
+      "rating": 5,
+      "reviewsCount": 9,
+      "googleMapsUrl": "https://www.google.com/maps/place/Albay+Tourist+Inn/data=!4m10!3m9!1s0x33a101006abde5fb:0xa96ed14362e0b6be!5m2!4m1!1i2!8m2!3d13.1756423!4d123.7381004!16s%2Fg%2F11mcw6wgvb!19sChIJ--W9agABoTMRvrbgYkPRbqk"
+    },
+    {
+      "id": "cb15a3577a4a4844",
+      "googleFeatureId": "11tbvbg7ww",
+      "slug": "anniestransient",
+      "name": "Anniestransient",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Manito",
+        "Rapu-Rapu",
+        "Tupas"
+      ],
+      "address": "Purok 1 Burgos Rd",
+      "coordinates": {
+        "lat": 13.1035655,
+        "lng": 123.687588
+      },
+      "rating": 4.4,
+      "reviewsCount": 21,
+      "editorialBlurb": "\"Overall, I strongly recommend this Transient house.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Anniestransient/data=!4m7!3m6!1s0x33a1056ca01bdb29:0xcb15a3577a4a4844!8m2!3d13.1035655!4d123.687588!16s%2Fg%2F11tbvbg7ww!19sChIJKdsboGwFoTMRREhKelejFcs"
+    },
+    {
+      "id": "800837f9f788cd18",
+      "googleFeatureId": "11t7dq468s",
+      "slug": "balay-nibungco",
+      "name": "Balay Nibungco",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Hotels"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Manito"
+      ],
+      "coordinates": {
+        "lat": 13.1332838,
+        "lng": 123.7400695
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/Balay+Nibungco/data=!4m10!3m9!1s0x33a103aef55dc9a7:0x800837f9f788cd18!5m2!4m1!1i2!8m2!3d13.1332838!4d123.7400695!16s%2Fg%2F11t7dq468s!19sChIJp8ld9a4DoTMRGM2I9_k3CIA"
+    },
+    {
+      "id": "8acadb47d00e9975",
+      "googleFeatureId": "11n46kkpqs",
+      "slug": "big3-transient-inn",
+      "name": "BIG3 Transient Inn",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Jovellar, Albay",
+      "lgus": [
+        "Jovellar",
+        "Pio Duran"
+      ],
+      "coordinates": {
+        "lat": 12.904798,
+        "lng": 123.5985671
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/BIG3+Transient+Inn/data=!4m10!3m9!1s0x33a13dd7768a669d:0x8acadb47d00e9975!5m2!4m1!1i2!8m2!3d12.904798!4d123.5985671!16s%2Fg%2F11n46kkpqs!19sChIJnWaKdtc9oTMRdZkO0Efbyoo"
+    },
+    {
+      "id": "3306b7f72b92935d",
+      "googleFeatureId": "11yjby8vbg",
+      "slug": "blue-door",
+      "name": "Blue Door",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Daraga, Albay",
+      "lgus": [
+        "Daraga"
+      ],
+      "coordinates": {
+        "lat": 13.1377684,
+        "lng": 123.735656
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Blue+Door/data=!4m10!3m9!1s0x33a103001cf2cf73:0x3306b7f72b92935d!5m2!4m1!1i2!8m2!3d13.1377684!4d123.735656!16s%2Fg%2F11yjby8vbg!19sChIJc8_yHAADoTMRXZOSK_e3BjM"
+    },
+    {
+      "id": "f2c3f8379f9cb295",
+      "googleFeatureId": "11z84vnmqg",
+      "slug": "carolina-transient-house",
+      "name": "CAROLINA TRANSIENT HOUSE",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Purok 4 Panal",
+      "coordinates": {
+        "lat": 13.3555606,
+        "lng": 123.7218915
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/CAROLINA+TRANSIENT+HOUSE/data=!4m7!3m6!1s0x33a1ad00213f57df:0xf2c3f8379f9cb295!8m2!3d13.3555606!4d123.7218915!16s%2Fg%2F11z84vnmqg!19sChIJ31c_IQCtoTMRlbKcnzf4w_I"
+    },
+    {
+      "id": "f4de7e04be28e161",
+      "googleFeatureId": "11w4tg2syq",
+      "slug": "casa-antonio-reststop-residences",
+      "name": "Casa Antonio RestStop Residences",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Daraga",
+        "Guinobatan"
+      ],
+      "coordinates": {
+        "lat": 13.151948,
+        "lng": 123.7223059
+      },
+      "rating": 4.9,
+      "reviewsCount": 7,
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Antonio+RestStop+Residences/data=!4m10!3m9!1s0x33a101005d6dc0b3:0xf4de7e04be28e161!5m2!4m1!1i2!8m2!3d13.151948!4d123.7223059!16s%2Fg%2F11w4tg2syq!19sChIJs8BtXQABoTMRYeEovgR-3vQ"
+    },
+    {
+      "id": "760e3048ea638d98",
+      "googleFeatureId": "11wv34ry7c",
+      "slug": "casa-buena-private-beach-resort",
+      "name": "Casa Buena Private Beach Resort",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Libon",
+        "Pio Duran",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.0414165,
+        "lng": 123.383282
+      },
+      "rating": 4.7,
+      "reviewsCount": 3,
+      "editorialBlurb": "\"My kids had a blast swimming and collecting shells along the shore.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Buena+Private+Beach+Resort/data=!4m7!3m6!1s0x33a16d00419b4d53:0x760e3048ea638d98!8m2!3d13.0414165!4d123.383282!16s%2Fg%2F11wv34ry7c!19sChIJU02bQQBtoTMRmI1j6kgwDnY"
+    },
+    {
+      "id": "46251aa9c8c5721",
+      "googleFeatureId": "11mcvfssl4",
+      "slug": "casa-domingo-loma",
+      "name": "Casa Domingo Loma",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Guinobatan",
+        "Libon",
+        "Pio Duran",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.165863,
+        "lng": 123.626983
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Domingo+Loma/data=!4m10!3m9!1s0x33a1070025bb4b11:0x46251aa9c8c5721!5m2!4m1!1i2!8m2!3d13.165863!4d123.626983!16s%2Fg%2F11mcvfssl4!19sChIJEUu7JQAHoTMRIVeMnKpRYgQ"
+    },
+    {
+      "id": "85ca3b4dc3dd6fc",
+      "googleFeatureId": "11sw3lj7nw",
+      "slug": "casita-de-gloria-hometel",
+      "name": "Casita de Gloria Hometel",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Hotels"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Rapu-Rapu",
+        "Santo Domingo"
+      ],
+      "address": "0995 018 0157",
+      "coordinates": {
+        "lat": 13.1978547,
+        "lng": 123.7552665
+      },
+      "rating": 4.7,
+      "reviewsCount": 16,
+      "priceHint": "₱1,809",
+      "googleMapsUrl": "https://www.google.com/maps/place/Casita+de+Gloria+Hometel/data=!4m10!3m9!1s0x33a101aaaaefc761:0x85ca3b4dc3dd6fc!5m2!4m1!1i2!8m2!3d13.1978547!4d123.7552665!16s%2Fg%2F11sw3lj7nw!19sChIJYcfvqqoBoTMR_NY93LSjXAg"
+    },
+    {
+      "id": "f37c5d2514bf07be",
+      "googleFeatureId": "11z6p84qv",
+      "slug": "collantes-boarding-house-and-transient",
+      "name": "COLLANTES BOARDING HOUSE AND TRANSIENT",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "plusCode": "8Q42+RWH",
+      "coordinates": {
+        "lat": 13.3075434,
+        "lng": 123.7522524
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/COLLANTES+BOARDING+HOUSE+AND+TRANSIENT/data=!4m7!3m6!1s0x33a1ad001eefaba9:0xf37c5d2514bf07be!8m2!3d13.3075434!4d123.7522524!16s%2Fg%2F11z6p84qv_!19sChIJqavvHgCtoTMRvge_FCVdfPM"
+    },
+    {
+      "id": "14a96166fcef9a54",
+      "googleFeatureId": "11mdp",
+      "slug": "ers-poolside-private-resort",
+      "name": "ERS Poolside - Private Resort",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "plusCode": "8P9R+CF7",
+      "coordinates": {
+        "lat": 13.3185415,
+        "lng": 123.7411625
+      },
+      "rating": 5,
+      "reviewsCount": 5,
+      "editorialBlurb": "\"Great place to stay for a quick Family getaway!\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/ERS+Poolside+-+Private+Resort/data=!4m7!3m6!1s0x33a1ad0007e5455b:0x14a96166fcef9a54!8m2!3d13.3185415!4d123.7411625!16s%2Fg%2F11mdp_mgv8!19sChIJW0XlBwCtoTMRVJrv_GZhqRQ"
+    },
+    {
+      "id": "8bf8387a013cd65d",
+      "googleFeatureId": "11k5551vxm",
+      "slug": "evenfall",
+      "name": "Evenfall",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "plusCode": "6Q22+6X5",
+      "coordinates": {
+        "lat": 13.2005139,
+        "lng": 123.7524894
+      },
+      "rating": 4.7,
+      "reviewsCount": 17,
+      "googleMapsUrl": "https://www.google.com/maps/place/Evenfall/data=!4m7!3m6!1s0x33a101e27f437b57:0x8bf8387a013cd65d!8m2!3d13.2005139!4d123.7524894!16s%2Fg%2F11k5551vxm!19sChIJV3tDf-IBoTMRXdY8AXo4-Is"
+    },
+    {
+      "id": "6ebd17db48752220",
+      "googleFeatureId": "11f4hmm2tl",
+      "slug": "farm-plate",
+      "name": "Farm Plate",
+      "categories": [
+        "tourist-attractions",
+        "homestays-and-farmstays",
+        "beaches",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Homestays & Farm Stays",
+        "Beaches & Islands",
+        "Resorts"
+      ],
+      "primaryType": "Farmstay",
+      "locality": "Daraga, Albay",
+      "lgus": [
+        "Daraga",
+        "Jovellanos",
+        "Tupas",
+        "Camalig"
+      ],
+      "plusCode": "4PH8+V94",
+      "coordinates": {
+        "lat": 13.1296499,
+        "lng": 123.7159557
+      },
+      "rating": 4.6,
+      "reviewsCount": 1335,
+      "editorialBlurb": "the smallest church in the philippines as a bonus 🤗🤗\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Farm+Plate/data=!4m7!3m6!1s0x33a1038dae15e683:0x6ebd17db48752220!8m2!3d13.1296499!4d123.7159557!16s%2Fg%2F11f4hmm2tl!19sChIJg-YVro0DoTMRICJ1SNsXvW4"
+    },
+    {
+      "id": "fcf62d51327145fb",
+      "googleFeatureId": "11vyq2zr06",
+      "slug": "feliciano-s-garden-hometel",
+      "name": "Feliciano's Garden Hometel",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Jovellar",
+        "Malilipot",
+        "Manito",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tupas"
+      ],
+      "address": "Olbes St",
+      "coordinates": {
+        "lat": 13.1557541,
+        "lng": 123.7260351
+      },
+      "rating": 5,
+      "reviewsCount": 15,
+      "editorialBlurb": "\"Clean rooms, complete amenities and fast internet connection.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Feliciano%27s+Garden+Hometel/data=!4m7!3m6!1s0x33a1011e747725f5:0xfcf62d51327145fb!8m2!3d13.1557541!4d123.7260351!16s%2Fg%2F11vyq2zr06!19sChIJ9SV3dB4BoTMR-0VxMlEt9vw"
+    },
+    {
+      "id": "25decd08720d6549",
+      "googleFeatureId": "11xznfk2l5",
+      "slug": "gail-homestay-bigaa-legazpi",
+      "name": "Gail Homestay Bigaa Legazpi",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Rapu-Rapu, Albay",
+      "lgus": [
+        "Rapu-Rapu",
+        "Santo Domingo"
+      ],
+      "coordinates": {
+        "lat": 13.19642,
+        "lng": 123.7545725
+      },
+      "rating": 4,
+      "reviewsCount": 4,
+      "googleMapsUrl": "https://www.google.com/maps/place/Gail+Homestay+Bigaa+Legazpi/data=!4m10!3m9!1s0x33a101fdf25ed5d9:0x25decd08720d6549!5m2!4m1!1i2!8m2!3d13.19642!4d123.7545725!16s%2Fg%2F11xznfk2l5!19sChIJ2dVe8v0BoTMRSWUNcgjN3iU"
+    },
+    {
+      "id": "3f6af19006d6fedb",
+      "googleFeatureId": "11z7mmm4kq",
+      "slug": "grg-modern-payag",
+      "name": "GRG Modern Payag",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay",
+        "Jovellar",
+        "Malilipot",
+        "Malinao",
+        "Manito",
+        "Rapu-Rapu",
+        "Santo Domingo"
+      ],
+      "coordinates": {
+        "lat": 13.234815,
+        "lng": 123.7606494
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "priceHint": "₱4,293",
+      "googleMapsUrl": "https://www.google.com/maps/place/GRG+Modern+Payag/data=!4m10!3m9!1s0x33a1ab6f71b8b2c7:0x3f6af19006d6fedb!5m2!4m1!1i2!8m2!3d13.234815!4d123.7606494!16s%2Fg%2F11z7mmm4kq!19sChIJx7K4cW-roTMR2_7WBpDxaj8"
+    },
+    {
+      "id": "2b0c9ded6ee664c5",
+      "googleFeatureId": "11h02c5hsp",
+      "slug": "jillian-s-place",
+      "name": "Jillian's Place",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tupas, Albay",
+      "lgus": [
+        "Tupas"
+      ],
+      "address": "Padillo Subd., Purok 5",
+      "coordinates": {
+        "lat": 13.1754713,
+        "lng": 123.7498628
+      },
+      "rating": 2.6,
+      "reviewsCount": 9,
+      "googleMapsUrl": "https://www.google.com/maps/place/Jillian%27s+Place/data=!4m7!3m6!1s0x33a10185b2c4d153:0x2b0c9ded6ee664c5!8m2!3d13.1754713!4d123.7498628!16s%2Fg%2F11h02c5hsp!19sChIJU9HEsoUBoTMRxWTmbu2dDCs"
+    },
+    {
+      "id": "7522a924fb6247b3",
+      "googleFeatureId": "11kwjgzvc6",
+      "slug": "kissimmee-private-resort",
+      "name": "Kissimmee Private Resort",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Daraga",
+        "Malilipot",
+        "Malinao"
+      ],
+      "coordinates": {
+        "lat": 13.3409113,
+        "lng": 123.7234309
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Kissimmee+Private+Resort/data=!4m7!3m6!1s0x33a1ada0ce2230f7:0x7522a924fb6247b3!8m2!3d13.3409113!4d123.7234309!16s%2Fg%2F11kwjgzvc6!19sChIJ9zAizqCtoTMRs0di-ySpInU"
+    },
+    {
+      "id": "446c80b5dcba6790",
+      "googleFeatureId": "11ywrr031d",
+      "slug": "la-residencia-tinoco",
+      "name": "La Residencia Tinoco",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Guinobatan",
+        "Libon",
+        "Malinao",
+        "Polangui",
+        "Tiwi",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.2913985,
+        "lng": 123.520086
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/La+Residencia+Tinoco/data=!4m10!3m9!1s0x33a1a10028f9ec5f:0x446c80b5dcba6790!5m2!4m1!1i2!8m2!3d13.2913985!4d123.520086!16s%2Fg%2F11ywrr031d!19sChIJX-z5KAChoTMRkGe63LWAbEQ"
+    },
+    {
+      "id": "7a8e19b04874a5a3",
+      "googleFeatureId": "11x10p12fk",
+      "slug": "lilyben-inn",
+      "name": "Lilyben Inn",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Jovellar, Albay",
+      "lgus": [
+        "Jovellar",
+        "Pio Duran"
+      ],
+      "coordinates": {
+        "lat": 12.932124,
+        "lng": 123.6007892
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Lilyben+Inn/data=!4m10!3m9!1s0x33a1170069eafa21:0x7a8e19b04874a5a3!5m2!4m1!1i2!8m2!3d12.932124!4d123.6007892!16s%2Fg%2F11x10p12fk!19sChIJIfrqaQAXoTMRo6V0SLAZjno"
+    },
+    {
+      "id": "ca067b59ca5aab96",
+      "googleFeatureId": "11jsztm5py",
+      "slug": "little-nena-s-hometel",
+      "name": "Little Nena's Hometel",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Hotels"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tupas, Albay",
+      "lgus": [
+        "Tupas",
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Oas"
+      ],
+      "address": "179 Rizal St",
+      "coordinates": {
+        "lat": 13.1549547,
+        "lng": 123.7106024
+      },
+      "rating": 4.3,
+      "reviewsCount": 21,
+      "priceHint": "₱1,039",
+      "editorialBlurb": "\"The room is OK, got toiletries, aircon and water dispenser near the counter.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Little+Nena%27s+Hometel/data=!4m7!3m6!1s0x33a101111c8390d7:0xca067b59ca5aab96!8m2!3d13.1549547!4d123.7106024!16s%2Fg%2F11jsztm5py!19sChIJ15CDHBEBoTMRlqtayll7Bso"
+    },
+    {
+      "id": "c9cab007e473496",
+      "googleFeatureId": "11x8",
+      "slug": "lucky-trio-private-resort",
+      "name": "Lucky Trio Private Resort",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Libon",
+        "Tupas"
+      ],
+      "address": "Zone 7",
+      "coordinates": {
+        "lat": 13.2167108,
+        "lng": 123.5503431
+      },
+      "rating": 3.7,
+      "reviewsCount": 3,
+      "editorialBlurb": "\"Relaxing place Very good for staycation for family and friends\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Lucky+Trio+Private+Resort/data=!4m7!3m6!1s0x33a1090002113ff1:0xc9cab007e473496!8m2!3d13.2167108!4d123.5503431!16s%2Fg%2F11x8_nk1tp!19sChIJ8T8RAgAJoTMRljRHfgCrnAw"
+    },
+    {
+      "id": "7d737a0f8e3a7204",
+      "googleFeatureId": "11ntk7rdcs",
+      "slug": "mandm-private-resort",
+      "name": "M&M Private Resort",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Daraga",
+        "Manito"
+      ],
+      "address": "Bgy. 61 Maslog (Bgy. 58",
+      "coordinates": {
+        "lat": 13.1095973,
+        "lng": 123.7795059
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/M%26M+Private+Resort/data=!4m7!3m6!1s0x33a1030021661809:0x7d737a0f8e3a7204!8m2!3d13.1095973!4d123.7795059!16s%2Fg%2F11ntk7rdcs!19sChIJCRhmIQADoTMRBHI6jg96c30"
+    },
+    {
+      "id": "5079aee41519541f",
+      "googleFeatureId": "11v4cdf4hn",
+      "slug": "mama-s-beach-resort",
+      "name": "Mama’s beach resort",
+      "categories": [
+        "beaches",
+        "homestays-and-farmstays",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Homestays & Farm Stays",
+        "Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Sitio Maonon",
+      "plusCode": "39FG+RM7",
+      "coordinates": {
+        "lat": 13.0745252,
+        "lng": 123.3766669
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Mama%E2%80%99s+beach+resort/data=!4m7!3m6!1s0x33a16d9f5005ee29:0x5079aee41519541f!8m2!3d13.0745252!4d123.3766669!16s%2Fg%2F11v4cdf4hn!19sChIJKe4FUJ9toTMRH1QZFeSueVA"
+    },
+    {
+      "id": "1b5591de06bf8776",
+      "googleFeatureId": "11zdggf69z",
+      "slug": "mamitas-hotel",
+      "name": "mamitas hotel",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Daraga",
+        "Guinobatan"
+      ],
+      "coordinates": {
+        "lat": 13.1502038,
+        "lng": 123.7192441
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/mamitas+hotel/data=!4m10!3m9!1s0x33a101002f9c1cef:0x1b5591de06bf8776!5m2!4m1!1i2!8m2!3d13.1502038!4d123.7192441!16s%2Fg%2F11zdggf69z!19sChIJ7xycLwABoTMRdoe_Bt6RVRs"
+    },
+    {
+      "id": "ac69d816bd2267dd",
+      "googleFeatureId": "11h555g05g",
+      "slug": "mara-o-s-hometel",
+      "name": "Maraño's Hometel",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Camalig",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tupas",
+        "Bacacay"
+      ],
+      "address": "(052) 742 2118",
+      "coordinates": {
+        "lat": 13.1516307,
+        "lng": 123.7377247
+      },
+      "rating": 4.4,
+      "reviewsCount": 20,
+      "priceHint": "₱1,232",
+      "amenities": [
+        "Free parking",
+        "Air-conditioned",
+        "Wi-Fi",
+        "Airport shuttle"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Mara%C3%B1o%27s+Hometel/data=!4m10!3m9!1s0x33a101c76887d2e3:0xac69d816bd2267dd!5m2!4m1!1i2!8m2!3d13.1516307!4d123.7377247!16s%2Fg%2F11h555g05g!19sChIJ49KHaMcBoTMR3WcivRbYaaw"
+    },
+    {
+      "id": "1205011543c512be",
+      "googleFeatureId": "11xgfgyt8c",
+      "slug": "mayon-terrazas-private-resort",
+      "name": "Mayon Terrazas Private Resort",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Malinao",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Tupas",
+        "Jovellar",
+        "Libon",
+        "Manito",
+        "Tanauan"
+      ],
+      "address": "145 1, 145 1",
+      "coordinates": {
+        "lat": 13.1737332,
+        "lng": 123.6854365
+      },
+      "rating": 4.6,
+      "reviewsCount": 7,
+      "editorialBlurb": "\"Perfect to unwind and just enjoy the Mayon view.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Mayon+Terrazas+Private+Resort/data=!4m7!3m6!1s0x33a107002bf5e155:0x1205011543c512be!8m2!3d13.1737332!4d123.6854365!16s%2Fg%2F11xgfgyt8c!19sChIJVeH1KwAHoTMRvhLFQxUBBRI"
+    },
+    {
+      "id": "eded389869453793",
+      "googleFeatureId": "11smtz",
+      "slug": "merced-private-resort",
+      "name": "Merced Private Resort",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Libon, Albay",
+      "lgus": [
+        "Libon",
+        "Oas"
+      ],
+      "plusCode": "47CR+7X4",
+      "coordinates": {
+        "lat": 13.1206302,
+        "lng": 123.2924547
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/Merced+Private+Resort/data=!4m7!3m6!1s0x33a16f0d23e1c4b7:0xeded389869453793!8m2!3d13.1206302!4d123.2924547!16s%2Fg%2F11smtz_kzj!19sChIJt8ThIw1voTMRkzdFaZg47e0"
+    },
+    {
+      "id": "114f817e82b65658",
+      "googleFeatureId": "11k9zcgj7p",
+      "slug": "midtown-apartelle-and-resto-bar",
+      "name": "Midtown Apartelle and Resto +Bar",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays",
+        "food"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays",
+        "Food & Restaurants"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "227 Del Rosario St",
+      "plusCode": "6GRP+2F7",
+      "coordinates": {
+        "lat": 13.2407326,
+        "lng": 123.5351905
+      },
+      "rating": 4.8,
+      "reviewsCount": 5,
+      "googleMapsUrl": "https://www.google.com/maps/place/Midtown+Apartelle+and+Resto+%2BBar/data=!4m7!3m6!1s0x33a10976e48ae6d9:0x114f817e82b65658!8m2!3d13.2407326!4d123.5351905!16s%2Fg%2F11k9zcgj7p!19sChIJ2eaK5HYJoTMRWFa2gn6BTxE"
+    },
+    {
+      "id": "56699881f39b9a2e",
+      "googleFeatureId": "11wmx",
+      "slug": "montville-guesthouse",
+      "name": "MontVille GuestHouse",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "coordinates": {
+        "lat": 13.1414858,
+        "lng": 123.7441349
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "amenities": [
+        "Free parking",
+        "Free Wi-Fi",
+        "Air-conditioned",
+        "Wi-Fi"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/MontVille+GuestHouse/data=!4m10!3m9!1s0x33a10374a1959109:0x56699881f39b9a2e!5m2!4m1!1i2!8m2!3d13.1414858!4d123.7441349!16s%2Fg%2F11wmx_fnmb!19sChIJCZGVoXQDoTMRLpqb84GYaVY"
+    },
+    {
+      "id": "14451ad7b8250377",
+      "googleFeatureId": "11vddrscv",
+      "slug": "parksquare-homes",
+      "name": "Parksquare Homes",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "coordinates": {
+        "lat": 13.1544134,
+        "lng": 123.747559
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Parksquare+Homes/data=!4m10!3m9!1s0x33a101550ee6c84b:0x14451ad7b8250377!5m2!4m1!1i2!8m2!3d13.1544134!4d123.747559!16s%2Fg%2F11vddrscv_!19sChIJS8jmDlUBoTMRdwMluNcaRRQ"
+    },
+    {
+      "id": "1218e55d4026aa5c",
+      "googleFeatureId": "11s3dfb8yf",
+      "slug": "parong-bermuda-resort-and-homestay",
+      "name": "PARONG BERMUDA RESORT AND HOMESTAY",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Manito, Albay",
+      "lgus": [
+        "Manito"
+      ],
+      "address": "P4 Parong Street",
+      "coordinates": {
+        "lat": 13.1369204,
+        "lng": 123.8833235
+      },
+      "rating": 4.9,
+      "reviewsCount": 8,
+      "googleMapsUrl": "https://www.google.com/maps/place/PARONG+BERMUDA+RESORT+AND+HOMESTAY/data=!4m7!3m6!1s0x33a0ff887e672849:0x1218e55d4026aa5c!8m2!3d13.1369204!4d123.8833235!16s%2Fg%2F11s3dfb8yf!19sChIJSShnfoj_oDMRXKomQF3lGBI"
+    },
+    {
+      "id": "45db80be81e36811",
+      "googleFeatureId": "11p",
+      "slug": "rances-beach-house",
+      "name": "Rances Beach House",
+      "categories": [
+        "beaches",
+        "homestays-and-farmstays",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Homestays & Farm Stays",
+        "Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tiwi, Albay",
+      "lgus": [
+        "Tiwi"
+      ],
+      "plusCode": "FJPP+FJR",
+      "coordinates": {
+        "lat": 13.48624,
+        "lng": 123.6365091
+      },
+      "rating": 4.5,
+      "reviewsCount": 2,
+      "editorialBlurb": "\"Wanting seawater and enjoy its waves then this is the place to be.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Rances+Beach+House/data=!4m7!3m6!1s0x33a1b7ccce2eaaa1:0x45db80be81e36811!8m2!3d13.48624!4d123.6365091!16s%2Fg%2F11p_2cqkcr!19sChIJoaouzsy3oTMREWjjgb6A20U"
+    },
+    {
+      "id": "1263b3ed9565838d",
+      "googleFeatureId": "11vdbclh1f",
+      "slug": "roberto-s",
+      "name": "Roberto's",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Rapu-Rapu, Albay",
+      "lgus": [
+        "Rapu-Rapu",
+        "Manito",
+        "Santo Domingo"
+      ],
+      "address": "Unnamed Road",
+      "plusCode": "6QGC+6X5",
+      "coordinates": {
+        "lat": 13.2255096,
+        "lng": 123.7724893
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Roberto%27s/data=!4m7!3m6!1s0x33a1abbd0d97919b:0x1263b3ed9565838d!8m2!3d13.2255096!4d123.7724893!16s%2Fg%2F11vdbclh1f!19sChIJm5GXDb2roTMRjYNlle2zYxI"
+    },
+    {
+      "id": "76aa803efeb12121",
+      "googleFeatureId": "11tj6n2df7",
+      "slug": "roseville-homestay",
+      "name": "Roseville Homestay",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City",
+        "Bacacay",
+        "Malilipot",
+        "Malinao",
+        "Oas",
+        "Santo Domingo",
+        "Tiwi"
+      ],
+      "coordinates": {
+        "lat": 13.3505969,
+        "lng": 123.7292243
+      },
+      "rating": 5,
+      "reviewsCount": 14,
+      "priceHint": "₱2,970",
+      "googleMapsUrl": "https://www.google.com/maps/place/Roseville+Homestay/data=!4m10!3m9!1s0x33a1ade61495bc8f:0x76aa803efeb12121!5m2!4m1!1i2!8m2!3d13.3505969!4d123.7292243!16s%2Fg%2F11tj6n2df7!19sChIJj7yVFOatoTMRISGx_j6AqnY"
+    },
+    {
+      "id": "fcf47389de899f2a",
+      "googleFeatureId": "11vr04ch0n",
+      "slug": "sasutona-radan-private-beach-house",
+      "name": "Sasutona - Radan Private Beach House",
+      "categories": [
+        "private-resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Private Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Libon, Albay",
+      "lgus": [
+        "Libon",
+        "Oas"
+      ],
+      "plusCode": "478R+PMQ",
+      "coordinates": {
+        "lat": 13.1162125,
+        "lng": 123.291558
+      },
+      "rating": 5,
+      "reviewsCount": 2,
+      "googleMapsUrl": "https://www.google.com/maps/place/Sasutona+-+Radan+Private+Beach+House/data=!4m7!3m6!1s0x33a16f0077246a95:0xfcf47389de899f2a!8m2!3d13.1162125!4d123.291558!16s%2Fg%2F11vr04ch0n!19sChIJlWokdwBvoTMRKp-J3olz9Pw"
+    },
+    {
+      "id": "2ec1f060a04a61ed",
+      "googleFeatureId": "11t41m43h6",
+      "slug": "the-cube-house",
+      "name": "The Cube House",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay"
+      ],
+      "address": "281 Bicol 630",
+      "coordinates": {
+        "lat": 13.2602204,
+        "lng": 123.7607935
+      },
+      "rating": 3.8,
+      "reviewsCount": 24,
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Cube+House/data=!4m7!3m6!1s0x33a1ab96eb7dafb3:0x2ec1f060a04a61ed!8m2!3d13.2602204!4d123.7607935!16s%2Fg%2F11t41m43h6!19sChIJs69965aroTMR7WFKoGDwwS4"
+    },
+    {
+      "id": "6d0ce789963aac07",
+      "googleFeatureId": "11tfctbsgg",
+      "slug": "the-penthouse",
+      "name": "The Penthouse",
+      "categories": [
+        "tourist-attractions",
+        "homestays-and-farmstays",
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Homestays & Farm Stays",
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "address": "JF Building, Real Street",
+      "plusCode": "8P8R+QR3",
+      "coordinates": {
+        "lat": 13.3168822,
+        "lng": 123.7420503
+      },
+      "rating": 4.7,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Penthouse/data=!4m7!3m6!1s0x33a1ad4892c644b3:0x6d0ce789963aac07!8m2!3d13.3168822!4d123.7420503!16s%2Fg%2F11tfctbsgg!19sChIJs0TGkkitoTMRB6w6lonnDG0"
+    },
+    {
+      "id": "a0b0263555838798",
+      "googleFeatureId": "11twrm6q4p",
+      "slug": "the-river-house-camalig",
+      "name": "The River House @ Camalig",
+      "categories": [
+        "hotels",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Camalig, Albay",
+      "lgus": [
+        "Camalig",
+        "Guinobatan",
+        "Libon",
+        "Pio Duran"
+      ],
+      "coordinates": {
+        "lat": 13.1782872,
+        "lng": 123.6521238
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/The+River+House+@+Camalig/data=!4m10!3m9!1s0x33a107ffc5266d2f:0xa0b0263555838798!5m2!4m1!1i2!8m2!3d13.1782872!4d123.6521238!16s%2Fg%2F11twrm6q4p!19sChIJL20mxf8HoTMRmIeDVTUmsKA"
+    },
+    {
+      "id": "cec6c582ae1b055c",
+      "googleFeatureId": "11msty84l8",
+      "slug": "the-vue",
+      "name": "The Vue",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays",
+        "Private Resorts"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City"
+      ],
+      "address": "Ligao - Tabaco Rd",
+      "plusCode": "7H5M+MV2",
+      "coordinates": {
+        "lat": 13.2598286,
+        "lng": 123.5844359
+      },
+      "rating": 3,
+      "reviewsCount": 10,
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Vue/data=!4m7!3m6!1s0x33a1a700524b044f:0xcec6c582ae1b055c!8m2!3d13.2598286!4d123.5844359!16s%2Fg%2F11msty84l8!19sChIJTwRLUgCnoTMRXAUbroLFxs4"
+    },
+    {
+      "id": "2dafbfa72651a892",
+      "googleFeatureId": "11t0w91px0",
+      "slug": "uson-beach",
+      "name": "Uson Beach",
+      "categories": [
+        "resorts",
+        "homestays-and-farmstays"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Homestays & Farm Stays"
+      ],
+      "primaryType": "Homestay",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay"
+      ],
+      "coordinates": {
+        "lat": 13.3442531,
+        "lng": 123.8858864
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/Uson+Beach/data=!4m7!3m6!1s0x33a0539f9db5ac19:0x2dafbfa72651a892!8m2!3d13.3442531!4d123.8858864!16s%2Fg%2F11t0w91px0!19sChIJGay1nZ9ToDMRkqhRJqe_ry0"
+    }
+  ]
+}

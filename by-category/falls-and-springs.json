@@ -1,0 +1,228 @@
+{
+  "province": "Albay",
+  "category": "falls-and-springs",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 6,
+  "places": [
+    {
+      "id": "43d7c448f486b0c5",
+      "googleFeatureId": "11h0jgqnl",
+      "slug": "barrios-kids-pool",
+      "name": "Barrios' Kids' Pool",
+      "categories": [
+        "beaches",
+        "resorts",
+        "hotels",
+        "falls-and-springs",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Resorts",
+        "Hotels",
+        "Waterfalls & Hot Springs",
+        "Private Resorts"
+      ],
+      "primaryType": "Resort hotel",
+      "locality": "Santo Domingo, Albay",
+      "lgus": [
+        "Santo Domingo",
+        "Legazpi City",
+        "Camalig",
+        "Libon",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu"
+      ],
+      "address": "164 San Juan St",
+      "coordinates": {
+        "lat": 13.2325027,
+        "lng": 123.7788745
+      },
+      "rating": 4.3,
+      "reviewsCount": 124,
+      "amenities": [
+        "Swimming pool"
+      ],
+      "editorialBlurb": "water and affordable entrance fee\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Barrios%27+Kids%27+Pool/data=!4m7!3m6!1s0x33a1aabc88ba4451:0x43d7c448f486b0c5!8m2!3d13.2325027!4d123.7788745!16s%2Fg%2F11h0jgqnl!19sChIJUUS6iLyqoTMRxbCG9EjE10M"
+    },
+    {
+      "id": "21ccabe94b37fa22",
+      "googleFeatureId": "11bw88048n",
+      "slug": "busay-falls",
+      "name": "Busay Falls",
+      "categories": [
+        "tourist-attractions",
+        "falls-and-springs",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Waterfalls & Hot Springs",
+        "Private Resorts"
+      ],
+      "primaryType": "Waterfall",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Libon",
+        "Malilipot",
+        "Malinao",
+        "Polangui"
+      ],
+      "coordinates": {
+        "lat": 13.308397,
+        "lng": 123.7349951
+      },
+      "rating": 4.2,
+      "reviewsCount": 99,
+      "editorialBlurb": "\"Clean and accessible fresh",
+      "googleMapsUrl": "https://www.google.com/maps/place/Busay+Falls/data=!4m7!3m6!1s0x33a1ac75e3fb1d81:0x21ccabe94b37fa22!8m2!3d13.308397!4d123.7349951!16s%2Fg%2F11bw88048n!19sChIJgR3743WsoTMRIvo3S-mrzCE"
+    },
+    {
+      "id": "8194eb6521d769da",
+      "googleFeatureId": "11wtgzyycq",
+      "slug": "hot-spring-resort",
+      "name": "Hot spring resort",
+      "categories": [
+        "resorts",
+        "falls-and-springs",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Waterfalls & Hot Springs",
+        "Private Resorts"
+      ],
+      "primaryType": "Cabraran Pequeno",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Camalig",
+        "Guinobatan",
+        "Jovellar",
+        "Libon",
+        "Oas",
+        "Pio Duran",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tanauan",
+        "Tupas"
+      ],
+      "address": "\"100 pesos per head only.\"",
+      "plusCode": "3HXV+555",
+      "coordinates": {
+        "lat": 13.0978829,
+        "lng": 123.5929752
+      },
+      "rating": 5,
+      "reviewsCount": 4,
+      "editorialBlurb": "Environment renewable natural resources",
+      "googleMapsUrl": "https://www.google.com/maps/place/Hot+spring+resort/data=!4m7!3m6!1s0x33a10f006160476d:0x8194eb6521d769da!8m2!3d13.0978829!4d123.5929752!16s%2Fg%2F11wtgzyycq!19sChIJbUdgYQAPoTMR2mnXIWXrlIE"
+    },
+    {
+      "id": "b2c6150842e3b29e",
+      "googleFeatureId": "11c6zz1nbc",
+      "slug": "malabsay-falls",
+      "name": "Malabsay Falls",
+      "categories": [
+        "tourist-attractions",
+        "falls-and-springs"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Waterfalls & Hot Springs"
+      ],
+      "primaryType": "Waterfall",
+      "locality": "Polangui, Albay",
+      "lgus": [
+        "Polangui"
+      ],
+      "coordinates": {
+        "lat": 13.6619205,
+        "lng": 123.3360409
+      },
+      "rating": 4.4,
+      "reviewsCount": 32,
+      "editorialBlurb": "Stunning waterfall popular for swimming",
+      "googleMapsUrl": "https://www.google.com/maps/place/Malabsay+Falls/data=!4m7!3m6!1s0x33a1ec6e13a2f2df:0xb2c6150842e3b29e!8m2!3d13.6619205!4d123.3360409!16s%2Fg%2F11c6zz1nbc!19sChIJ3_KiE27soTMRnrLjQggVxrI"
+    },
+    {
+      "id": "2fceae997ecd41d0",
+      "googleFeatureId": "11stzh3y",
+      "slug": "spring",
+      "name": "Spring",
+      "categories": [
+        "resorts",
+        "falls-and-springs"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Waterfalls & Hot Springs"
+      ],
+      "primaryType": "spring",
+      "locality": "Rapu-Rapu, Albay",
+      "lgus": [
+        "Rapu-Rapu"
+      ],
+      "plusCode": "3PWQ+HV",
+      "coordinates": {
+        "lat": 13.0964189,
+        "lng": 123.7396316
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "amenities": [
+        "Garden"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Spring/data=!4m7!3m6!1s0x33a103a28686fc59:0x2fceae997ecd41d0!8m2!3d13.0964189!4d123.7396316!16s%2Fg%2F11stzh3y_0!19sChIJWfyGhqIDoTMR0EHNfpmuzi8"
+    },
+    {
+      "id": "d61831a98ffe150",
+      "googleFeatureId": "11dxjxf053",
+      "slug": "vera-falls",
+      "name": "Vera Falls",
+      "categories": [
+        "tourist-attractions",
+        "falls-and-springs"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Waterfalls & Hot Springs"
+      ],
+      "primaryType": "Waterfall",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tabaco City",
+        "Bacacay",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellanos",
+        "Libon",
+        "Malinao",
+        "Oas",
+        "Polangui"
+      ],
+      "coordinates": {
+        "lat": 13.3524479,
+        "lng": 123.6212622
+      },
+      "rating": 4.6,
+      "reviewsCount": 118,
+      "editorialBlurb": "Scenic waterfall with a swimming hole",
+      "googleMapsUrl": "https://www.google.com/maps/place/Vera+Falls/data=!4m7!3m6!1s0x33a1af6316527a5b:0xd61831a98ffe150!8m2!3d13.3524479!4d123.6212622!16s%2Fg%2F11dxjxf053!19sChIJW3pSFmOvoTMRUOH_mBqDYQ0"
+    }
+  ]
+}

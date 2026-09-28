@@ -1,0 +1,592 @@
+{
+  "province": "Albay",
+  "category": "events-and-venues",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 19,
+  "places": [
+    {
+      "id": "fae79aab0ef66618",
+      "googleFeatureId": "11ltfxt8hy",
+      "slug": "aladino-and-rosita-radan-family-beach",
+      "name": "ALADINO & ROSITA RADAN FAMILY BEACH",
+      "categories": [
+        "beaches",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Recreation center",
+      "locality": "Ligao City, Albay",
+      "lgus": [
+        "Ligao City",
+        "Camalig",
+        "Daraga",
+        "Guinobatan",
+        "Jovellar",
+        "Jovellanos",
+        "Libon",
+        "Pio Duran",
+        "Polangui",
+        "Tupas"
+      ],
+      "coordinates": {
+        "lat": 13.172715,
+        "lng": 123.7136429
+      },
+      "googleMapsUrl": "https://www.google.com/maps/place/ALADINO+%26+ROSITA+RADAN+FAMILY+BEACH/data=!4m7!3m6!1s0x33a1018d4090a0d1:0xfae79aab0ef66618!8m2!3d13.172715!4d123.7136429!16s%2Fg%2F11ltfxt8hy!19sChIJ0aCQQI0BoTMRGGb2Dqua5_o"
+    },
+    {
+      "id": "411bc091eb4ee8ee",
+      "googleFeatureId": "11vf94j6rp",
+      "slug": "ang-hiraya-ni-lina",
+      "name": "Ang Hiraya ni Lina",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Daraga, Albay",
+      "lgus": [
+        "Daraga"
+      ],
+      "address": "Purok 7, Upper",
+      "coordinates": {
+        "lat": 13.1391466,
+        "lng": 123.7115251
+      },
+      "rating": 4.3,
+      "reviewsCount": 8,
+      "googleMapsUrl": "https://www.google.com/maps/place/Ang+Hiraya+ni+Lina/data=!4m7!3m6!1s0x33a10303c5dc04e9:0x411bc091eb4ee8ee!8m2!3d13.1391466!4d123.7115251!16s%2Fg%2F11vf94j6rp!19sChIJ6QTcxQMDoTMR7uhO65HAG0E"
+    },
+    {
+      "id": "199ce44548b81f5d",
+      "googleFeatureId": "11p5l2zcx",
+      "slug": "belton-s-place",
+      "name": "Belton’s Place",
+      "categories": [
+        "tourist-attractions",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot"
+      ],
+      "address": "Purok 3",
+      "coordinates": {
+        "lat": 13.3316207,
+        "lng": 123.7189681
+      },
+      "rating": 3,
+      "reviewsCount": 3,
+      "editorialBlurb": "\"Great for meditation\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Belton%E2%80%99s+Place/data=!4m7!3m6!1s0x33a1ad12c473fa4f:0x199ce44548b81f5d!8m2!3d13.3316207!4d123.7189681!16s%2Fg%2F11p5l2zcx_!19sChIJT_pzxBKtoTMRXR-4SEXknBk"
+    },
+    {
+      "id": "cf5ba84f1a98ad9e",
+      "googleFeatureId": "11md8y776",
+      "slug": "buyuan-boutique-resort",
+      "name": "Buyuan Boutique Resort",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Polangui"
+      ],
+      "address": "186 PUROK 2",
+      "coordinates": {
+        "lat": 13.202998,
+        "lng": 123.744745
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "googleMapsUrl": "https://www.google.com/maps/place/Buyuan+Boutique+Resort/data=!4m7!3m6!1s0x33a10100750f84c1:0xcf5ba84f1a98ad9e!8m2!3d13.202998!4d123.744745!16s%2Fg%2F11md8y776_!19sChIJwYQPdQABoTMRnq2YGk-oW88"
+    },
+    {
+      "id": "684041339c23ccfd",
+      "googleFeatureId": "11f104vbqc",
+      "slug": "casa-ver-amore-inc",
+      "name": "Casa Ver'Amore Inc.",
+      "categories": [
+        "food",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Food & Restaurants",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Karangahan Blvd",
+      "coordinates": {
+        "lat": 13.3597225,
+        "lng": 123.7241872
+      },
+      "rating": 4.7,
+      "reviewsCount": 69,
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Casa+Ver%27Amore+Inc./data=!4m7!3m6!1s0x33a1ae8ae5dff5a1:0x684041339c23ccfd!8m2!3d13.3597225!4d123.7241872!16s%2Fg%2F11f104vbqc!19sChIJofXf5YquoTMR_cwjnDNBQGg"
+    },
+    {
+      "id": "71057fdc66af7cff",
+      "googleFeatureId": "11ssfhnj6w",
+      "slug": "d-oragons-adventure-atv-rental",
+      "name": "D' Oragons Adventure Atv Rental",
+      "categories": [
+        "tourist-attractions",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Recreation center",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "Zone 5, Cagsawa Ruins",
+      "coordinates": {
+        "lat": 13.1647544,
+        "lng": 123.700181
+      },
+      "rating": 4.5,
+      "reviewsCount": 13,
+      "hours": "Open · Closes 6 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/D%27+Oragons+Adventure+Atv+Rental/data=!4m7!3m6!1s0x33a107996fcb8085:0x71057fdc66af7cff!8m2!3d13.1647544!4d123.700181!16s%2Fg%2F11ssfhnj6w!19sChIJhYDLb5kHoTMR_3yvZtx_BXE"
+    },
+    {
+      "id": "875aec2277e74625",
+      "googleFeatureId": "11t7ts5xy9",
+      "slug": "de-mansion-events-place",
+      "name": "De Mansion Events Place",
+      "categories": [
+        "resorts",
+        "events-and-venues",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls",
+        "Private Resorts"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Ligao City",
+        "Tupas"
+      ],
+      "plusCode": "5QG2+GGR",
+      "coordinates": {
+        "lat": 13.176368,
+        "lng": 123.751259
+      },
+      "rating": 4.2,
+      "reviewsCount": 53,
+      "hours": "Open · Closes 11 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/De+Mansion+Events+Place/data=!4m7!3m6!1s0x33a10185b8447379:0x875aec2277e74625!8m2!3d13.176368!4d123.751259!16s%2Fg%2F11t7ts5xy9!19sChIJeXNEuIUBoTMRJUbndyLsWoc"
+    },
+    {
+      "id": "f1a2b41546f4d0ec",
+      "googleFeatureId": "11c6qlrj0g",
+      "slug": "fiesta-ballroom-hotel",
+      "name": "Fiesta Ballroom Hotel",
+      "categories": [
+        "resorts",
+        "events-and-venues",
+        "private-resorts",
+        "hotels"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls",
+        "Private Resorts",
+        "Hotels"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Tabaco City",
+        "Bacacay",
+        "Daraga",
+        "Jovellar",
+        "Jovellanos",
+        "Manito",
+        "Oas",
+        "Santo Domingo",
+        "Tupas",
+        "Ligao City",
+        "Camalig"
+      ],
+      "coordinates": {
+        "lat": 13.1503116,
+        "lng": 123.7415639
+      },
+      "rating": 3.8,
+      "reviewsCount": 82,
+      "priceHint": "₱1,736",
+      "hours": "Open 24 hours · Free parking",
+      "editorialBlurb": "Central City Subdivision",
+      "googleMapsUrl": "https://www.google.com/maps/place/Fiesta+Ballroom+Hotel/data=!4m10!3m9!1s0x33a1017cbb1e8285:0xf1a2b41546f4d0ec!5m2!4m1!1i2!8m2!3d13.1503116!4d123.7415639!16s%2Fg%2F11c6qlrj0g!19sChIJhYIeu3wBoTMR7ND0RhW0ovE"
+    },
+    {
+      "id": "bac3b05a080ff932",
+      "googleFeatureId": "11ny0j",
+      "slug": "highlands-park-legazpi",
+      "name": "Highlands Park Legazpi",
+      "categories": [
+        "tourist-attractions",
+        "events-and-venues",
+        "resorts",
+        "food"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Events & Function Halls",
+        "Resorts",
+        "Food & Restaurants"
+      ],
+      "primaryType": "Amusement park",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Daraga",
+        "Jovellanos",
+        "Bacacay",
+        "Camalig",
+        "Tupas"
+      ],
+      "address": "Sitio Centro",
+      "plusCode": "4PFG+WG8",
+      "coordinates": {
+        "lat": 13.1248125,
+        "lng": 123.7263125
+      },
+      "rating": 4.5,
+      "reviewsCount": 594,
+      "hours": "Open · Closes 2 AM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Highlands+Park+Legazpi/data=!4m7!3m6!1s0x33a103a3e417af99:0xbac3b05a080ff932!8m2!3d13.1248125!4d123.7263125!16s%2Fg%2F11ny0j_jjr!19sChIJma8X5KMDoTMRMvkPCFqww7o"
+    },
+    {
+      "id": "d23f1fb94ce35d6",
+      "googleFeatureId": "1ttp",
+      "slug": "ibalong-centrum-for-recreation-icr",
+      "name": "Ibalong Centrum for Recreation (ICR)",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Arena",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City"
+      ],
+      "address": "(052) 820 2423",
+      "plusCode": "4PVW+MGH",
+      "coordinates": {
+        "lat": 13.144195,
+        "lng": 123.746363
+      },
+      "rating": 4.1,
+      "reviewsCount": 179,
+      "googleMapsUrl": "https://www.google.com/maps/place/Ibalong+Centrum+for+Recreation+%28ICR%29/data=!4m7!3m6!1s0x33a103d5e16fd095:0xd23f1fb94ce35d6!8m2!3d13.144195!4d123.746363!16s%2Fg%2F1ttp_n4k!19sChIJldBv4dUDoTMR1jXOlPvxIw0"
+    },
+    {
+      "id": "160e7f716f253bbd",
+      "googleFeatureId": "11g2wlm6gd",
+      "slug": "malilipot-seawall",
+      "name": "Malilipot Seawall",
+      "categories": [
+        "tourist-attractions",
+        "events-and-venues",
+        "beaches"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Events & Function Halls",
+        "Beaches & Islands"
+      ],
+      "primaryType": "Recreation center",
+      "locality": "Malilipot, Albay",
+      "lgus": [
+        "Malilipot",
+        "Ligao City",
+        "Camalig",
+        "Daraga"
+      ],
+      "plusCode": "8PFV+PJ7",
+      "coordinates": {
+        "lat": 13.3242947,
+        "lng": 123.7440539
+      },
+      "rating": 4.5,
+      "reviewsCount": 55,
+      "editorialBlurb": "\"No entrance fee for those who want to go for swimming.\"",
+      "googleMapsUrl": "https://www.google.com/maps/place/Malilipot+Seawall/data=!4m7!3m6!1s0x33a1ad5db88cf899:0x160e7f716f253bbd!8m2!3d13.3242947!4d123.7440539!16s%2Fg%2F11g2wlm6gd!19sChIJmfiMuF2toTMRvTslb3F_DhY"
+    },
+    {
+      "id": "dffeeb4ac9443003",
+      "googleFeatureId": "11k5zl9cfb",
+      "slug": "masosu-spring-resort-pool-no-3-tourist-inn-and-event-hall",
+      "name": "Masosu Spring Resort Pool No. 3 Tourist Inn & Event Hall",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Recreation center",
+      "locality": "Polangui, Albay",
+      "lgus": [
+        "Polangui"
+      ],
+      "address": "31 Masosu Street",
+      "coordinates": {
+        "lat": 13.4335361,
+        "lng": 123.4064045
+      },
+      "rating": 4.4,
+      "reviewsCount": 14,
+      "hours": "Open now",
+      "googleMapsUrl": "https://www.google.com/maps/place/Masosu+Spring+Resort+Pool+No.+3+Tourist+Inn+%26+Event+Hall/data=!4m7!3m6!1s0x33a199bd17b88495:0xdffeeb4ac9443003!8m2!3d13.4335361!4d123.4064045!16s%2Fg%2F11k5zl9cfb!19sChIJlYS4F72ZoTMRAzBEyUrr_t8"
+    },
+    {
+      "id": "66b816ff5eb2f243",
+      "googleFeatureId": "11x6yxp1t",
+      "slug": "recreation-misibis-bay-resort",
+      "name": "Recreation - Misibis Bay Resort",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Sports club",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay"
+      ],
+      "plusCode": "6WQ6+F5",
+      "coordinates": {
+        "lat": 13.238745,
+        "lng": 123.910446
+      },
+      "rating": 5,
+      "reviewsCount": 1,
+      "googleMapsUrl": "https://www.google.com/maps/place/Recreation+-+Misibis+Bay+Resort/data=!4m7!3m6!1s0x33a057001ffcf127:0x66b816ff5eb2f243!8m2!3d13.238745!4d123.910446!16s%2Fg%2F11x6yxp1t_!19sChIJJ_H8HwBXoDMRQ_KyXv8WuGY"
+    },
+    {
+      "id": "fb9e2e3fdb10b81e",
+      "googleFeatureId": "11dymg3mr",
+      "slug": "rosen-garten",
+      "name": "Rosen Garten",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay"
+      ],
+      "plusCode": "8Q7C+3CP",
+      "coordinates": {
+        "lat": 13.3127227,
+        "lng": 123.771085
+      },
+      "rating": 4.1,
+      "reviewsCount": 16,
+      "googleMapsUrl": "https://www.google.com/maps/place/Rosen+Garten/data=!4m7!3m6!1s0x33a1ac970b15fca7:0xfb9e2e3fdb10b81e!8m2!3d13.3127227!4d123.771085!16s%2Fg%2F11dymg3mr_!19sChIJp_wVC5esoTMRHrgQ2z8unvs"
+    },
+    {
+      "id": "8052098372f9ea1f",
+      "googleFeatureId": "1pp2tl9p2",
+      "slug": "sitio-misibis-bay-resort",
+      "name": "Sitio - Misibis Bay Resort",
+      "categories": [
+        "beaches",
+        "events-and-venues",
+        "resorts",
+        "private-resorts"
+      ],
+      "categoryLabels": [
+        "Beaches & Islands",
+        "Events & Function Halls",
+        "Resorts",
+        "Private Resorts"
+      ],
+      "primaryType": "Recreation center",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Bacacay",
+        "Manito"
+      ],
+      "plusCode": "6WQ5+788",
+      "coordinates": {
+        "lat": 13.2381596,
+        "lng": 123.9083201
+      },
+      "rating": 5,
+      "reviewsCount": 6,
+      "hours": "Open · Closes 11 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Sitio+-+Misibis+Bay+Resort/data=!4m7!3m6!1s0x33a0565e2bc6f097:0x8052098372f9ea1f!8m2!3d13.2381596!4d123.9083201!16s%2Fg%2F1pp2tl9p2!19sChIJl_DGK15WoDMRH-r5coMJUoA"
+    },
+    {
+      "id": "1fc22ef3575d387b",
+      "googleFeatureId": "11lm0r4rkm",
+      "slug": "socorro-s-the-venue",
+      "name": "Socorro's The Venue",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Event venue",
+      "locality": "Legazpi City, Albay",
+      "lgus": [
+        "Legazpi City",
+        "Camalig",
+        "Oas",
+        "Polangui",
+        "Rapu-Rapu",
+        "Tupas"
+      ],
+      "address": "PNR Rd",
+      "plusCode": "5MHC+HG6",
+      "coordinates": {
+        "lat": 13.1789121,
+        "lng": 123.6712646
+      },
+      "rating": 4.6,
+      "reviewsCount": 48,
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Socorro%27s+The+Venue/data=!4m7!3m6!1s0x33a107b3dcfee1b9:0x1fc22ef3575d387b!8m2!3d13.1789121!4d123.6712646!16s%2Fg%2F11lm0r4rkm!19sChIJueH-3LMHoTMRezhdV_Muwh8"
+    },
+    {
+      "id": "c121b7b9c0695b64",
+      "googleFeatureId": "11kq3j6284",
+      "slug": "tanawan-malinao-albay",
+      "name": "Tanawan Malinao Albay",
+      "categories": [
+        "tourist-attractions",
+        "events-and-venues",
+        "resorts"
+      ],
+      "categoryLabels": [
+        "Tourist Attractions",
+        "Events & Function Halls",
+        "Resorts"
+      ],
+      "primaryType": "Sports club",
+      "locality": "Malinao, Albay",
+      "lgus": [
+        "Malinao"
+      ],
+      "plusCode": "CM2H+CRX",
+      "coordinates": {
+        "lat": 13.4010164,
+        "lng": 123.6797687
+      },
+      "rating": 5,
+      "reviewsCount": 3,
+      "hours": "Open · Closes 5 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/Tanawan+Malinao+Albay/data=!4m7!3m6!1s0x33a1b10162ef8a13:0xc121b7b9c0695b64!8m2!3d13.4010164!4d123.6797687!16s%2Fg%2F11kq3j6284!19sChIJE4rvYgGxoTMRZFtpwLm3IcE"
+    },
+    {
+      "id": "f171255ab9851390",
+      "googleFeatureId": "11c2l3v0nl",
+      "slug": "the-concourse-convention-center",
+      "name": "The Concourse Convention Center",
+      "categories": [
+        "hotels",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Hotels",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Convention center",
+      "locality": "Tabaco City, Albay",
+      "lgus": [
+        "Tabaco City"
+      ],
+      "address": "National Highway",
+      "plusCode": "9P3J+GF2",
+      "coordinates": {
+        "lat": 13.3537613,
+        "lng": 123.731128
+      },
+      "rating": 3.9,
+      "reviewsCount": 33,
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Concourse+Convention+Center/data=!4m7!3m6!1s0x33a1adb64184c209:0xf171255ab9851390!8m2!3d13.3537613!4d123.731128!16s%2Fg%2F11c2l3v0nl!19sChIJCcKEQbatoTMRkBOFuVolcfE"
+    },
+    {
+      "id": "b36da10c734a19f6",
+      "googleFeatureId": "11tfh2z6jc",
+      "slug": "the-farm",
+      "name": "The Farm",
+      "categories": [
+        "resorts",
+        "events-and-venues"
+      ],
+      "categoryLabels": [
+        "Resorts",
+        "Events & Function Halls"
+      ],
+      "primaryType": "Convention center",
+      "locality": "Bacacay, Albay",
+      "lgus": [
+        "Bacacay"
+      ],
+      "address": "Purok- 3",
+      "coordinates": {
+        "lat": 13.3063833,
+        "lng": 123.7751197
+      },
+      "rating": 4.8,
+      "reviewsCount": 8,
+      "hours": "Open · Closes 11 PM",
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Farm/data=!4m7!3m6!1s0x33a1adceb17da36d:0xb36da10c734a19f6!8m2!3d13.3063833!4d123.7751197!16s%2Fg%2F11tfh2z6jc!19sChIJbaN9sc6toTMR9hlKcwyhbbM"
+    }
+  ]
+}

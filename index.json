@@ -1,0 +1,211 @@
+{
+  "name": "Albay places dataset",
+  "province": "Albay",
+  "source": "Google Maps place result cards",
+  "generatedAt": "2026-09-28T07:44:18.386Z",
+  "total": 2414,
+  "endpoints": {
+    "all": "places.json",
+    "byCategory": "by-category/{category}.json",
+    "byLgu": "by-lgu/{lgu-slug}.json"
+  },
+  "categories": [
+    {
+      "slug": "tourist-attractions",
+      "label": "Tourist Attractions",
+      "count": 552,
+      "path": "by-category/tourist-attractions.json"
+    },
+    {
+      "slug": "beaches",
+      "label": "Beaches & Islands",
+      "count": 484,
+      "path": "by-category/beaches.json"
+    },
+    {
+      "slug": "resorts",
+      "label": "Resorts",
+      "count": 690,
+      "path": "by-category/resorts.json"
+    },
+    {
+      "slug": "private-resorts",
+      "label": "Private Resorts",
+      "count": 486,
+      "path": "by-category/private-resorts.json"
+    },
+    {
+      "slug": "hotels",
+      "label": "Hotels",
+      "count": 707,
+      "path": "by-category/hotels.json"
+    },
+    {
+      "slug": "food",
+      "label": "Food & Restaurants",
+      "count": 840,
+      "path": "by-category/food.json"
+    },
+    {
+      "slug": "heritage",
+      "label": "Heritage & Religious Sites",
+      "count": 43,
+      "path": "by-category/heritage.json"
+    },
+    {
+      "slug": "nature-sanctuaries",
+      "label": "Nature Reserves & Sanctuaries",
+      "count": 25,
+      "path": "by-category/nature-sanctuaries.json"
+    },
+    {
+      "slug": "falls-and-springs",
+      "label": "Waterfalls & Hot Springs",
+      "count": 6,
+      "path": "by-category/falls-and-springs.json"
+    },
+    {
+      "slug": "hiking-and-camping",
+      "label": "Hiking & Camping",
+      "count": 26,
+      "path": "by-category/hiking-and-camping.json"
+    },
+    {
+      "slug": "adventure-activities",
+      "label": "Adventure & Water Activities",
+      "count": 0,
+      "path": "by-category/adventure-activities.json"
+    },
+    {
+      "slug": "staycations",
+      "label": "Staycations",
+      "count": 19,
+      "path": "by-category/staycations.json"
+    },
+    {
+      "slug": "homestays-and-farmstays",
+      "label": "Homestays & Farm Stays",
+      "count": 44,
+      "path": "by-category/homestays-and-farmstays.json"
+    },
+    {
+      "slug": "shopping-and-souvenirs",
+      "label": "Souvenirs & Pasalubong",
+      "count": 94,
+      "path": "by-category/shopping-and-souvenirs.json"
+    },
+    {
+      "slug": "events-and-venues",
+      "label": "Events & Function Halls",
+      "count": 19,
+      "path": "by-category/events-and-venues.json"
+    }
+  ],
+  "lgus": [
+    {
+      "name": "Legazpi City",
+      "count": 766,
+      "path": "by-lgu/legazpi-city.json"
+    },
+    {
+      "name": "Ligao City",
+      "count": 537,
+      "path": "by-lgu/ligao-city.json"
+    },
+    {
+      "name": "Tabaco City",
+      "count": 551,
+      "path": "by-lgu/tabaco-city.json"
+    },
+    {
+      "name": "Bacacay",
+      "count": 339,
+      "path": "by-lgu/bacacay.json"
+    },
+    {
+      "name": "Camalig",
+      "count": 465,
+      "path": "by-lgu/camalig.json"
+    },
+    {
+      "name": "Daraga",
+      "count": 394,
+      "path": "by-lgu/daraga.json"
+    },
+    {
+      "name": "Guinobatan",
+      "count": 282,
+      "path": "by-lgu/guinobatan.json"
+    },
+    {
+      "name": "Jovellar",
+      "count": 376,
+      "path": "by-lgu/jovellar.json"
+    },
+    {
+      "name": "Jovellanos",
+      "count": 379,
+      "path": "by-lgu/jovellanos.json"
+    },
+    {
+      "name": "Libon",
+      "count": 275,
+      "path": "by-lgu/libon.json"
+    },
+    {
+      "name": "Malilipot",
+      "count": 256,
+      "path": "by-lgu/malilipot.json"
+    },
+    {
+      "name": "Malinao",
+      "count": 201,
+      "path": "by-lgu/malinao.json"
+    },
+    {
+      "name": "Manito",
+      "count": 295,
+      "path": "by-lgu/manito.json"
+    },
+    {
+      "name": "Oas",
+      "count": 331,
+      "path": "by-lgu/oas.json"
+    },
+    {
+      "name": "Pio Duran",
+      "count": 268,
+      "path": "by-lgu/pio-duran.json"
+    },
+    {
+      "name": "Polangui",
+      "count": 349,
+      "path": "by-lgu/polangui.json"
+    },
+    {
+      "name": "Rapu-Rapu",
+      "count": 279,
+      "path": "by-lgu/rapu-rapu.json"
+    },
+    {
+      "name": "Santo Domingo",
+      "count": 286,
+      "path": "by-lgu/santo-domingo.json"
+    },
+    {
+      "name": "Tanauan",
+      "count": 175,
+      "path": "by-lgu/tanauan.json"
+    },
+    {
+      "name": "Tiwi",
+      "count": 116,
+      "path": "by-lgu/tiwi.json"
+    },
+    {
+      "name": "Tupas",
+      "count": 391,
+      "path": "by-lgu/tupas.json"
+    }
+  ]
+}
